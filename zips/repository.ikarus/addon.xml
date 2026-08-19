@@ -2,9 +2,9 @@
 <addon id="repository.ikarus" name="Ikarus Repository" version="1.0.1" provider-name="Kokutek Robin">
   <extension point="xbmc.addon.repository" name="Ikarus Repository">
     <dir minversion="19.0.0">
-      <info compressed="false">https://ajdamos.github.io/rep/zips/addons.xml</info>
-      <checksum>https://ajdamos.github.io/rep/zips/addons.xml.md5</checksum>
-      <datadir zip="true">https://ajdamos.github.io/rep/zips/</datadir>
+      <info compressed="false">https://raw.githubusercontent.com/Ajdamos/rep/main/zips/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/Ajdamos/rep/main/zips/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/Ajdamos/rep/main/zips/</datadir>
       <hashes>true</hashes>
     </dir>
   </extension>

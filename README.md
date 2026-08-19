@@ -9,7 +9,7 @@ Requires the repo to be **public** with **GitHub Pages** enabled
 (Settings → Pages → Deploy from branch → `main` / root).
 
 1. Settings → System → Add-ons → *Unknown sources* → on.
-2. Settings → File manager → Add source → `https://ajdamos.github.io/rep/zips/`
+2. Settings → File manager → Add source → `https://raw.githubusercontent.com/Ajdamos/rep/main/zips/`
    → name it `ikarus`.
 3. Add-ons → Install from zip file → `ikarus` → `repository.ikarus` →
    `repository.ikarus-1.0.1.zip`.
@@ -70,11 +70,11 @@ Kodi picks the change up on its next add-on update check (or force it with
 The fetch URLs live in [`repository.ikarus/addon.xml`](repository.ikarus/addon.xml):
 
 ```xml
-<info compressed="false">https://ajdamos.github.io/rep/zips/addons.xml</info>
-<checksum>https://ajdamos.github.io/rep/zips/addons.xml.md5</checksum>
-<datadir zip="true">https://ajdamos.github.io/rep/zips/</datadir>
+<info compressed="false">https://raw.githubusercontent.com/Ajdamos/rep/main/zips/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/Ajdamos/rep/main/zips/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/Ajdamos/rep/main/zips/</datadir>
 ```
 
 If you later enable GitHub Pages, swap the three URLs for
-`https://ajdamos.github.io/rep/zips/…`, bump the repository version, re-run
+`https://raw.githubusercontent.com/Ajdamos/rep/main/zips/…`, bump the repository version, re-run
 `make_repo.py` and re-distribute the repository zip.

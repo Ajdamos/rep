@@ -17,7 +17,7 @@ ZIPS = os.path.join(ROOT, "zips")
 
 # never packaged into an addon zip
 EXCLUDE_DIRS = {".git", ".github", "__pycache__", ".idea", ".vscode", "zips"}
-EXCLUDE_FILES = {".DS_Store", "Thumbs.db"}
+EXCLUDE_FILES = {".DS_Store", "Thumbs.db", "index.html"}
 EXCLUDE_EXT = {".pyc", ".pyo", ".zip", ".md5"}
 
 
@@ -73,9 +73,29 @@ def copy_assets(tree, src, out_dir):
             shutil.copy2(asset, os.path.join(out_dir, tag + os.path.splitext(asset)[1]))
 
 
+def write_index(directory, names):
+    """Apache-style listing so Kodi's HTTP browser can see the files.
+
+    Kodi's HTTP filesystem builds a directory listing by scraping <a href>
+    links out of whatever HTML the server returns for a directory URL.
+    GitHub Pages serves index.html for a directory, so this makes the repo
+    browsable from Kodi's 'Install from zip file' dialog.
+    """
+    rel = os.path.relpath(directory, ROOT).replace(os.sep, "/")
+    html = ["<!DOCTYPE html><html><head><title>Index of /%s</title></head><body>" % rel]
+    html.append("<h1>Index of /%s</h1><hr><pre>" % rel)
+    html.append('<a href="../">../</a>')
+    for name in sorted(names):
+        html.append('<a href="%s">%s</a>' % (name, name))
+    html.append("</pre><hr></body></html>")
+    with open(os.path.join(directory, "index.html"), "w", encoding="utf-8") as fh:
+        fh.write("\n".join(html) + "\n")
+
+
 def main():
     os.makedirs(ZIPS, exist_ok=True)
     entries = []
+    addon_dirs = []
 
     for name, src in addon_folders():
         tree = ET.parse(os.path.join(src, "addon.xml"))
@@ -91,11 +111,19 @@ def main():
         out, out_dir = build_zip(addon_id, version, src)
         copy_assets(tree, src, out_dir)
         entries.append(ET.tostring(root, encoding="unicode").strip())
+        addon_dirs.append(addon_id)
         print("packaged %s %s -> %s" % (addon_id, version, os.path.relpath(out, ROOT)))
 
     xml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<addons>\n'
     xml += "\n".join(entries)
     xml += "\n</addons>\n"
+
+    # listings for Kodi's HTTP directory browser
+    for addon_id in addon_dirs:
+        d = os.path.join(ZIPS, addon_id)
+        write_index(d, [n for n in os.listdir(d) if n != "index.html"])
+    write_index(ZIPS, sorted([a + "/" for a in addon_dirs] + ["addons.xml", "addons.xml.md5"]))
+    print("wrote directory listings (index.html)")
 
     for target in (ZIPS, ROOT):
         idx = os.path.join(target, "addons.xml")

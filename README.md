@@ -3,14 +3,25 @@
 Kodi repository hosted straight from this GitHub repo — Kodi fetches the files
 over `raw.githubusercontent.com`, so nothing besides a `git push` is needed.
 
-## Install in Kodi
+## Install in Kodi (straight from the server, no manual download)
 
-1. Download **[repository.ikarus-1.0.1.zip](zips/repository.ikarus/repository.ikarus-1.0.1.zip)**
-   (Kodi → *Add-ons → Install from zip file*). Enable *Unknown sources* first
-   (Settings → System → Add-ons).
-2. Then *Install from repository → Ikarus Repository → Video add-ons → Ikarus*.
+Requires the repo to be **public** with **GitHub Pages** enabled
+(Settings → Pages → Deploy from branch → `main` / root).
+
+1. Settings → System → Add-ons → *Unknown sources* → on.
+2. Settings → File manager → Add source → `https://ajdamos.github.io/rep/zips/`
+   → name it `ikarus`.
+3. Add-ons → Install from zip file → `ikarus` → `repository.ikarus` →
+   `repository.ikarus-1.0.1.zip`.
+4. Add-ons → Install from repository → Ikarus Repository → Video add-ons → Ikarus.
 
 Updates from then on are automatic.
+
+Step 2 works because `make_repo.py` writes an `index.html` into every served
+directory. Kodi's HTTP filesystem builds its listing by scraping `<a href>`
+links from whatever HTML the server returns for a directory URL — without
+those files Kodi shows an empty folder. `raw.githubusercontent.com` cannot be
+browsed this way at all; it 404s on directory paths.
 
 ## Layout
 
@@ -59,9 +70,9 @@ Kodi picks the change up on its next add-on update check (or force it with
 The fetch URLs live in [`repository.ikarus/addon.xml`](repository.ikarus/addon.xml):
 
 ```xml
-<info compressed="false">https://raw.githubusercontent.com/Ajdamos/rep/main/zips/addons.xml</info>
-<checksum>https://raw.githubusercontent.com/Ajdamos/rep/main/zips/addons.xml.md5</checksum>
-<datadir zip="true">https://raw.githubusercontent.com/Ajdamos/rep/main/zips/</datadir>
+<info compressed="false">https://ajdamos.github.io/rep/zips/addons.xml</info>
+<checksum>https://ajdamos.github.io/rep/zips/addons.xml.md5</checksum>
+<datadir zip="true">https://ajdamos.github.io/rep/zips/</datadir>
 ```
 
 If you later enable GitHub Pages, swap the three URLs for

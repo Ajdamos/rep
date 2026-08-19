@@ -1,0 +1,3230 @@
+# Kodi Media Center language file
+# Addon Name: Ikarus - WebShare
+# Addon id: plugin.video.ikarus
+
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en_GB\n"
+
+msgctxt "#30010"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "#30011"
+msgid "Category"
+msgstr "Category"
+
+msgctxt "#30012"
+msgid "Everything"
+msgstr "Everything"
+
+msgctxt "#30013"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#30014"
+msgid "Images"
+msgstr "Images"
+
+msgctxt "#30015"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "#30016"
+msgid "Archives"
+msgstr "Archives"
+
+msgctxt "#30017"
+msgid "Documents"
+msgstr "Documents"
+
+msgctxt "#30018"
+msgid "Adult"
+msgstr "Adult"
+
+msgctxt "#30020"
+msgid "Sort"
+msgstr "Sort"
+
+msgctxt "#30021"
+msgid "Relevance"
+msgstr "Relevance"
+
+msgctxt "#30022"
+msgid "Recent"
+msgstr "Recent"
+
+msgctxt "#30024"
+msgid "Largest"
+msgstr "Largest"
+
+msgctxt "#30025"
+msgid "Smallest"
+msgstr "Smallest"
+
+msgctxt "#30028"
+msgid "Results on page"
+msgstr "Results on page"
+
+msgctxt "#30030"
+msgid "Account"
+msgstr "Account"
+
+msgctxt "#30031"
+msgid "Username"
+msgstr "Username"
+
+msgctxt "#30032"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "#30060"
+msgid "Show Prehraj.to"
+msgstr "Show Prehraj.to"
+
+msgctxt "#30061"
+msgid "Show Hellspy"
+msgstr "Show Hellspy"
+
+msgctxt "#30062"
+msgid "Show SkTonLine"
+msgstr "Show SkTonLine"
+
+msgctxt "#30063"
+msgid "Show WebShare"
+msgstr "Show WebShare"
+
+msgctxt "#30064"
+msgid "API token"
+msgstr "API token"
+
+msgctxt "#30065"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "#30066"
+msgid "Refresh token"
+msgstr "Refresh token"
+
+msgctxt "#30067"
+msgid "Use CSFD posters and plots"
+msgstr "Use CSFD posters and plots"
+
+msgctxt "#30068"
+msgid "Library"
+msgstr "Library"
+
+msgctxt "#30069"
+msgid "Movie source sorting"
+msgstr "Movie source sorting"
+
+msgctxt "#30070"
+msgid "Ascending"
+msgstr "Ascending (smallest-largest)"
+
+msgctxt "#30071"
+msgid "Descending"
+msgstr "Descending (largest-smallest)"
+
+msgctxt "#30072"
+msgid "Duplicate sources per item"
+msgstr "Duplicate sources per item"
+
+msgctxt "#30204"
+msgid "Settings"
+msgstr "Settings"
+
+msgctxt "#30220"
+msgid "Database"
+msgstr "Database"
+
+msgctxt "#30221"
+msgid "Enable database backup"
+msgstr "Enable database backup"
+
+msgctxt "#30222"
+msgid "Backup target"
+msgstr "Backup target"
+
+msgctxt "#30223"
+msgid "Disk"
+msgstr "Disk"
+
+msgctxt "#30224"
+msgid "WebShare"
+msgstr "WebShare"
+
+msgctxt "#30225"
+msgid "Backup folder"
+msgstr "Backup folder"
+
+msgctxt "#30226"
+msgid "WebShare state"
+msgstr "WebShare state"
+
+msgctxt "#30230"
+msgid "Downloads"
+msgstr "Downloads"
+
+msgctxt "#30231"
+msgid "Enable downloads"
+msgstr "Enable downloads"
+
+msgctxt "#30232"
+msgid "Download folder"
+msgstr "Download folder"
+
+msgctxt "#30233"
+msgid "Overwrite existing file"
+msgstr "Overwrite existing file"
+
+msgctxt "#30234"
+msgid "Ask before renaming file"
+msgstr "Ask before renaming file"
+
+msgctxt "#30300"
+msgid "Movies"
+msgstr "Movies"
+
+msgctxt "#30301"
+msgid "Series"
+msgstr "Series"
+
+msgctxt "#30302"
+msgid "People"
+msgstr "People"
+
+msgctxt "#30303"
+msgid "Trending"
+msgstr "Trending"
+
+msgctxt "#30304"
+msgid "Watched"
+msgstr "Watched"
+
+msgctxt "#30305"
+msgid "In progress"
+msgstr "In progress"
+
+msgctxt "#30306"
+msgid "My lists"
+msgstr "My lists"
+
+msgctxt "#30307"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "#30308"
+msgid "Download queue"
+msgstr "Download queue"
+
+msgctxt "#30309"
+msgid "Manual source search"
+msgstr "Manual search on Přehraj.to/Hellspy/SkTonLine/WebShare"
+
+msgctxt "#30310"
+msgid "Settings"
+msgstr "Settings"
+
+msgctxt "#30311"
+msgid "Smart lists"
+msgstr "Smart lists"
+
+msgctxt "#30312"
+msgid "Trakt.TV lists"
+msgstr "Trakt.TV lists"
+
+msgctxt "#30313"
+msgid "Section could not be loaded. Details are in kodi.log."
+msgstr "Section could not be loaded. Details are in kodi.log."
+
+msgctxt "#30314"
+msgid "The plugin will not start without confirming the information notice."
+msgstr "The plugin will not start without confirming the information notice."
+
+msgctxt "#30315"
+msgid "Update check has started."
+msgstr "Update check has started."
+
+msgctxt "#30400"
+msgid "News"
+msgstr "News"
+
+msgctxt "#30401"
+msgid "Popular"
+msgstr "Popular"
+
+msgctxt "#30402"
+msgid "Top rated"
+msgstr "Top rated"
+
+msgctxt "#30403"
+msgid "By genre"
+msgstr "By genre"
+
+msgctxt "#30404"
+msgid "By year"
+msgstr "By year"
+
+msgctxt "#30405"
+msgid "By origin country"
+msgstr "By origin country"
+
+msgctxt "#30406"
+msgid "By original language"
+msgstr "By original language"
+
+msgctxt "#30407"
+msgid "Watched movies"
+msgstr "Watched movies"
+
+msgctxt "#30408"
+msgid "In-progress movies"
+msgstr "In-progress movies"
+
+msgctxt "#30409"
+msgid "On TV today"
+msgstr "On TV today"
+
+msgctxt "#30410"
+msgid "Watched series"
+msgstr "Watched series"
+
+msgctxt "#30411"
+msgid "In-progress series"
+msgstr "In-progress series"
+
+msgctxt "#30412"
+msgid "Movies today"
+msgstr "Movies / Today"
+
+msgctxt "#30413"
+msgid "Movies this week"
+msgstr "Movies / This week"
+
+msgctxt "#30414"
+msgid "Series today"
+msgstr "Series / Today"
+
+msgctxt "#30415"
+msgid "Series this week"
+msgstr "Series / This week"
+
+msgctxt "#30416"
+msgid "People today"
+msgstr "People / Today"
+
+msgctxt "#30417"
+msgid "People this week"
+msgstr "People / This week"
+
+msgctxt "#30418"
+msgid "New search"
+msgstr "New search"
+
+msgctxt "#30419"
+msgid "Search history"
+msgstr "Search history"
+
+msgctxt "#30420"
+msgid "Clear history"
+msgstr "[Clear history]"
+
+msgctxt "#30421"
+msgid "Search history is empty"
+msgstr "Search history is empty"
+
+msgctxt "#30422"
+msgid "Search history was cleared"
+msgstr "Search history was cleared."
+
+msgctxt "#30423"
+msgid "Home"
+msgstr "Home"
+
+msgctxt "#30424"
+msgid "Home: Movie"
+msgstr "Home: Movie"
+
+msgctxt "#30425"
+msgid "Home: Series"
+msgstr "Home: Series"
+
+msgctxt "#30426"
+msgid "No saved items in this section"
+msgstr "No saved items in this section"
+
+msgctxt "#30427"
+msgid "Add to favorites"
+msgstr "Add to favorites"
+
+msgctxt "#30428"
+msgid "Add to Trakt list"
+msgstr "Add to Trakt list"
+
+msgctxt "#30429"
+msgid "Trakt.TV lists"
+msgstr "Trakt.TV lists"
+
+msgctxt "#30430"
+msgid "Public lists"
+msgstr "Public lists"
+
+msgctxt "#30431"
+msgid "Favorite public lists"
+msgstr "Favorite public lists"
+
+msgctxt "#30500"
+msgid "Settings"
+msgstr "Settings"
+
+msgctxt "#30501"
+msgid "[B][COLOR skyblue]Source providers[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]Source providers[/COLOR][/B]"
+
+msgctxt "#30502"
+msgid "Prehraj.to"
+msgstr "Prehraj.to"
+
+msgctxt "#30503"
+msgid "Hellspy"
+msgstr "Hellspy"
+
+msgctxt "#30504"
+msgid "SkTonLine"
+msgstr "SkTonLine"
+
+msgctxt "#30505"
+msgid "WebShare"
+msgstr "WebShare"
+
+msgctxt "#30506"
+msgid "[B][COLOR skyblue]Prehraj.to account[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]Prehraj.to account[/COLOR][/B]"
+
+msgctxt "#30507"
+msgid "Prehraj.to e-mail"
+msgstr "Prehraj.to e-mail"
+
+msgctxt "#30508"
+msgid "Prehraj.to password"
+msgstr "Prehraj.to password"
+
+msgctxt "#30509"
+msgid "[B][COLOR skyblue]WebShare account settings[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]WebShare account settings[/COLOR][/B]"
+
+msgctxt "#30510"
+msgid "Username"
+msgstr "Username"
+
+msgctxt "#30511"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "#30512"
+msgid "API Token"
+msgstr "API Token"
+
+msgctxt "#30513"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "#30514"
+msgid "[B][COLOR skyblue]                                                Refresh token[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]                                                Refresh token[/COLOR][/B]"
+
+msgctxt "#30515"
+msgid "[B][COLOR skyblue]Search[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]Search[/COLOR][/B]"
+
+msgctxt "#30516"
+msgid "Category"
+msgstr "Category"
+
+msgctxt "#30517"
+msgid "Sort"
+msgstr "Sort"
+
+msgctxt "#30518"
+msgid "Results per page"
+msgstr "Results per page"
+
+msgctxt "#30519"
+msgid "All"
+msgstr "All"
+
+msgctxt "#30520"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#30521"
+msgid "Images"
+msgstr "Images"
+
+msgctxt "#30522"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "#30523"
+msgid "Archives"
+msgstr "Archives"
+
+msgctxt "#30524"
+msgid "Docs"
+msgstr "Docs"
+
+msgctxt "#30525"
+msgid "Adult"
+msgstr "Adult"
+
+msgctxt "#30526"
+msgid "Relevance"
+msgstr "Relevance"
+
+msgctxt "#30527"
+msgid "Newest"
+msgstr "Newest"
+
+msgctxt "#30528"
+msgid "Largest"
+msgstr "Largest"
+
+msgctxt "#30529"
+msgid "Smallest"
+msgstr "Smallest"
+
+msgctxt "#30530"
+msgid "Trakt.TV"
+msgstr "Trakt.TV"
+
+msgctxt "#30531"
+msgid "Connection status"
+msgstr "Connection status"
+
+msgctxt "#30532"
+msgid "Trakt account"
+msgstr "Trakt account"
+
+msgctxt "#30533"
+msgid "[B][COLOR skyblue]                                                Activate Trakt.TV[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]                                                Activate Trakt.TV[/COLOR][/B]"
+
+msgctxt "#30534"
+msgid "Activation page"
+msgstr "Activation page"
+
+msgctxt "#30535"
+msgid "Token validity"
+msgstr "Token validity"
+
+msgctxt "#30536"
+msgid "Created"
+msgstr "Created"
+
+msgctxt "#30537"
+msgid "Series"
+msgstr "Series"
+
+msgctxt "#30538"
+msgid "[B][COLOR skyblue]TMDB - next episode[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]TMDB - next episode[/COLOR][/B]"
+
+msgctxt "#30539"
+msgid "Enable continuing to next episode"
+msgstr "Enable continuing to next episode"
+
+msgctxt "#30540"
+msgid "Continue with next episode"
+msgstr "Continue with next episode"
+
+msgctxt "#30541"
+msgid "Continue automatically"
+msgstr "Continue automatically"
+
+msgctxt "#30542"
+msgid "Show selection dialog"
+msgstr "Show selection dialog"
+
+msgctxt "#30543"
+msgid "Prefer same source as current episode"
+msgstr "Prefer same source as current episode"
+
+msgctxt "#30544"
+msgid "Automatically play only CZ/SK dubbed source"
+msgstr "Automatically play only CZ/SK dubbed source"
+
+msgctxt "#30545"
+msgid "Downloads"
+msgstr "Downloads"
+
+msgctxt "#30546"
+msgid "Enable source downloads"
+msgstr "Enable source downloads"
+
+msgctxt "#30547"
+msgid "Download target folder"
+msgstr "Download target folder"
+
+msgctxt "#30548"
+msgid "Overwrite existing file"
+msgstr "Overwrite existing file"
+
+msgctxt "#30549"
+msgid "Offer filename edit before downloading"
+msgstr "Offer filename edit before downloading"
+
+msgctxt "#30550"
+msgid "Other settings"
+msgstr "Other settings"
+
+msgctxt "#30551"
+msgid "[B][COLOR skyblue]Other settings and Ikarus plugin info[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]Other settings and Ikarus plugin info[/COLOR][/B]"
+
+msgctxt "#30552"
+msgid "Primary audio track (language)"
+msgstr "Primary audio track (language)"
+
+msgctxt "#30553"
+msgid "Secondary audio track (language)"
+msgstr "Secondary audio track (language)"
+
+msgctxt "#30554"
+msgid "Enable subtitles for source"
+msgstr "Enable subtitles for source"
+
+msgctxt "#30555"
+msgid "[B][COLOR skyblue]Information notice[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]Information notice[/COLOR][/B]"
+
+msgctxt "#30556"
+msgid "Do not show information notice on startup anymore"
+msgstr "Do not show information notice on startup anymore"
+
+msgctxt "#30557"
+msgid "[B][COLOR white]                                Show information notice[/COLOR][/B]"
+msgstr "[B][COLOR white]                                Show information notice[/COLOR][/B]"
+
+msgctxt "#30558"
+msgid "Accepted notice version"
+msgstr "Accepted notice version"
+
+msgctxt "#30559"
+msgid "[B][COLOR white]                                                Version info[/COLOR][/B]"
+msgstr "[B][COLOR white]                                                Version info[/COLOR][/B]"
+
+msgctxt "#30560"
+msgid "[B][COLOR white]                                                Run diagnostics[/COLOR][/B]"
+msgstr "[B][COLOR white]                                                Run diagnostics[/COLOR][/B]"
+
+msgctxt "#30561"
+msgid "[B][COLOR white]                                Check for updates[/COLOR][/B]"
+msgstr "[B][COLOR white]                                Check for updates[/COLOR][/B]"
+
+msgctxt "#30562"
+msgid "Client ID"
+msgstr "Client ID"
+
+msgctxt "#30563"
+msgid "Client Secret"
+msgstr "Client Secret"
+
+msgctxt "#30564"
+msgid "Access token"
+msgstr "Access token"
+
+msgctxt "#30565"
+msgid "Refresh token"
+msgstr "Refresh token"
+
+msgctxt "#30566"
+msgid "Token type"
+msgstr "Token type"
+
+msgctxt "#30567"
+msgid "Show next episode diagnostics"
+msgstr "Show next episode diagnostics"
+
+msgctxt "#30600"
+msgid "[New search]"
+msgstr "[New search]"
+
+msgctxt "#30601"
+msgid "[Refresh from web]"
+msgstr "[Refresh from web]"
+
+msgctxt "#30602"
+msgid "Prehraj.to - enter search query"
+msgstr "Prehraj.to - enter search query"
+
+msgctxt "#30603"
+msgid "Hellspy - enter search query"
+msgstr "Hellspy - enter search query"
+
+msgctxt "#30604"
+msgid "SkTonLine - enter search query"
+msgstr "SkTonLine - enter search query"
+
+msgctxt "#30605"
+msgid "More Prehraj.to pages require web login."
+msgstr "More Prehraj.to pages require web login."
+
+msgctxt "#30606"
+msgid "Nothing found."
+msgstr "Nothing found."
+
+msgctxt "#30607"
+msgid "<< Previous page"
+msgstr "<< Previous page"
+
+msgctxt "#30608"
+msgid "Next page >>"
+msgstr "Next page >>"
+
+msgctxt "#30609"
+msgid "Loaded from web: {pages} pages"
+msgstr "Loaded from web: {pages} pages"
+
+msgctxt "#30610"
+msgid "More results >>"
+msgstr "More results >>"
+
+msgctxt "#30612"
+msgid "Size"
+msgstr "Size"
+
+msgctxt "#30613"
+msgid "Length"
+msgstr "Length"
+
+msgctxt "#30700"
+msgid "Downloads"
+msgstr "Downloads"
+
+msgctxt "#30701"
+msgid "Downloads are disabled in settings."
+msgstr "Downloads are disabled in settings."
+
+msgctxt "#30702"
+msgid "Download target folder is not set."
+msgstr "Download target folder is not set."
+
+msgctxt "#30703"
+msgid "Could not create / open target folder:\n{path}"
+msgstr "Could not create / open target folder:\n{path}"
+
+msgctxt "#30704"
+msgid "Missing WebShare file identifier."
+msgstr "Missing WebShare file identifier."
+
+msgctxt "#30705"
+msgid "Could not get a direct download link.\n\nProvider: {provider}\nID: {id}\nURL: {url}"
+msgstr "Could not get a direct download link.\n\nProvider: {provider}\nID: {id}\nURL: {url}"
+
+msgctxt "#30706"
+msgid "File name"
+msgstr "File name"
+
+msgctxt "#30707"
+msgid "File already exists:\n{file}\n\nOverwrite it?"
+msgstr "File already exists:\n{file}\n\nOverwrite it?"
+
+msgctxt "#30708"
+msgid "Added to queue: {file}"
+msgstr "Added to queue: {file}"
+
+msgctxt "#30709"
+msgid "Removed finished items: {count}"
+msgstr "Removed finished items: {count}"
+
+msgctxt "#30710"
+msgid "Queue was cleared: {count} items."
+msgstr "Queue was cleared: {count} items."
+
+msgctxt "#30711"
+msgid "Running download was stopped."
+msgstr "Running download was stopped."
+
+msgctxt "#30712"
+msgid "Downloads / Queue"
+msgstr "Downloads / Queue"
+
+msgctxt "#30713"
+msgid "Clear finished"
+msgstr "Clear finished"
+
+msgctxt "#30714"
+msgid "Clear all"
+msgstr "Clear all"
+
+msgctxt "#30715"
+msgid "[B]Currently downloading:[/B] {title}  [{progress}%]"
+msgstr "[B]Currently downloading:[/B] {title}  [{progress}%]"
+
+msgctxt "#30716"
+msgid "[B]Currently downloading:[/B] nothing"
+msgstr "[B]Currently downloading:[/B] nothing"
+
+msgctxt "#30717"
+msgid "Queued: {queued} | Downloading: {downloading} | Done: {done} | Error: {error}"
+msgstr "Queued: {queued} | Downloading: {downloading} | Done: {done} | Error: {error}"
+
+msgctxt "#30718"
+msgid "Queue is empty."
+msgstr "Queue is empty."
+
+msgctxt "#30719"
+msgid "[DOWNLOADING] {title} [{progress}%]"
+msgstr "[DOWNLOADING] {title} [{progress}%]"
+
+msgctxt "#30720"
+msgid "[QUEUED] {title}"
+msgstr "[QUEUED] {title}"
+
+msgctxt "#30721"
+msgid "[DONE] {title}"
+msgstr "[DONE] {title}"
+
+msgctxt "#30722"
+msgid "[ERROR] {title}"
+msgstr "[ERROR] {title}"
+
+msgctxt "#30723"
+msgid "TMDB / Image"
+msgstr "TMDB / Image"
+
+msgctxt "#30724"
+msgid "Missing image URL."
+msgstr "Missing image URL."
+
+msgctxt "#30725"
+msgid "Saved: {file}"
+msgstr "Saved: {file}"
+
+msgctxt "#30726"
+msgid "Image could not be downloaded:\n{error}"
+msgstr "Image could not be downloaded:\n{error}"
+
+msgctxt "#30727"
+msgid "Select quality"
+msgstr "Select quality"
+
+msgctxt "#30728"
+msgid "Source"
+msgstr "Source"
+
+msgctxt "#30729"
+msgid "{provider} sources"
+msgstr "{provider} sources"
+
+msgctxt "#30730"
+msgid "Source group is no longer available. Try refreshing sources."
+msgstr "Source group is no longer available. Try refreshing sources."
+
+msgctxt "#30731"
+msgid "Sources"
+msgstr "Sources"
+
+msgctxt "#30732"
+msgid "Missing provider."
+msgstr "Missing provider."
+
+msgctxt "#30733"
+msgid "Missing file identifier."
+msgstr "Missing file identifier."
+
+msgctxt "#30734"
+msgid "Unknown provider: {provider}"
+msgstr "Unknown provider: {provider}"
+
+msgctxt "#30735"
+msgid "(unknown action: {action})"
+msgstr "(unknown action: {action})"
+
+msgctxt "#30736"
+msgid "(missing required parameter: {name})"
+msgstr "(missing required parameter: {name})"
+
+msgctxt "#30737"
+msgid "Download source"
+msgstr "Download source"
+
+msgctxt "#30738"
+msgid "Sources / Results / {title}"
+msgstr "Sources / Results / {title}"
+
+msgctxt "#30739"
+msgid "All"
+msgstr "All"
+
+msgctxt "#30740"
+msgid "Search all enabled providers in sequence\nQuery: {query}"
+msgstr "Search all enabled providers in sequence\nQuery: {query}"
+
+msgctxt "#30741"
+msgid "Search on {provider}\nQuery: {query}"
+msgstr "Search on {provider}\nQuery: {query}"
+
+msgctxt "#30742"
+msgid "No provider is enabled"
+msgstr "No provider is enabled"
+
+msgctxt "#30743"
+msgid "Enable at least one provider in add-on settings."
+msgstr "Enable at least one provider in add-on settings."
+
+msgctxt "#30744"
+msgid "Search error"
+msgstr "Search error"
+
+msgctxt "#30745"
+msgid "Refresh sources"
+msgstr "Refresh sources"
+
+msgctxt "#30746"
+msgid "Force a new search and overwrite cached results."
+msgstr "Force a new search and overwrite cached results."
+
+msgctxt "#30747"
+msgid "Nothing found"
+msgstr "Nothing found"
+
+msgctxt "#30748"
+msgid "Untitled"
+msgstr "Untitled"
+
+msgctxt "#30749"
+msgid "source"
+msgstr "source"
+
+msgctxt "#30750"
+msgid "sources"
+msgstr "sources"
+
+msgctxt "#30751"
+msgid "sources"
+msgstr "sources"
+
+msgctxt "#30752"
+msgid "■ {provider} - found {count} {count_word}"
+msgstr "■ {provider} - found {count} {count_word}"
+
+msgctxt "#30753"
+msgid "Provider: {provider}\nFound: {count}"
+msgstr "Provider: {provider}\nFound: {count}"
+
+msgctxt "#30754"
+msgid "Provider: {provider}\nQuery: {query}\nError: {error}"
+msgstr "Provider: {provider}\nQuery: {query}\nError: {error}"
+
+msgctxt "#30755"
+msgid "Provider: {provider}\nQuery: {query}\n{message}"
+msgstr "Provider: {provider}\nQuery: {query}\n{message}"
+
+msgctxt "#30756"
+msgid "Provider: {provider}\nQuery: {query}\nTitle: {title}\nOriginal title: {original_title}\nYear: {year}\nMode: {mode}\nSeason: {season}\nEpisode: {episode}\nEpisode title: {episode_title}\n\nDebug dump: {debug_dump}\nDebug info: {debug_info}"
+msgstr "Provider: {provider}\nQuery: {query}\nTitle: {title}\nOriginal title: {original_title}\nYear: {year}\nMode: {mode}\nSeason: {season}\nEpisode: {episode}\nEpisode title: {episode_title}\n\nDebug dump: {debug_dump}\nDebug info: {debug_info}"
+
+msgctxt "#30757"
+msgid "Possible matches only by episode title [{count} {count_word}]"
+msgstr "Possible matches only by episode title [{count} {count_word}]"
+
+msgctxt "#30758"
+msgid "Sources contain the episode title, or possibly the correct numbering, but not a strong series title match. They are not deleted, only hidden below."
+msgstr "Sources contain the episode title, or possibly the correct numbering, but not a strong series title match. They are not deleted, only hidden below."
+
+msgctxt "#30759"
+msgid "Source did not return a video file, but '{content_type}'"
+msgstr "Source did not return a video file, but '{content_type}'"
+
+msgctxt "#30760"
+msgid "Downloaded file is suspiciously small ({downloaded} B)"
+msgstr "Downloaded file is suspiciously small ({downloaded} B)"
+
+msgctxt "#30761"
+msgid "Download is incomplete: {downloaded} B of expected {total} B"
+msgstr "Download is incomplete: {downloaded} B of expected {total} B"
+
+msgctxt "#30762"
+msgid "Invalid job"
+msgstr "Invalid job"
+
+msgctxt "#30763"
+msgid "WebShare job is missing source_id"
+msgstr "WebShare job is missing source_id"
+
+msgctxt "#30764"
+msgid "Failed to get a fresh WebShare download link"
+msgstr "Failed to get a fresh WebShare download link"
+
+msgctxt "#30765"
+msgid "Missing resolved_url"
+msgstr "Missing resolved_url"
+
+msgctxt "#30766"
+msgid "Restored after interrupted download"
+msgstr "Restored after interrupted download"
+
+msgctxt "#30767"
+msgid "The download queue could not be saved."
+msgstr "The download queue could not be saved."
+
+msgctxt "#30800"
+msgid "Ikarus - WebShare"
+msgstr "Ikarus - WebShare"
+
+msgctxt "#30801"
+msgid "Fill in username and password in settings."
+msgstr "Fill in username and password in settings."
+
+msgctxt "#30802"
+msgid "Token was refreshed successfully."
+msgstr "Token was refreshed successfully."
+
+msgctxt "#30803"
+msgid "Login failed (bad credentials or outage)."
+msgstr "Login failed (bad credentials or outage)."
+
+msgctxt "#30804"
+msgid "Unexpected error while refreshing token."
+msgstr "Unexpected error while refreshing token."
+
+msgctxt "#30810"
+msgid "Ikarus - Trakt.TV"
+msgstr "Ikarus - Trakt.TV"
+
+msgctxt "#30811"
+msgid "Connected as {username}"
+msgstr "Connected as {username}"
+
+msgctxt "#30812"
+msgid "Connected."
+msgstr "Connected."
+
+msgctxt "#30813"
+msgid "Connection check failed."
+msgstr "Connection check failed."
+
+msgctxt "#30814"
+msgid "Trakt.TV username alone is not enough.\n\nThe activation code can only be generated by a registered Trakt application. Once Ikarus application credentials are filled in, clicking the button will show the code for https://trakt.tv/activate."
+msgstr "Trakt.TV username alone is not enough.\n\nThe activation code can only be generated by a registered Trakt application. Once Ikarus application credentials are filled in, clicking the button will show the code for https://trakt.tv/activate."
+
+msgctxt "#30815"
+msgid "Could not get login code."
+msgstr "Could not get login code."
+
+msgctxt "#30816"
+msgid "Trakt did not return a login code."
+msgstr "Trakt did not return a login code."
+
+msgctxt "#30817"
+msgid "Ikarus - Trakt.TV / Device activation"
+msgstr "Ikarus - Trakt.TV / Device activation"
+
+msgctxt "#30818"
+msgid "Open {url}\nEnter code: {code}\nWaiting for browser confirmation..."
+msgstr "Open {url}\nEnter code: {code}\nWaiting for browser confirmation..."
+
+msgctxt "#30819"
+msgid "Open {url}\nEnter code: {code}\nThe window will close after activation."
+msgstr "Open {url}\nEnter code: {code}\nThe window will close after activation."
+
+msgctxt "#30820"
+msgid "Login code expired."
+msgstr "Login code expired."
+
+msgctxt "#30821"
+msgid "Trakt did not return a valid token."
+msgstr "Trakt did not return a valid token."
+
+msgctxt "#30822"
+msgid "Device connected as {username}"
+msgstr "Device connected as {username}"
+
+msgctxt "#30823"
+msgid "Device was connected."
+msgstr "Device was connected."
+
+msgctxt "#30824"
+msgid "Trakt account was disconnected."
+msgstr "Trakt account was disconnected."
+
+msgctxt "#30900"
+msgid "Ikarus"
+msgstr "Ikarus"
+
+msgctxt "#30901"
+msgid "Source cache is empty."
+msgstr "Source cache is empty."
+
+msgctxt "#30902"
+msgid "Delete temporary source cache?\n\nFiles: {count}"
+msgstr "Delete temporary source cache?\n\nFiles: {count}"
+
+msgctxt "#30903"
+msgid "Source cache: deleted {deleted}, failed {failed}"
+msgstr "Source cache: deleted {deleted}, failed {failed}"
+
+msgctxt "#30904"
+msgid "Ikarus diagnostics"
+msgstr "Ikarus diagnostics"
+
+msgctxt "#30905"
+msgid "Ikarus - information notice"
+msgstr "Ikarus - information notice"
+
+msgctxt "#30906"
+msgid "To start the plugin, you must confirm the information notice.\n\nDo you agree with this information?"
+msgstr "To start the plugin, you must confirm the information notice.\n\nDo you agree with this information?"
+
+msgctxt "#30907"
+msgid "I do not agree"
+msgstr "I do not agree"
+
+msgctxt "#30908"
+msgid "I agree"
+msgstr "I agree"
+
+msgctxt "#30909"
+msgid ""
+"[B]Welcome to Ikarus.[/B]\n"
+"\n"
+"The Ikarus plugin is only a search and information tool connecting publicly available internet sources and third-party services.\n"
+"It does not contain any multimedia content of its own, media database, or stored data protected by copyright.\n"
+"All information and links are obtained from publicly available internet sources.\n"
+"\n"
+"The plugin was developed primarily for private, educational, and testing purposes.\n"
+"Installation and use of the plugin is completely voluntary and every user uses it solely at their own responsibility.\n"
+"\n"
+"The plugin may communicate with external internet services to obtain publicly available data, links, and metadata.\n"
+"Availability of individual functions depends on external services and may change at any time without influence from the plugin author.\n"
+"\n"
+"The plugin author does not operate any of the external services and is not associated with third-party content providers.\n"
+"The author is not responsible for external website content, service availability, API changes, broken sources, or how the user handles found data, links, or information.\n"
+"\n"
+"Search results are not manually checked, filtered, or approved by the plugin author.\n"
+"The user is obliged to comply with the laws of their country and respect licenses and third-party copyrights.\n"
+"\n"
+"Some service names, logos, and trademarks used in the plugin are property of their respective owners.\n"
+"The Ikarus plugin is not officially connected with them or supported by their operators.\n"
+"\n"
+"The plugin author provides no warranty of functionality and is not responsible for possible damages, data loss, device restrictions, service restrictions, account blocking, or any other consequences arising from use of the Ikarus plugin.\n"
+"Plugin support may be changed, limited, or terminated at any time.\n"
+"\n"
+"By using the plugin, the user confirms that they agree with this information."
+msgstr ""
+"[B]Welcome to Ikarus.[/B]\n"
+"\n"
+"The Ikarus plugin is only a search and information tool connecting publicly available internet sources and third-party services.\n"
+"It does not contain any multimedia content of its own, media database, or stored data protected by copyright.\n"
+"All information and links are obtained from publicly available internet sources.\n"
+"\n"
+"The plugin was developed primarily for private, educational, and testing purposes.\n"
+"Installation and use of the plugin is completely voluntary and every user uses it solely at their own responsibility.\n"
+"\n"
+"The plugin may communicate with external internet services to obtain publicly available data, links, and metadata.\n"
+"Availability of individual functions depends on external services and may change at any time without influence from the plugin author.\n"
+"\n"
+"The plugin author does not operate any of the external services and is not associated with third-party content providers.\n"
+"The author is not responsible for external website content, service availability, API changes, broken sources, or how the user handles found data, links, or information.\n"
+"\n"
+"Search results are not manually checked, filtered, or approved by the plugin author.\n"
+"The user is obliged to comply with the laws of their country and respect licenses and third-party copyrights.\n"
+"\n"
+"Some service names, logos, and trademarks used in the plugin are property of their respective owners.\n"
+"The Ikarus plugin is not officially connected with them or supported by their operators.\n"
+"\n"
+"The plugin author provides no warranty of functionality and is not responsible for possible damages, data loss, device restrictions, service restrictions, account blocking, or any other consequences arising from use of the Ikarus plugin.\n"
+"Plugin support may be changed, limited, or terminated at any time.\n"
+"\n"
+"By using the plugin, the user confirms that they agree with this information."
+
+msgctxt "#30912"
+msgid "GitHub Gist"
+msgstr "GitHub Gist"
+
+msgctxt "#30910"
+msgid "{progress}% - {title}"
+msgstr "{progress}% - {title}"
+
+msgctxt "#30911"
+msgid "Downloaded: {title}"
+msgstr "Downloaded: {title}"
+
+msgctxt "#31000"
+msgid "New search"
+msgstr "New search"
+
+msgctxt "#31001"
+msgid "Search history"
+msgstr "Search history"
+
+msgctxt "#31002"
+msgid "Newest on WebShare"
+msgstr "Newest on WebShare"
+
+msgctxt "#31003"
+msgid "Largest on WebShare"
+msgstr "Largest on WebShare"
+
+msgctxt "#31004"
+msgid "Enter search query"
+msgstr "Enter search query"
+
+msgctxt "#31005"
+msgid "[Clear history]"
+msgstr "[Clear history]"
+
+msgctxt "#31006"
+msgid "History is empty."
+msgstr "History is empty."
+
+msgctxt "#31007"
+msgid "History cleared."
+msgstr "History cleared."
+
+msgctxt "#31008"
+msgid "Back: Search movie"
+msgstr "Back: Search movie"
+
+msgctxt "#31009"
+msgid "[Refresh from web]  [COLOR gray](page {page})[/COLOR]"
+msgstr "[Refresh from web]  [COLOR gray](page {page})[/COLOR]"
+
+msgctxt "#31010"
+msgid "<< Previous page"
+msgstr "<< Previous page"
+
+msgctxt "#31011"
+msgid "Show detail"
+msgstr "Show detail"
+
+msgctxt "#31012"
+msgid "Next page >>"
+msgstr "Next page >>"
+
+msgctxt "#31013"
+msgid "API /search error: {error}"
+msgstr "API /search error: {error}"
+
+msgctxt "#31014"
+msgid "API /file_info error: {error}"
+msgstr "API /file_info error: {error}"
+
+msgctxt "#31015"
+msgid "Name:\n  {name}\n\nSize:\n  {size}\n\nMIME:\n  {mime}\n\nLink:\n  {link}\n"
+msgstr "Name:\n  {name}\n\nSize:\n  {size}\n\nMIME:\n  {mime}\n\nLink:\n  {link}\n"
+
+msgctxt "#31016"
+msgid "File detail"
+msgstr "File detail"
+
+msgctxt "#31017"
+msgid "Could not load detail: {error}"
+msgstr "Could not load detail: {error}"
+
+msgctxt "#31018"
+msgid "Missing file identifier."
+msgstr "Missing file identifier."
+
+msgctxt "#31019"
+msgid "Source is unavailable, try another one."
+msgstr "Source is unavailable, try another one."
+
+msgctxt "#31100"
+msgid "TMDB / Movies"
+msgstr "TMDB / Movies"
+
+msgctxt "#31101"
+msgid "TMDB / Movies / News"
+msgstr "TMDB / Movies / News"
+
+msgctxt "#31102"
+msgid "Now playing"
+msgstr "Now playing"
+
+msgctxt "#31103"
+msgid "Upcoming"
+msgstr "Upcoming"
+
+msgctxt "#31104"
+msgid "TMDB / Series"
+msgstr "TMDB / Series"
+
+msgctxt "#31105"
+msgid "TMDB / People"
+msgstr "TMDB / People"
+
+msgctxt "#31106"
+msgid "TMDB / Trending"
+msgstr "TMDB / Trending"
+
+msgctxt "#31107"
+msgid "TMDB / Search"
+msgstr "TMDB / Search"
+
+msgctxt "#31108"
+msgid "Movie"
+msgstr "Movie"
+
+msgctxt "#31109"
+msgid "Series"
+msgstr "Series"
+
+msgctxt "#31110"
+msgid "People"
+msgstr "People"
+
+msgctxt "#31111"
+msgid "All"
+msgstr "All"
+
+msgctxt "#31112"
+msgid "TMDB / Movies / Search"
+msgstr "TMDB / Movies / Search"
+
+msgctxt "#31113"
+msgid "TMDB / Series / Search"
+msgstr "TMDB / Series / Search"
+
+msgctxt "#31114"
+msgid "TMDB / People / Search"
+msgstr "TMDB / People / Search"
+
+msgctxt "#31115"
+msgid "TMDB / Search / All"
+msgstr "TMDB / Search / All"
+
+msgctxt "#31116"
+msgid "(no search query entered)"
+msgstr "(no search query entered)"
+
+msgctxt "#31117"
+msgid "(missing search query)"
+msgstr "(missing search query)"
+
+msgctxt "#31118"
+msgid "TMDB / Movies / Search history"
+msgstr "TMDB / Movies / Search history"
+
+msgctxt "#31119"
+msgid "TMDB / Series / Search history"
+msgstr "TMDB / Series / Search history"
+
+msgctxt "#31120"
+msgid "TMDB / People / Search history"
+msgstr "TMDB / People / Search history"
+
+msgctxt "#31121"
+msgid "TMDB / Search / All / Search history"
+msgstr "TMDB / Search / All / Search history"
+
+msgctxt "#31122"
+msgid "TMDB / Movies / Search / {query}"
+msgstr "TMDB / Movies / Search / {query}"
+
+msgctxt "#31123"
+msgid "TMDB / Series / Search / {query}"
+msgstr "TMDB / Series / Search / {query}"
+
+msgctxt "#31124"
+msgid "TMDB / People / Search / {query}"
+msgstr "TMDB / People / Search / {query}"
+
+msgctxt "#31125"
+msgid "TMDB / Search / All / {query}"
+msgstr "TMDB / Search / All / {query}"
+
+msgctxt "#31126"
+msgid "TMDB / Movies / News / Now playing"
+msgstr "TMDB / Movies / News / Now playing"
+
+msgctxt "#31127"
+msgid "TMDB / Movies / News / Upcoming"
+msgstr "TMDB / Movies / News / Upcoming"
+
+msgctxt "#31128"
+msgid "TMDB / Movies / Popular / All"
+msgstr "TMDB / Movies / Popular / All"
+
+msgctxt "#31129"
+msgid "TMDB / Movies / Top rated"
+msgstr "TMDB / Movies / Top rated"
+
+msgctxt "#31130"
+msgid "TMDB / Movies / News / Trending today"
+msgstr "TMDB / Movies / News / Trending today"
+
+msgctxt "#31131"
+msgid "TMDB / Movies / News / Trending this week"
+msgstr "TMDB / Movies / News / Trending this week"
+
+msgctxt "#31132"
+msgid "TMDB / Movies / By genre"
+msgstr "TMDB / Movies / By genre"
+
+msgctxt "#31133"
+msgid "TMDB / Movies / By genre / {genre}"
+msgstr "TMDB / Movies / By genre / {genre}"
+
+msgctxt "#31134"
+msgid "TMDB / Movies / By year"
+msgstr "TMDB / Movies / By year"
+
+msgctxt "#31135"
+msgid "TMDB / Movies / By year / {year}"
+msgstr "TMDB / Movies / By year / {year}"
+
+msgctxt "#31136"
+msgid "TMDB / Movies / By original language"
+msgstr "TMDB / Movies / By original language"
+
+msgctxt "#31137"
+msgid "TMDB / Movies / By original language / {country}"
+msgstr "TMDB / Movies / By original language / {country}"
+
+msgctxt "#31138"
+msgid "TMDB / Movies / By country of origin"
+msgstr "TMDB / Movies / By country of origin"
+
+msgctxt "#31139"
+msgid "TMDB / Movies / By country of origin / {country}"
+msgstr "TMDB / Movies / By country of origin / {country}"
+
+msgctxt "#31140"
+msgid "TMDB / Movies / Watched"
+msgstr "TMDB / Movies / Watched"
+
+msgctxt "#31141"
+msgid "TMDB / Movies / In progress"
+msgstr "TMDB / Movies / In progress"
+
+msgctxt "#31142"
+msgid "TMDB / Series / Watched"
+msgstr "TMDB / Series / Watched"
+
+msgctxt "#31143"
+msgid "TMDB / Series / In progress"
+msgstr "TMDB / Series / In progress"
+
+msgctxt "#31144"
+msgid "TMDB / Series / Top rated"
+msgstr "TMDB / Series / Top rated"
+
+msgctxt "#31145"
+msgid "TMDB / Series / Airing today"
+msgstr "TMDB / Series / Airing today"
+
+msgctxt "#31146"
+msgid "TMDB / Trending / Series / Today"
+msgstr "TMDB / Trending / Series / Today"
+
+msgctxt "#31147"
+msgid "TMDB / Trending / Series / This week"
+msgstr "TMDB / Trending / Series / This week"
+
+msgctxt "#31148"
+msgid "TMDB / Series / By genre"
+msgstr "TMDB / Series / By genre"
+
+msgctxt "#31149"
+msgid "TMDB / Series / By genre / {genre}"
+msgstr "TMDB / Series / By genre / {genre}"
+
+msgctxt "#31150"
+msgid "TMDB / Series / By year"
+msgstr "TMDB / Series / By year"
+
+msgctxt "#31151"
+msgid "TMDB / Series / By year / {year}"
+msgstr "TMDB / Series / By year / {year}"
+
+msgctxt "#31152"
+msgid "TMDB / Series / By original language"
+msgstr "TMDB / Series / By original language"
+
+msgctxt "#31153"
+msgid "TMDB / Series / By original language / {country}"
+msgstr "TMDB / Series / By original language / {country}"
+
+msgctxt "#31154"
+msgid "TMDB / Series / By country of origin"
+msgstr "TMDB / Series / By country of origin"
+
+msgctxt "#31155"
+msgid "TMDB / Series / By country of origin / {country}"
+msgstr "TMDB / Series / By country of origin / {country}"
+
+msgctxt "#31156"
+msgid "TMDB / People / Popular"
+msgstr "TMDB / People / Popular"
+
+msgctxt "#31157"
+msgid "TMDB / Trending / People / Today"
+msgstr "TMDB / Trending / People / Today"
+
+msgctxt "#31158"
+msgid "TMDB / Trending / People / This week"
+msgstr "TMDB / Trending / People / This week"
+
+msgctxt "#31159"
+msgid "(no TMDB data)"
+msgstr "(no TMDB data)"
+
+msgctxt "#31160"
+msgid "(no genre data from TMDB)"
+msgstr "(no genre data from TMDB)"
+
+msgctxt "#31161"
+msgid "(no year data)"
+msgstr "(no year data)"
+
+msgctxt "#31162"
+msgid "(no language data)"
+msgstr "(no language data)"
+
+msgctxt "#31163"
+msgid "(no country data)"
+msgstr "(no country data)"
+
+msgctxt "#31164"
+msgid "(missing genre_id)"
+msgstr "(missing genre_id)"
+
+msgctxt "#31165"
+msgid "(missing year)"
+msgstr "(missing year)"
+
+msgctxt "#31166"
+msgid "(missing country_code)"
+msgstr "(missing country_code)"
+
+msgctxt "#31200"
+msgid "Action"
+msgstr "Action"
+
+msgctxt "#31201"
+msgid "Adventure"
+msgstr "Adventure"
+
+msgctxt "#31202"
+msgid "Animation"
+msgstr "Animation"
+
+msgctxt "#31203"
+msgid "Comedy"
+msgstr "Comedy"
+
+msgctxt "#31204"
+msgid "Crime"
+msgstr "Crime"
+
+msgctxt "#31205"
+msgid "Documentary"
+msgstr "Documentary"
+
+msgctxt "#31206"
+msgid "Drama"
+msgstr "Drama"
+
+msgctxt "#31207"
+msgid "Family"
+msgstr "Family"
+
+msgctxt "#31208"
+msgid "Fantasy"
+msgstr "Fantasy"
+
+msgctxt "#31209"
+msgid "History"
+msgstr "History"
+
+msgctxt "#31210"
+msgid "Horror"
+msgstr "Horror"
+
+msgctxt "#31211"
+msgid "Music"
+msgstr "Music"
+
+msgctxt "#31212"
+msgid "Mystery"
+msgstr "Mystery"
+
+msgctxt "#31213"
+msgid "Romance"
+msgstr "Romance"
+
+msgctxt "#31214"
+msgid "Science Fiction"
+msgstr "Science Fiction"
+
+msgctxt "#31215"
+msgid "TV Movie"
+msgstr "TV Movie"
+
+msgctxt "#31216"
+msgid "Thriller"
+msgstr "Thriller"
+
+msgctxt "#31217"
+msgid "War"
+msgstr "War"
+
+msgctxt "#31218"
+msgid "Western"
+msgstr "Western"
+
+msgctxt "#31219"
+msgid "Action & Adventure"
+msgstr "Action & Adventure"
+
+msgctxt "#31220"
+msgid "Kids"
+msgstr "Kids"
+
+msgctxt "#31221"
+msgid "News"
+msgstr "News"
+
+msgctxt "#31222"
+msgid "Reality"
+msgstr "Reality"
+
+msgctxt "#31223"
+msgid "Sci-Fi & Fantasy"
+msgstr "Sci-Fi & Fantasy"
+
+msgctxt "#31224"
+msgid "Soap"
+msgstr "Soap"
+
+msgctxt "#31225"
+msgid "Talk"
+msgstr "Talk"
+
+msgctxt "#31226"
+msgid "War & Politics"
+msgstr "War & Politics"
+
+msgctxt "#31300"
+msgid "TMDB / Trailer"
+msgstr "TMDB / Trailer"
+
+msgctxt "#31301"
+msgid "Missing video key."
+msgstr "Missing video key."
+
+msgctxt "#31302"
+msgid "Unsupported video source: {source}"
+msgstr "Unsupported video source: {source}"
+
+msgctxt "#31303"
+msgid "unknown"
+msgstr "unknown"
+
+msgctxt "#31304"
+msgid "TMDB / Series / Seasons"
+msgstr "TMDB / Series / Seasons"
+
+msgctxt "#31305"
+msgid "(missing TMDB id)"
+msgstr "(missing TMDB id)"
+
+msgctxt "#31306"
+msgid "({title}) - detail could not be loaded"
+msgstr "({title}) - detail could not be loaded"
+
+msgctxt "#31307"
+msgid "TMDB / Series / {title} / Seasons"
+msgstr "TMDB / Series / {title} / Seasons"
+
+msgctxt "#31308"
+msgid "Season {number}"
+msgstr "Season {number}"
+
+msgctxt "#31309"
+msgid "{count} ep."
+msgstr "{count} ep."
+
+msgctxt "#31310"
+msgid "(no seasons)"
+msgstr "(no seasons)"
+
+msgctxt "#31311"
+msgid "TMDB / Series / Episodes"
+msgstr "TMDB / Series / Episodes"
+
+msgctxt "#31312"
+msgid "(missing TMDB id or season_number)"
+msgstr "(missing TMDB id or season_number)"
+
+msgctxt "#31313"
+msgid "({title} / {season}) - data could not be loaded"
+msgstr "({title} / {season}) - data could not be loaded"
+
+msgctxt "#31314"
+msgid "TMDB / Series / {title} / {season}"
+msgstr "TMDB / Series / {title} / {season}"
+
+msgctxt "#31315"
+msgid "(no episodes)"
+msgstr "(no episodes)"
+
+msgctxt "#31316"
+msgid "TMDB / Movies / Popular"
+msgstr "TMDB / Movies / Popular"
+
+msgctxt "#31317"
+msgid "(missing provider_id)"
+msgstr "(missing provider_id)"
+
+msgctxt "#31318"
+msgid "TMDB / Movies / Popular / {provider}"
+msgstr "TMDB / Movies / Popular / {provider}"
+
+msgctxt "#31319"
+msgid "Service"
+msgstr "Service"
+
+msgctxt "#31320"
+msgid "TMDB / Series / Popular"
+msgstr "TMDB / Series / Popular"
+
+msgctxt "#31321"
+msgid "TMDB / Series / Popular / All"
+msgstr "TMDB / Series / Popular / All"
+
+msgctxt "#31322"
+msgid "TMDB / Series / Popular / {provider}"
+msgstr "TMDB / Series / Popular / {provider}"
+
+msgctxt "#31323"
+msgid "The series has no available episodes"
+msgstr "The series has no available episodes"
+
+msgctxt "#31400"
+msgid "TMDB / Movie / Detail"
+msgstr "TMDB / Movie / Detail"
+
+msgctxt "#31401"
+msgid "TMDB / Movie / {title}"
+msgstr "TMDB / Movie / {title}"
+
+msgctxt "#31402"
+msgid "Basic information"
+msgstr "Basic information"
+
+msgctxt "#31403"
+msgid "Cast"
+msgstr "Cast"
+
+msgctxt "#31404"
+msgid "Cast ({count})"
+msgstr "Cast ({count})"
+
+msgctxt "#31405"
+msgid "Similar movies"
+msgstr "Similar movies"
+
+msgctxt "#31406"
+msgid "Media"
+msgstr "Media"
+
+msgctxt "#31407"
+msgid "TMDB / Movie / {title} / Basic information"
+msgstr "TMDB / Movie / {title} / Basic information"
+
+msgctxt "#31408"
+msgid "(no detailed metadata)"
+msgstr "(no detailed metadata)"
+
+msgctxt "#31409"
+msgid "TMDB / Movie / Cast"
+msgstr "TMDB / Movie / Cast"
+
+msgctxt "#31410"
+msgid "TMDB / Movie / {title} / Cast"
+msgstr "TMDB / Movie / {title} / Cast"
+
+msgctxt "#31411"
+msgid "(no cast)"
+msgstr "(no cast)"
+
+msgctxt "#31412"
+msgid "TMDB / Movie / Crew"
+msgstr "TMDB / Movie / Crew"
+
+msgctxt "#31413"
+msgid "TMDB / Movie / {title} / {department}"
+msgstr "TMDB / Movie / {title} / {department}"
+
+msgctxt "#31414"
+msgid "(missing department)"
+msgstr "(missing department)"
+
+msgctxt "#31415"
+msgid "(no data)"
+msgstr "(no data)"
+
+msgctxt "#31416"
+msgid "TMDB / Movie / Similar movies"
+msgstr "TMDB / Movie / Similar movies"
+
+msgctxt "#31417"
+msgid "TMDB / Movie / {title} / Similar movies"
+msgstr "TMDB / Movie / {title} / Similar movies"
+
+msgctxt "#31418"
+msgid "TMDB / Series / Detail"
+msgstr "TMDB / Series / Detail"
+
+msgctxt "#31419"
+msgid "TMDB / Series / {title}"
+msgstr "TMDB / Series / {title}"
+
+msgctxt "#31420"
+msgid "Similar series"
+msgstr "Similar series"
+
+msgctxt "#31421"
+msgid "TMDB / Series / {title} / Basic information"
+msgstr "TMDB / Series / {title} / Basic information"
+
+msgctxt "#31422"
+msgid "TMDB / Series / Cast"
+msgstr "TMDB / Series / Cast"
+
+msgctxt "#31423"
+msgid "TMDB / Series / {title} / Cast"
+msgstr "TMDB / Series / {title} / Cast"
+
+msgctxt "#31424"
+msgid "TMDB / Series / Crew"
+msgstr "TMDB / Series / Crew"
+
+msgctxt "#31425"
+msgid "TMDB / Series / {title} / {department}"
+msgstr "TMDB / Series / {title} / {department}"
+
+msgctxt "#31426"
+msgid "TMDB / Series / Similar series"
+msgstr "TMDB / Series / Similar series"
+
+msgctxt "#31427"
+msgid "TMDB / Series / {title} / Similar series"
+msgstr "TMDB / Series / {title} / Similar series"
+
+msgctxt "#31430"
+msgid "Title"
+msgstr "Title"
+
+msgctxt "#31431"
+msgid "Original title"
+msgstr "Original title"
+
+msgctxt "#31432"
+msgid "Tagline"
+msgstr "Tagline"
+
+msgctxt "#31433"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "#31434"
+msgid "Genres"
+msgstr "Genres"
+
+msgctxt "#31435"
+msgid "Country"
+msgstr "Country"
+
+msgctxt "#31436"
+msgid "Production"
+msgstr "Production"
+
+msgctxt "#31437"
+msgid "Runtime"
+msgstr "Runtime"
+
+msgctxt "#31438"
+msgid "Budget"
+msgstr "Budget"
+
+msgctxt "#31439"
+msgid "Revenue"
+msgstr "Revenue"
+
+msgctxt "#31440"
+msgid "First air date"
+msgstr "First air date"
+
+msgctxt "#31441"
+msgid "Last air date"
+msgstr "Last air date"
+
+msgctxt "#31442"
+msgid "Number of seasons"
+msgstr "Number of seasons"
+
+msgctxt "#31443"
+msgid "Number of episodes"
+msgstr "Number of episodes"
+
+msgctxt "#31444"
+msgid "Networks"
+msgstr "Networks"
+
+msgctxt "#31445"
+msgid "TMDB / Movie / Basic information"
+msgstr "TMDB / Movie / Basic information"
+
+msgctxt "#31446"
+msgid "TMDB / Series / Basic information"
+msgstr "TMDB / Series / Basic information"
+
+msgctxt "#31500"
+msgid "Person"
+msgstr "Person"
+
+msgctxt "#31501"
+msgid "TMDB / People / Detail"
+msgstr "TMDB / People / Detail"
+
+msgctxt "#31502"
+msgid "TMDB / People / {name}"
+msgstr "TMDB / People / {name}"
+
+msgctxt "#31503"
+msgid "Profession: {value}"
+msgstr "Profession: {value}"
+
+msgctxt "#31504"
+msgid "Born: {value}"
+msgstr "Born: {value}"
+
+msgctxt "#31505"
+msgid "Died: {value}"
+msgstr "Died: {value}"
+
+msgctxt "#31506"
+msgid "Place of birth: {value}"
+msgstr "Place of birth: {value}"
+
+msgctxt "#31507"
+msgid "Known for: {value}"
+msgstr "Known for: {value}"
+
+msgctxt "#31508"
+msgid "Filmography"
+msgstr "Filmography"
+
+msgctxt "#31509"
+msgid "(no filmography)"
+msgstr "(no filmography)"
+
+msgctxt "#31510"
+msgid "TMDB / People / Filmography"
+msgstr "TMDB / People / Filmography"
+
+msgctxt "#31511"
+msgid "TMDB / People / {name} / Filmography"
+msgstr "TMDB / People / {name} / Filmography"
+
+msgctxt "#31512"
+msgid "TMDB / People / {name} / {department}"
+msgstr "TMDB / People / {name} / {department}"
+
+msgctxt "#31513"
+msgid "(no supported items)"
+msgstr "(no supported items)"
+
+msgctxt "#31514"
+msgid "TMDB / People / Filmography / Movies"
+msgstr "TMDB / People / Filmography / Movies"
+
+msgctxt "#31515"
+msgid "TMDB / People / {name} / Filmography / Movies"
+msgstr "TMDB / People / {name} / Filmography / Movies"
+
+msgctxt "#31516"
+msgid "(no movie roles)"
+msgstr "(no movie roles)"
+
+msgctxt "#31517"
+msgid "TMDB / People / Filmography / Series"
+msgstr "TMDB / People / Filmography / Series"
+
+msgctxt "#31518"
+msgid "TMDB / People / {name} / Filmography / Series"
+msgstr "TMDB / People / {name} / Filmography / Series"
+
+msgctxt "#31519"
+msgid "(no series roles)"
+msgstr "(no series roles)"
+
+msgctxt "#31600"
+msgid "(no supported results)"
+msgstr "(no supported results)"
+
+msgctxt "#31601"
+msgid "{title} / Page {page}"
+msgstr "{title} / Page {page}"
+
+msgctxt "#31602"
+msgid "No item found."
+msgstr "No item found."
+
+msgctxt "#31603"
+msgid "Image"
+msgstr "Image"
+
+msgctxt "#31604"
+msgid "TMDB / {media} / Media"
+msgstr "TMDB / {media} / Media"
+
+msgctxt "#31605"
+msgid "TMDB / {media} / {title} / Media"
+msgstr "TMDB / {media} / {title} / Media"
+
+msgctxt "#31606"
+msgid "Most popular"
+msgstr "Most popular"
+
+msgctxt "#31607"
+msgid "Videos"
+msgstr "Videos"
+
+msgctxt "#31608"
+msgid "Backdrops"
+msgstr "Backdrops"
+
+msgctxt "#31609"
+msgid "Posters"
+msgstr "Posters"
+
+msgctxt "#31610"
+msgid "Poster"
+msgstr "Poster"
+
+msgctxt "#31611"
+msgid "TMDB / {media} / Media / {section}"
+msgstr "TMDB / {media} / Media / {section}"
+
+msgctxt "#31612"
+msgid "TMDB / {media} / {title} / Media / {section}"
+msgstr "TMDB / {media} / {title} / Media / {section}"
+
+msgctxt "#31613"
+msgid "Media / Videos"
+msgstr "Media / Videos"
+
+msgctxt "#31614"
+msgid "Trailers / videos"
+msgstr "Trailers / videos"
+
+msgctxt "#31615"
+msgid "TMDB / Movie / {section}"
+msgstr "TMDB / Movie / {section}"
+
+msgctxt "#31616"
+msgid "TMDB / Movie / {title} / {section}"
+msgstr "TMDB / Movie / {title} / {section}"
+
+msgctxt "#31617"
+msgid "TMDB / Series / {section}"
+msgstr "TMDB / Series / {section}"
+
+msgctxt "#31618"
+msgid "TMDB / Series / {title} / {section}"
+msgstr "TMDB / Series / {title} / {section}"
+
+msgctxt "#31619"
+msgid "(page limit: {limit})"
+msgstr "(page limit: {limit})"
+
+msgctxt "#31700"
+msgid "TMDB / My lists"
+msgstr "TMDB / My lists"
+
+msgctxt "#31701"
+msgid "TMDB / Trakt.TV"
+msgstr "TMDB / Trakt.TV"
+
+msgctxt "#31702"
+msgid "TMDB / Custom lists"
+msgstr "TMDB / Custom lists"
+
+msgctxt "#31703"
+msgid "TMDB / Trakt.TV lists"
+msgstr "TMDB / Trakt.TV lists"
+
+msgctxt "#31704"
+msgid "TMDB / My lists / Smart lists"
+msgstr "TMDB / My lists / Smart lists"
+
+msgctxt "#31705"
+msgid "TMDB / Trakt.TV / My lists"
+msgstr "TMDB / Trakt.TV / My lists"
+
+msgctxt "#31706"
+msgid "TMDB / Trakt.TV / Public lists"
+msgstr "TMDB / Trakt.TV / Public lists"
+
+msgctxt "#31707"
+msgid "TMDB / Trakt.TV / Favorite public lists"
+msgstr "TMDB / Trakt.TV / Favorite public lists"
+
+msgctxt "#31708"
+msgid "TMDB / Watched and in progress"
+msgstr "TMDB / Watched and in progress"
+
+msgctxt "#31709"
+msgid "TMDB / Trakt.TV / Watched"
+msgstr "TMDB / Trakt.TV / Watched"
+
+msgctxt "#31710"
+msgid "TMDB / Trakt.TV / In progress"
+msgstr "TMDB / Trakt.TV / In progress"
+
+msgctxt "#31711"
+msgid "TMDB / Trakt.TV / New list"
+msgstr "TMDB / Trakt.TV / New list"
+
+msgctxt "#31712"
+msgid "TMDB / Trakt.TV / Edit title"
+msgstr "TMDB / Trakt.TV / Edit title"
+
+msgctxt "#31713"
+msgid "TMDB / Trakt.TV / Search list"
+msgstr "TMDB / Trakt.TV / Search list"
+
+msgctxt "#31714"
+msgid "TMDB / Trakt.TV / User lists"
+msgstr "TMDB / Trakt.TV / User lists"
+
+msgctxt "#31715"
+msgid "TMDB / Trakt.TV / Search user"
+msgstr "TMDB / Trakt.TV / Search user"
+
+msgctxt "#31716"
+msgid "TMDB / My lists / New list"
+msgstr "TMDB / My lists / New list"
+
+msgctxt "#31717"
+msgid "TMDB / My lists / Edit list"
+msgstr "TMDB / My lists / Edit list"
+
+msgctxt "#31718"
+msgid "TMDB / Watched"
+msgstr "TMDB / Watched"
+
+msgctxt "#31719"
+msgid "TMDB / In progress"
+msgstr "TMDB / In progress"
+
+msgctxt "#31720"
+msgid "You are not signed in to Trakt.TV."
+msgstr "You are not signed in to Trakt.TV."
+
+msgctxt "#31721"
+msgid "The list is empty, you are not signed in."
+msgstr "The list is empty, you are not signed in."
+
+msgctxt "#31722"
+msgid "The list is empty."
+msgstr "The list is empty."
+
+msgctxt "#31723"
+msgid "List"
+msgstr "List"
+
+msgctxt "#31724"
+msgid "Trakt.TV list"
+msgstr "Trakt.TV list"
+
+msgctxt "#31725"
+msgid "The list could not be created."
+msgstr "The list could not be created."
+
+msgctxt "#31726"
+msgid "The list was created."
+msgstr "The list was created."
+
+msgctxt "#31727"
+msgid "Trakt did not create the list."
+msgstr "Trakt did not create the list."
+
+msgctxt "#31728"
+msgid "The list could not be edited."
+msgstr "The list could not be edited."
+
+msgctxt "#31729"
+msgid "Editing the list failed."
+msgstr "Editing the list failed."
+
+msgctxt "#31730"
+msgid "The list was edited."
+msgstr "The list was edited."
+
+msgctxt "#31731"
+msgid "Trakt did not edit the list."
+msgstr "Trakt did not edit the list."
+
+msgctxt "#31732"
+msgid "The list could not be deleted."
+msgstr "The list could not be deleted."
+
+msgctxt "#31733"
+msgid "Deleting the list failed."
+msgstr "Deleting the list failed."
+
+msgctxt "#31734"
+msgid "The list was deleted."
+msgstr "The list was deleted."
+
+msgctxt "#31735"
+msgid "Trakt did not delete the list."
+msgstr "Trakt did not delete the list."
+
+msgctxt "#31736"
+msgid "Public list was saved."
+msgstr "Public list was saved."
+
+msgctxt "#31737"
+msgid "The list could not be saved."
+msgstr "The list could not be saved."
+
+msgctxt "#31738"
+msgid "Public list was removed."
+msgstr "Public list was removed."
+
+msgctxt "#31739"
+msgid "The list was not in favorites."
+msgstr "The list was not in favorites."
+
+msgctxt "#31740"
+msgid "No favorite public lists are saved yet."
+msgstr "No favorite public lists are saved yet."
+
+msgctxt "#31741"
+msgid "Popular"
+msgstr "Popular"
+
+msgctxt "#31742"
+msgid "Trending"
+msgstr "Trending"
+
+msgctxt "#31743"
+msgid "Search list"
+msgstr "Search list"
+
+msgctxt "#31744"
+msgid "Search user"
+msgstr "Search user"
+
+msgctxt "#31745"
+msgid "User lists"
+msgstr "User lists"
+
+msgctxt "#31746"
+msgid "Search / {query}"
+msgstr "Search / {query}"
+
+msgctxt "#31747"
+msgid "User / {query}"
+msgstr "User / {query}"
+
+msgctxt "#31748"
+msgid "Search user / {query}"
+msgstr "Search user / {query}"
+
+msgctxt "#31749"
+msgid "Public Trakt.TV lists could not be loaded."
+msgstr "Public Trakt.TV lists could not be loaded."
+
+msgctxt "#31750"
+msgid "Missing search text."
+msgstr "Missing search text."
+
+msgctxt "#31751"
+msgid "No users found."
+msgstr "No users found."
+
+msgctxt "#31752"
+msgid "TMDB / Smart lists"
+msgstr "TMDB / Smart lists"
+
+msgctxt "#31753"
+msgid "TMDB / Smart lists / New list"
+msgstr "TMDB / Smart lists / New list"
+
+msgctxt "#31754"
+msgid "Filter parameters after ? or the full builder URL from Trakt.TV"
+msgstr "Filter parameters after ? or the full builder URL from Trakt.TV"
+
+msgctxt "#31755"
+msgid "URL from the Create smart list window on Trakt.TV"
+msgstr "URL from the Create smart list window on Trakt.TV"
+
+msgctxt "#31756"
+msgid "Use the URL from the Create smart list window on Trakt.TV."
+msgstr "Use the URL from the Create smart list window on Trakt.TV."
+
+msgctxt "#31757"
+msgid "The smart list could not be created."
+msgstr "The smart list could not be created."
+
+msgctxt "#31758"
+msgid "The smart list was created."
+msgstr "The smart list was created."
+
+msgctxt "#31759"
+msgid "Trakt skipped the smart list. Check the filter URL."
+msgstr "Trakt skipped the smart list. Check the filter URL."
+
+msgctxt "#31760"
+msgid "Trakt did not create the smart list."
+msgstr "Trakt did not create the smart list."
+
+msgctxt "#31761"
+msgid "List description (optional)"
+msgstr "List description (optional)"
+
+msgctxt "#31762"
+msgid "Edit description"
+msgstr "Edit description"
+
+msgctxt "#31763"
+msgid "The item could not be loaded."
+msgstr "The item could not be loaded."
+
+msgctxt "#31764"
+msgid "Save failed."
+msgstr "Save failed."
+
+msgctxt "#31765"
+msgid "Lists could not be loaded."
+msgstr "Lists could not be loaded."
+
+msgctxt "#31766"
+msgid "You do not have any Trakt lists."
+msgstr "You do not have any Trakt lists."
+
+msgctxt "#31767"
+msgid "Adding to Trakt list failed."
+msgstr "Adding to Trakt list failed."
+
+msgctxt "#31768"
+msgid "The item was added to the list."
+msgstr "The item was added to the list."
+
+msgctxt "#31769"
+msgid "The item is already in the list."
+msgstr "The item is already in the list."
+
+msgctxt "#31770"
+msgid "Trakt did not add the item."
+msgstr "Trakt did not add the item."
+
+msgctxt "#31771"
+msgid "The item could not be removed."
+msgstr "The item could not be removed."
+
+msgctxt "#31772"
+msgid "Removing from Trakt list failed."
+msgstr "Removing from Trakt list failed."
+
+msgctxt "#31773"
+msgid "The item was removed from the list."
+msgstr "The item was removed from the list."
+
+msgctxt "#31774"
+msgid "The item was not found in the list."
+msgstr "The item was not found in the list."
+
+msgctxt "#31775"
+msgid "Trakt did not remove the item."
+msgstr "Trakt did not remove the item."
+
+msgctxt "#31776"
+msgid "A list with this name already exists."
+msgstr "A list with this name already exists."
+
+msgctxt "#31777"
+msgid "Renaming failed."
+msgstr "Renaming failed."
+
+msgctxt "#31778"
+msgid "(list was not found)"
+msgstr "(list was not found)"
+
+msgctxt "#31779"
+msgid "New list"
+msgstr "New list"
+
+msgctxt "#31780"
+msgid "Upload locally saved watched/in-progress items to Trakt.TV and sync Trakt state back to Ikarus?"
+msgstr "Upload locally saved watched/in-progress items to Trakt.TV and sync Trakt state back to Ikarus?"
+
+msgctxt "#31781"
+msgid "Some items could not be sent. We will try again next time."
+msgstr "Some items could not be sent. We will try again next time."
+
+msgctxt "#31782"
+msgid "Only the device that added this item to the list can remove it."
+msgstr "Only the device that added this item to the list can remove it."
+
+msgctxt "#31783"
+msgid "Only this device can remove the item: {owner}."
+msgstr "Only this device can remove the item: {owner}."
+
+msgctxt "#31784"
+msgid "item"
+msgstr "item"
+
+msgctxt "#31785"
+msgid "Sync completed."
+msgstr "Sync completed."
+
+msgctxt "#31786"
+msgid "Sync is already running."
+msgstr "Sync is already running."
+
+msgctxt "#31787"
+msgid "Sync failed."
+msgstr "Sync failed."
+
+msgctxt "#31788"
+msgid "Syncing with Trakt.TV..."
+msgstr "Syncing with Trakt.TV..."
+
+msgctxt "#31789"
+msgid "Done. Linked: {linked}, created on Trakt.TV: {created}."
+msgstr "Done. Linked: {linked}, created on Trakt.TV: {created}."
+
+msgctxt "#31790"
+msgid "Trakt.TV sync failed."
+msgstr "Trakt.TV sync failed."
+
+msgctxt "#31791"
+msgid "Remove item {title} from the list?"
+msgstr "Remove item {title} from the list?"
+
+msgctxt "#31792"
+msgid "Movie marked as watched"
+msgstr "Movie marked as watched"
+
+msgctxt "#31793"
+msgid "Movie marked locally, Trakt will sync later"
+msgstr "Movie marked locally, Trakt will sync later"
+
+msgctxt "#31794"
+msgid "Marking failed: {error}"
+msgstr "Marking failed: {error}"
+
+msgctxt "#31795"
+msgid "Movie mark was cleared"
+msgstr "Movie mark was cleared"
+
+msgctxt "#31796"
+msgid "Movie removed locally, Trakt will sync later"
+msgstr "Movie removed locally, Trakt will sync later"
+
+msgctxt "#31797"
+msgid "Clearing failed: {error}"
+msgstr "Clearing failed: {error}"
+
+msgctxt "#31798"
+msgid "Episode marked as watched"
+msgstr "Episode marked as watched"
+
+msgctxt "#31799"
+msgid "Episode marked locally, Trakt will sync later"
+msgstr "Episode marked locally, Trakt will sync later"
+
+msgctxt "#31800"
+msgid "Episode marking failed: {error}"
+msgstr "Episode marking failed: {error}"
+
+msgctxt "#31801"
+msgid "Episode mark was cleared"
+msgstr "Episode mark was cleared"
+
+msgctxt "#31802"
+msgid "Episode removed locally, Trakt will sync later"
+msgstr "Episode removed locally, Trakt will sync later"
+
+msgctxt "#31803"
+msgid "Episode clearing failed: {error}"
+msgstr "Episode clearing failed: {error}"
+
+msgctxt "#31804"
+msgid "Season marked as watched"
+msgstr "Season marked as watched"
+
+msgctxt "#31805"
+msgid "Season marked locally, Trakt will sync later"
+msgstr "Season marked locally, Trakt will sync later"
+
+msgctxt "#31806"
+msgid "Season marking failed: {error}"
+msgstr "Season marking failed: {error}"
+
+msgctxt "#31807"
+msgid "Season mark was cleared"
+msgstr "Season mark was cleared"
+
+msgctxt "#31808"
+msgid "Season removed locally, Trakt will sync later"
+msgstr "Season removed locally, Trakt will sync later"
+
+msgctxt "#31809"
+msgid "Season clearing failed: {error}"
+msgstr "Season clearing failed: {error}"
+
+msgctxt "#31810"
+msgid "Series marked as watched ({count} ep.)"
+msgstr "Series marked as watched ({count} ep.)"
+
+msgctxt "#31811"
+msgid "Series marked locally ({count} ep.), Trakt will sync later"
+msgstr "Series marked locally ({count} ep.), Trakt will sync later"
+
+msgctxt "#31812"
+msgid "Series marking failed: {error}"
+msgstr "Series marking failed: {error}"
+
+msgctxt "#31813"
+msgid "Series mark was cleared"
+msgstr "Series mark was cleared"
+
+msgctxt "#31814"
+msgid "Series removed locally, Trakt will sync later"
+msgstr "Series removed locally, Trakt will sync later"
+
+msgctxt "#31815"
+msgid "Series clearing failed: {error}"
+msgstr "Series clearing failed: {error}"
+
+msgctxt "#31816"
+msgid "(unknown action: {action})"
+msgstr "(unknown action: {action})"
+
+msgctxt "#31817"
+msgid "(missing required parameter: {name})"
+msgstr "(missing required parameter: {name})"
+
+msgctxt "#31818"
+msgid "{title} / Page {page}/{total_pages}"
+msgstr "{title} / Page {page}/{total_pages}"
+
+msgctxt "#31819"
+msgid "Sync failed: {error}"
+msgstr "Sync failed: {error}"
+
+msgctxt "#31820"
+msgid "Sync completed. Sent: {pushed}, existing: {skipped}"
+msgstr "Sync completed. Sent: {pushed}, existing: {skipped}"
+
+msgctxt "#31821"
+msgid "Trakt.TV error: {error}"
+msgstr "Trakt.TV error: {error}"
+
+msgctxt "#31822"
+msgid "Really delete list {name}?\n\nThis action deletes the whole list on Trakt.TV."
+msgstr "Really delete list {name}?\n\nThis action deletes the whole list on Trakt.TV."
+
+msgctxt "#31823"
+msgid "The list can only be deleted on the device where it was created: {owner}."
+msgstr "The list can only be deleted on the device where it was created: {owner}."
+
+msgctxt "#31824"
+msgid "Delete list {name}?"
+msgstr "Delete list {name}?"
+
+msgctxt "#31825"
+msgid "Add item to list {name}?"
+msgstr "Add item to list {name}?"
+
+msgctxt "#31826"
+msgid "Remove {title} from list {list_name}?"
+msgstr "Remove {title} from list {list_name}?"
+
+msgctxt "#31827"
+msgid "TMDB / My lists / {name}"
+msgstr "TMDB / My lists / {name}"
+
+msgctxt "#31828"
+msgid "TMDB / My lists / Smart lists / {name}"
+msgstr "TMDB / My lists / Smart lists / {name}"
+
+msgctxt "#31829"
+msgid "Remove from list"
+msgstr "Remove from list"
+
+msgctxt "#31830"
+msgid "Next page ({page}/{total_pages}) >>"
+msgstr "Next page ({page}/{total_pages}) >>"
+
+msgctxt "#31831"
+msgid "<< First page"
+msgstr "<< First page"
+
+msgctxt "#31832"
+msgid "<< Previous page ({page}/{total_pages})"
+msgstr "<< Previous page ({page}/{total_pages})"
+
+msgctxt "#31833"
+msgid "Creating a new smart list is currently only available on the Trakt.TV website"
+msgstr "Creating a new smart list is currently only available on the Trakt.TV website"
+
+msgctxt "#31834"
+msgid "Next episode"
+msgstr "Next episode"
+
+msgctxt "#31835"
+msgid "Add to custom list"
+msgstr "Add to custom list"
+
+msgctxt "#31836"
+msgid "Mark as watched"
+msgstr "Mark as watched"
+
+msgctxt "#31837"
+msgid "Unmark movie"
+msgstr "Unmark movie"
+
+msgctxt "#31838"
+msgid "Information"
+msgstr "Information"
+
+msgctxt "#31839"
+msgid "Mark series as watched"
+msgstr "Mark series as watched"
+
+msgctxt "#31840"
+msgid "Unmark series"
+msgstr "Unmark series"
+
+msgctxt "#31841"
+msgid "Mark season as watched"
+msgstr "Mark season as watched"
+
+msgctxt "#31842"
+msgid "Unmark season"
+msgstr "Unmark season"
+
+msgctxt "#31843"
+msgid "Mark episode as watched"
+msgstr "Mark episode as watched"
+
+msgctxt "#31844"
+msgid "Unmark episode"
+msgstr "Unmark episode"
+
+msgctxt "#31845"
+msgid "Unknown name"
+msgstr "Unknown name"
+
+msgctxt "#31846"
+msgid "Search on YouTube"
+msgstr "Search on YouTube"
+
+msgctxt "#31847"
+msgid "Download image"
+msgstr "Download image"
+
+msgctxt "#31848"
+msgid "Back"
+msgstr "Back"
+
+msgctxt "#31849"
+msgid "Delete"
+msgstr "Delete"
+
+msgctxt "#31850"
+msgid "Save"
+msgstr "Save"
+
+msgctxt "#31851"
+msgid "Remove"
+msgstr "Remove"
+
+msgctxt "#31852"
+msgid "Done."
+msgstr "Done."
+
+msgctxt "#31853"
+msgid "Rename list"
+msgstr "Rename list"
+
+msgctxt "#31854"
+msgid "Delete list"
+msgstr "Delete list"
+
+msgctxt "#31855"
+msgid "Private"
+msgstr "Private"
+
+msgctxt "#31856"
+msgid "Public"
+msgstr "Public"
+
+msgctxt "#31857"
+msgid "Friends"
+msgstr "Friends"
+
+msgctxt "#31858"
+msgid "Synchronize"
+msgstr "Synchronize"
+
+msgctxt "#31859"
+msgid "Edit Trakt list"
+msgstr "Edit Trakt list"
+
+msgctxt "#31860"
+msgid "Delete Trakt list"
+msgstr "Delete Trakt list"
+
+msgctxt "#31861"
+msgid "Remove from favorite public lists"
+msgstr "Remove from favorite public lists"
+
+msgctxt "#31862"
+msgid "Save to favorite public lists"
+msgstr "Save to favorite public lists"
+
+msgctxt "#31863"
+msgid "Remove from Trakt list"
+msgstr "Remove from Trakt list"
+
+msgctxt "#31864"
+msgid "Original title"
+msgstr "Original title"
+
+msgctxt "#31865"
+msgid "Genre"
+msgstr "Genre"
+
+msgctxt "#31866"
+msgid "Country"
+msgstr "Country"
+
+msgctxt "#31867"
+msgid "Runtime"
+msgstr "Runtime"
+
+msgctxt "#31868"
+msgid "Premiere"
+msgstr "Premiere"
+
+msgctxt "#31869"
+msgid "TMDB rating"
+msgstr "TMDB rating"
+
+msgctxt "#31870"
+msgid "Cast"
+msgstr "Cast"
+
+msgctxt "#31871"
+msgid "First air date"
+msgstr "First air date"
+
+msgctxt "#31872"
+msgid "Last air date"
+msgstr "Last air date"
+
+msgctxt "#31873"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "#31874"
+msgid "Number of seasons"
+msgstr "Number of seasons"
+
+msgctxt "#31875"
+msgid "Number of episodes"
+msgstr "Number of episodes"
+
+msgctxt "#31876"
+msgid "{label}: {value}"
+msgstr "{label}: {value}"
+
+msgctxt "#31877"
+msgid "{label}: {rating} ({count} votes)"
+msgstr "{label}: {rating} ({count} votes)"
+
+msgctxt "#31878"
+msgid "Continue from {time}"
+msgstr "Continue from {time}"
+
+msgctxt "#31879"
+msgid "Play from beginning"
+msgstr "Play from beginning"
+
+msgctxt "#31880"
+msgid "No custom lists have been created yet"
+msgstr "No custom lists have been created yet"
+
+msgctxt "#31881"
+msgid "Preparing local state..."
+msgstr "Preparing local state..."
+
+msgctxt "#31882"
+msgid "No smart lists are defined on Trakt.TV."
+msgstr "No smart lists are defined on Trakt.TV."
+
+msgctxt "#31883"
+msgid "Smart list"
+msgstr "Smart list"
+
+msgctxt "#31884"
+msgid "Smart lists do not have a valid address."
+msgstr "Smart lists do not have a valid address."
+
+msgctxt "#31885"
+msgid "Smart list does not have a valid address."
+msgstr "Smart list does not have a valid address."
+
+msgctxt "#31886"
+msgid "Smart list items could not be loaded."
+msgstr "Smart list items could not be loaded."
+
+msgctxt "#31887"
+msgid "List was created locally and on Trakt.TV."
+msgstr "List was created locally and on Trakt.TV."
+
+msgctxt "#31888"
+msgid "List was created."
+msgstr "List was created."
+
+msgctxt "#31889"
+msgid "List was created locally. Trakt.TV will be synchronized later."
+msgstr "List was created locally. Trakt.TV will be synchronized later."
+
+msgctxt "#31890"
+msgid "The list can only be deleted on the device where it was created."
+msgstr "The list can only be deleted on the device where it was created."
+
+msgctxt "#31891"
+msgid "The list can only be deleted on device: {owner}."
+msgstr "The list can only be deleted on device: {owner}."
+
+msgctxt "#31892"
+msgid "List was deleted locally and on Trakt.TV."
+msgstr "List was deleted locally and on Trakt.TV."
+
+msgctxt "#31893"
+msgid "List was deleted."
+msgstr "List was deleted."
+
+msgctxt "#31894"
+msgid "List was deleted locally. Trakt.TV will be synchronized later."
+msgstr "List was deleted locally. Trakt.TV will be synchronized later."
+
+msgctxt "#31895"
+msgid "The list can only be renamed on the device where it was created."
+msgstr "The list can only be renamed on the device where it was created."
+
+msgctxt "#31896"
+msgid "The list can only be renamed on device: {owner}."
+msgstr "The list can only be renamed on device: {owner}."
+
+msgctxt "#31897"
+msgid "List was updated locally and on Trakt.TV."
+msgstr "List was updated locally and on Trakt.TV."
+
+msgctxt "#31898"
+msgid "List was updated."
+msgstr "List was updated."
+
+msgctxt "#31899"
+msgid "List was updated locally. Trakt.TV will be synchronized later."
+msgstr "List was updated locally. Trakt.TV will be synchronized later."
+
+msgctxt "#31900"
+msgid "The list contains no supported movies or series."
+msgstr "The list contains no supported movies or series."
+
+msgctxt "#31901"
+msgid "List items could not be loaded."
+msgstr "List items could not be loaded."
+
+msgctxt "#31902"
+msgid "{count} items"
+msgstr "{count} items"
+
+msgctxt "#31903"
+msgid "{count} lists"
+msgstr "{count} lists"
+
+msgctxt "#31904"
+msgid "{count} matches"
+msgstr "{count} matches"
+
+msgctxt "#31905"
+msgid "unknown"
+msgstr "unknown"
+
+msgctxt "#31906"
+msgid "User: {username}\nPublic lists: {count}"
+msgstr "User: {username}\nPublic lists: {count}"
+
+msgctxt "#31907"
+msgid "Items: {count}"
+msgstr "Items: {count}"
+
+msgctxt "#31908"
+msgid "Likes: {count}"
+msgstr "Likes: {count}"
+
+msgctxt "#31909"
+msgid "Comments: {count}"
+msgstr "Comments: {count}"
+
+msgctxt "#31910"
+msgid "Trakt.TV list does not have a valid address."
+msgstr "Trakt.TV list does not have a valid address."
+
+msgctxt "#31911"
+msgid "TMDB / Trakt.TV / {name} / Page {page}"
+msgstr "TMDB / Trakt.TV / {name} / Page {page}"
+
+msgctxt "#31912"
+msgid "This section is under construction."
+msgstr "This section is under construction."
+
+msgctxt "#31913"
+msgid "Series"
+msgstr "Series"
+
+msgctxt "#31914"
+msgid "Season {season}"
+msgstr "Season {season}"
+
+msgctxt "#31915"
+msgid "Next page ({page}/{total_pages})"
+msgstr "Next page ({page}/{total_pages})"
+
+msgctxt "#31916"
+msgid "Next page ({page})"
+msgstr "Next page ({page})"
+
+msgctxt "#31917"
+msgid "Known for"
+msgstr "Known for"
+
+msgctxt "#31918"
+msgid "{count} votes"
+msgstr "{count} votes"
+
+msgctxt "#31919"
+msgid "Searching for the next episode source..."
+msgstr "Searching for the next episode source..."
+
+msgctxt "#31920"
+msgid "Next episode source is ready: S{season:02d}E{episode:02d}"
+msgstr "Next episode source is ready: S{season:02d}E{episode:02d}"
+
+msgctxt "#31921"
+msgid "Next episode source is ready"
+msgstr "Next episode source is ready"
+
+msgctxt "#31922"
+msgid "Next episode or source was not found"
+msgstr "Next episode or source was not found"
+
+msgctxt "#31923"
+msgid "Searching for the next episode failed"
+msgstr "Searching for the next episode failed"
+
+msgctxt "#31924"
+msgid "Next episode"
+msgstr "Next episode"
+
+msgctxt "#31925"
+msgid "Time until episode ends - {time}"
+msgstr "Time until episode ends - {time}"
+
+msgctxt "#31926"
+msgid "Showing prompt: {label}"
+msgstr "Showing prompt: {label}"
+
+msgctxt "#31927"
+msgid "Do you want to continue with the next episode?"
+msgstr "Do you want to continue with the next episode?"
+
+msgctxt "#31928"
+msgid "Next episode was not started, playback ended before the end"
+msgstr "Next episode was not started, playback ended before the end"
+
+msgctxt "#31929"
+msgid "Next episode was not started, source was not ready"
+msgstr "Next episode was not started, source was not ready"
+
+msgctxt "#31930"
+msgid "Next episode was not prepared"
+msgstr "Next episode was not prepared"
+
+msgctxt "#31931"
+msgid "The stream URL could not be obtained."
+msgstr "The stream URL could not be obtained."
+
+msgctxt "#31932"
+msgid "Page:\n{url}"
+msgstr "Page:\n{url}"
+
+msgctxt "#31933"
+msgid "The direct link could not be obtained from the page (free path).\nThe page did not contain 'var sources' with a 'file/src' item.\n\nURL:\n{url}"
+msgstr "The direct link could not be obtained from the page (free path).\nThe page did not contain 'var sources' with a 'file/src' item.\n\nURL:\n{url}"
+
+msgctxt "#31934"
+msgid "Direct sources could not be obtained from detail/embed.\nNo <video>/<source>, direct links in <script>, or working download redirect were found.\n\nURL:\n{url}"
+msgstr "Direct sources could not be obtained from detail/embed.\nNo <video>/<source>, direct links in <script>, or working download redirect were found.\n\nURL:\n{url}"
+
+msgctxt "#31935"
+msgid "Playback is not possible because the stream URL could not be obtained.\n\nPage:\n{url}"
+msgstr "Playback is not possible because the stream URL could not be obtained.\n\nPage:\n{url}"
+
+msgctxt "#31936"
+msgid "The WebShare source could not be started through film.py.\n\nID:\n{video_id}\n\nError:\n{error}"
+msgstr "The WebShare source could not be started through film.py.\n\nID:\n{video_id}\n\nError:\n{error}"
+
+msgctxt "#31937"
+msgid "Hellspy stream is not responding right now. Try another source."
+msgstr "Hellspy stream is not responding right now. Try another source."
+
+msgctxt "#31938"
+msgid "PERSON"
+msgstr "PERSON"
+
+msgctxt "#31939"
+msgid "FILM"
+msgstr "FILM"
+
+msgctxt "#31940"
+msgid "SERIES"
+msgstr "SERIES"
+
+msgctxt "#31941"
+msgid "Genre"
+msgstr "Genre"
+
+msgctxt "#31942"
+msgid "Country"
+msgstr "Country"
+
+msgctxt "#31943"
+msgid "Acting"
+msgstr "Acting"
+
+msgctxt "#31944"
+msgid "Directing"
+msgstr "Directing"
+
+msgctxt "#31945"
+msgid "Writing"
+msgstr "Writing"
+
+msgctxt "#31946"
+msgid "Production"
+msgstr "Production"
+
+msgctxt "#31947"
+msgid "Camera"
+msgstr "Camera"
+
+msgctxt "#31948"
+msgid "Music / sound"
+msgstr "Music / sound"
+
+msgctxt "#31949"
+msgid "Editing"
+msgstr "Editing"
+
+msgctxt "#31950"
+msgid "Art"
+msgstr "Art"
+
+msgctxt "#31951"
+msgid "Costume & Make-Up"
+msgstr "Costume & Make-Up"
+
+msgctxt "#31952"
+msgid "Visual Effects"
+msgstr "Visual Effects"
+
+msgctxt "#31953"
+msgid "Lighting"
+msgstr "Lighting"
+
+msgctxt "#31954"
+msgid "Creator"
+msgstr "Creator"
+
+msgctxt "#31955"
+msgid "Other professions"
+msgstr "Other professions"
+
+msgctxt "#31956"
+msgid "Possible match only by episode title without a strong series title match."
+msgstr "Possible match only by episode title without a strong series title match."
+
+msgctxt "#31957"
+msgid "The file name is kept in its original form."
+msgstr "The file name is kept in its original form."
+
+msgctxt "#31958"
+msgid "Kodi device"
+msgstr "Kodi device"
+
+msgctxt "#31959"
+msgid "Provider"
+msgstr "Provider"
+
+msgctxt "#31960"
+msgid "Type"
+msgstr "Type"
+
+msgctxt "#31961"
+msgid "Quality"
+msgstr "Quality"
+
+msgctxt "#31962"
+msgid "Codec"
+msgstr "Codec"
+
+msgctxt "#31963"
+msgid "Resolution"
+msgstr "Resolution"
+
+msgctxt "#31964"
+msgid "Uploaded"
+msgstr "Uploaded"
+
+msgctxt "#31965"
+msgid "Subtitles"
+msgstr "Subtitles"
+
+msgctxt "#31966"
+msgid "Available"
+msgstr "Available"
+
+msgctxt "#31967"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "#31968"
+msgid "Removed"
+msgstr "Removed"
+
+msgctxt "#31969"
+msgid "Removal reason"
+msgstr "Removal reason"
+
+msgctxt "#31970"
+msgid "Match"
+msgstr "Match"
+
+msgctxt "#31971"
+msgid "Query"
+msgstr "Query"
+
+msgctxt "#31972"
+msgid "Matching reasons"
+msgstr "Matching reasons"
+
+msgctxt "#31973"
+msgid "Yes"
+msgstr "Yes"
+
+msgctxt "#31974"
+msgid "No"
+msgstr "No"
+
+msgctxt "#31975"
+msgid "{provider} group: {count} identical sources"
+msgstr "{provider} group: {count} identical sources"
+
+msgctxt "#31976"
+msgid "WebShare group: {count} identical sources"
+msgstr "WebShare group: {count} identical sources"
+
+msgctxt "#31977"
+msgid "Open to show individual sources."
+msgstr "Open to show individual sources."
+
+msgctxt "#31978"
+msgid "Open to show individual files."
+msgstr "Open to show individual files."
+
+msgctxt "#31979"
+msgid "My Trakt.TV lists could not be loaded."
+msgstr "My Trakt.TV lists could not be loaded."
+
+msgctxt "#31980"
+msgid "Anticipated"
+msgstr "Anticipated"
+
+msgctxt "#31981"
+msgid "The item was saved locally and on Trakt.TV."
+msgstr "The item was saved locally and on Trakt.TV."
+
+msgctxt "#31982"
+msgid "The item was updated."
+msgstr "The item was updated."
+
+msgctxt "#31983"
+msgid "The item was saved."
+msgstr "The item was saved."
+
+msgctxt "#31984"
+msgid "The item was saved locally. Trakt.TV will be synchronized later."
+msgstr "The item was saved locally. Trakt.TV will be synchronized later."
+
+msgctxt "#31985"
+msgid "The item was removed locally and from Trakt.TV."
+msgstr "The item was removed locally and from Trakt.TV."
+
+msgctxt "#31986"
+msgid "The item was removed."
+msgstr "The item was removed."
+
+msgctxt "#31987"
+msgid "The item was removed locally. Trakt.TV will be synchronized later."
+msgstr "The item was removed locally. Trakt.TV will be synchronized later."
+
+msgctxt "#31988"
+msgid "Copyright"
+msgstr "Copyright"
+
+msgctxt "#31989"
+msgid "FPS"
+msgstr "FPS"
+
+msgctxt "#31990"
+msgid "Bitrate"
+msgstr "Bitrate"
+
+msgctxt "#31991"
+msgid "Video stream"
+msgstr "Video stream"
+
+msgctxt "#31992"
+msgid "Audio stream"
+msgstr "Audio stream"
+
+msgctxt "#31993"
+msgid "Language"
+msgstr "Language"
+
+msgctxt "#31994"
+msgid "Continue"
+msgstr "Continue"
+
+msgctxt "#31995"
+msgid "Stop"
+msgstr "Stop"

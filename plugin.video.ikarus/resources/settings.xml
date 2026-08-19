@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+        <category label="30500">
+                <setting id="account_label" type="lsep" label="30501" />
+
+                <setting id="providers_sep_top" type="lsep" label="" />
+                <setting id="show_prehrajto" type="bool" label="30502" default="true" />
+                <setting id="show_hellspy" type="bool" label="30503" default="true" />
+                <setting id="show_sktonline" type="bool" label="30504" default="true" />
+                <setting id="show_webshare" type="bool" label="30505" default="true" />
+                <setting id="providers_sep_bottom" type="lsep" label="" />
+
+                <setting id="prehrajto_account_label" type="lsep" label="30506" />
+                <setting id="prehrajto_email" type="text" label="30507" default="" />
+                <setting id="prehrajto_password" type="text" label="30508" option="hidden" default="" />
+                <setting id="prehrajto_sep" type="lsep" label="" />
+
+                <setting id="webshare_account_label" type="lsep" label="30509" />
+                <setting id="username" type="text" label="30510" default="" />
+                <setting id="password" type="text" label="30511" option="hidden" default="" />
+                <setting id="token" type="text" label="30512" enable="false" default="" />
+                <setting id="status" type="text" label="30513" enable="false" default="" />
+                <setting id="token_sep" type="lsep" label="" />
+                <setting id="refresh_token_btn" type="action"
+                        label="30514"
+                        action="RunPlugin(plugin://plugin.video.ikarus/?action=refresh_token)"
+                        option="close" />
+                <setting id="search_label" type="lsep" label="30515" />
+                <setting id="search_category" type="enum" label="30516" values="Vše|Video|Images|Audio|Archives|Docs|Adult" lvalues="30519|30520|30521|30522|30523|30524|30525" default="Video" />
+                <setting id="search_sort" type="enum" label="30517" values="Relevance|Nejnovější|Největší|Nejmenší" lvalues="30526|30527|30528|30529" default="Relevance" />
+                <setting id="search_limit" type="number" label="30518" default="25" />
+        </category>
+
+        <category label="30530">
+                <setting id="trakt_label" type="lsep" label="30530" />
+                <setting id="trakt_status" type="text" label="30531" enable="false" default="nepripojeno" />
+                <setting id="trakt_username" type="text" label="30532" enable="false" default="" />
+                <setting id="trakt_login_btn" type="action"
+                        label="30533"
+                        action="RunPlugin(plugin://plugin.video.ikarus/?action=trakt.login)"
+                        option="close" />
+                <setting id="trakt_activate_url" type="text" label="30534" enable="false" visible="false" default="https://trakt.tv/activate" />
+                <setting id="trakt_client_id" type="text" label="30562" visible="false" default="" />
+                <setting id="trakt_client_secret" type="text" label="30563" option="hidden" visible="false" default="" />
+                <setting id="trakt_access_token" type="text" label="30564" option="hidden" enable="false" visible="false" default="" />
+                <setting id="trakt_refresh_token" type="text" label="30565" option="hidden" enable="false" visible="false" default="" />
+                <setting id="trakt_token_type" type="text" label="30566" enable="false" visible="false" default="" />
+                <setting id="trakt_expires_in" type="text" label="30535" enable="false" visible="false" default="" />
+                <setting id="trakt_created_at" type="text" label="30536" enable="false" visible="false" default="" />
+        </category>
+
+        <category label="30537">
+                <setting id="tmdb_series_next_label" type="lsep" label="30538" />
+                <setting id="tmdb_series_next_enabled" type="bool" label="30539" default="true" />
+                <setting id="tmdb_series_next_mode" type="enum" label="30540" values="Pokračovat automaticky|Zobrazit výběrový dialog" lvalues="30541|30542" default="0" enable="eq(-1,true)" />
+                <setting id="tmdb_series_next_prefer_same_provider" type="bool" label="30543" default="true" enable="eq(-2,true)" />
+                <setting id="tmdb_series_next_require_cz" type="bool" label="30544" default="true" enable="eq(-3,true)" />
+                <setting id="tmdb_series_next_debug" type="bool" label="30567" default="false" enable="eq(-4,true)" />
+        </category>
+
+        <category label="30545">
+                <setting id="download_enable" type="bool" label="30546" default="true" />
+                <setting id="download_sep1" type="lsep" label=" " enable="eq(-1,true)" />
+                <setting id="download_path" type="folder" label="30547" default="" enable="eq(-2,true)" />
+                <setting id="download_overwrite" type="bool" label="30548" default="false" enable="eq(-3,true)" />
+                <setting id="download_ask_name" type="bool" label="30549" default="true" enable="eq(-4,true)" />
+        </category>
+
+        <category label="30550">
+                <setting id="other_settings_title" type="lsep" label="30551" />
+                <setting id="playback_language_sep_top" type="lsep" label="" />
+                <setting id="tmdb_primary_audio_lang" type="enum" label="30552" values="CZ|SK|EN" default="0" />
+                <setting id="tmdb_secondary_audio_lang" type="enum" label="30553" values="CZ|SK|EN" default="1" />
+                <setting id="tmdb_preferred_subtitle_lang" type="enum" label="30554" values="CZ|SK|EN" default="0" />
+                <setting id="playback_language_sep_bottom" type="lsep" label="" />
+                <setting id="info_notice_label" type="lsep" label="30555" />
+                <setting id="info_notice_hide_on_startup" type="bool" label="30556" default="false" />
+                <setting id="info_notice_show_btn" type="action"
+                        label="30557"
+                        action="RunPlugin(plugin://plugin.video.ikarus/?action=show_info_notice)"
+                        option="close" />
+                <setting id="info_notice_accepted_version" type="text" label="30558" visible="false" default="" />
+                <setting id="info_notice_sep_bottom" type="lsep" label="" />
+                <setting id="version_info_open_btn" type="action"
+                        label="30559"
+                        action="RunPlugin(plugin://plugin.video.ikarus/?action=version_info)" />
+                <setting id="ikarus_diagnostics_btn" type="action"
+                        label="30560"
+                        action="RunPlugin(plugin://plugin.video.ikarus/?action=ikarus.diagnostics)" />
+                <setting id="check_updates_settings_btn" type="action"
+                        label="30561"
+                        action="RunPlugin(plugin://plugin.video.ikarus/?action=check_updates)" />
+        </category>
+</settings>

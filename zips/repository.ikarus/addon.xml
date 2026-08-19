@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ikarus" name="Ikarus Repository" version="1.0.1" provider-name="Kokutek Robin">
+  <extension point="xbmc.addon.repository" name="Ikarus Repository">
+    <dir minversion="19.0.0">
+      <info compressed="false">https://raw.githubusercontent.com/Ajdamos/rep/main/zips/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/Ajdamos/rep/main/zips/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/Ajdamos/rep/main/zips/</datadir>
+      <hashes>true</hashes>
+    </dir>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="cs_CZ">Repozitar pro Ikarus plugin</summary>
+    <summary lang="en_GB">Repository for the Ikarus plugin</summary>
+    <description lang="cs_CZ">Kodi repozitar pro automaticke aktualizace pluginu Ikarus.</description>
+    <description lang="en_GB">Kodi repository for automatic updates of the Ikarus plugin.</description>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>

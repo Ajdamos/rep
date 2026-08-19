@@ -1,0 +1,3230 @@
+# Kodi Media Center language file
+# Addon Name: Ikarus - WebShare
+# Addon id: plugin.video.ikarus
+
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: cs_CZ\n"
+
+msgctxt "#30010"
+msgid "Search"
+msgstr "Vyhledavani"
+
+msgctxt "#30011"
+msgid "Category"
+msgstr "Kategorie"
+
+msgctxt "#30012"
+msgid "Everything"
+msgstr "Vse"
+
+msgctxt "#30013"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#30014"
+msgid "Images"
+msgstr "Obrazky"
+
+msgctxt "#30015"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "#30016"
+msgid "Archives"
+msgstr "Archivy"
+
+msgctxt "#30017"
+msgid "Documents"
+msgstr "Dokumenty"
+
+msgctxt "#30018"
+msgid "Adult"
+msgstr "Adult"
+
+msgctxt "#30020"
+msgid "Sort"
+msgstr "Trideni"
+
+msgctxt "#30021"
+msgid "Relevance"
+msgstr "Relevance"
+
+msgctxt "#30022"
+msgid "Recent"
+msgstr "Nejnovejsi"
+
+msgctxt "#30024"
+msgid "Largest"
+msgstr "Nejvetsi"
+
+msgctxt "#30025"
+msgid "Smallest"
+msgstr "Nejmensi"
+
+msgctxt "#30028"
+msgid "Results on page"
+msgstr "Vysledku na stranku"
+
+msgctxt "#30030"
+msgid "Account"
+msgstr "Ucet"
+
+msgctxt "#30031"
+msgid "Username"
+msgstr "Uzivatelske jmeno"
+
+msgctxt "#30032"
+msgid "Password"
+msgstr "Heslo"
+
+msgctxt "#30060"
+msgid "Show Prehraj.to"
+msgstr "Zobrazit Prehraj.to"
+
+msgctxt "#30061"
+msgid "Show Hellspy"
+msgstr "Zobrazit Hellspy"
+
+msgctxt "#30062"
+msgid "Show SkTonLine"
+msgstr "Zobrazit SkTonLine"
+
+msgctxt "#30063"
+msgid "Show WebShare"
+msgstr "Zobrazit WebShare"
+
+msgctxt "#30064"
+msgid "API token"
+msgstr "API token"
+
+msgctxt "#30065"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "#30066"
+msgid "Refresh token"
+msgstr "Obnovit token"
+
+msgctxt "#30067"
+msgid "Use CSFD posters and plots"
+msgstr "Pouzivat plakaty a popisy z CSFD"
+
+msgctxt "#30068"
+msgid "Library"
+msgstr "Knihovna"
+
+msgctxt "#30069"
+msgid "Movie source sorting"
+msgstr "Razeni zdroju u filmu"
+
+msgctxt "#30070"
+msgid "Ascending"
+msgstr "Vzestupne (nejmensi-nejvetsi)"
+
+msgctxt "#30071"
+msgid "Descending"
+msgstr "Sestupne (nejvetsi-nejmensi)"
+
+msgctxt "#30072"
+msgid "Duplicate sources per item"
+msgstr "Pocet duplicitnich souboru u jednoho zdroje"
+
+msgctxt "#30204"
+msgid "Settings"
+msgstr "Nastaveni"
+
+msgctxt "#30220"
+msgid "Database"
+msgstr "Databaze"
+
+msgctxt "#30221"
+msgid "Enable database backup"
+msgstr "Ulozeni databaze"
+
+msgctxt "#30222"
+msgid "Backup target"
+msgstr "Cil ulozeni"
+
+msgctxt "#30223"
+msgid "Disk"
+msgstr "Disk"
+
+msgctxt "#30224"
+msgid "WebShare"
+msgstr "WebShare"
+
+msgctxt "#30225"
+msgid "Backup folder"
+msgstr "Cesta pro ukladani na disku"
+
+msgctxt "#30226"
+msgid "WebShare state"
+msgstr "WebShare - stav"
+
+msgctxt "#30230"
+msgid "Downloads"
+msgstr "Stahovani"
+
+msgctxt "#30231"
+msgid "Enable downloads"
+msgstr "Povolit stahovani zdroju"
+
+msgctxt "#30232"
+msgid "Download folder"
+msgstr "Cilova slozka pro stahovani"
+
+msgctxt "#30233"
+msgid "Overwrite existing file"
+msgstr "Prepsat existujici soubor"
+
+msgctxt "#30234"
+msgid "Ask before renaming file"
+msgstr "Pred stazenim nabidnout upravu nazvu souboru"
+
+msgctxt "#30300"
+msgid "Movies"
+msgstr "Film"
+
+msgctxt "#30301"
+msgid "Series"
+msgstr "Seriály"
+
+msgctxt "#30302"
+msgid "People"
+msgstr "Osoby"
+
+msgctxt "#30303"
+msgid "Trending"
+msgstr "Trendující"
+
+msgctxt "#30304"
+msgid "Watched"
+msgstr "Zhlédnuté"
+
+msgctxt "#30305"
+msgid "In progress"
+msgstr "Rozkoukané"
+
+msgctxt "#30306"
+msgid "My lists"
+msgstr "Moje seznamy"
+
+msgctxt "#30307"
+msgid "Search"
+msgstr "Vyhledat"
+
+msgctxt "#30308"
+msgid "Download queue"
+msgstr "Fronta stahování"
+
+msgctxt "#30309"
+msgid "Manual source search"
+msgstr "Ruční hledání na Přehraj.to/Hellspy/SkTonLine/WebShare"
+
+msgctxt "#30310"
+msgid "Settings"
+msgstr "Nastavení"
+
+msgctxt "#30311"
+msgid "Smart lists"
+msgstr "Chytré seznamy"
+
+msgctxt "#30312"
+msgid "Trakt.TV lists"
+msgstr "Trakt.TV seznamy"
+
+msgctxt "#30313"
+msgid "Section could not be loaded. Details are in kodi.log."
+msgstr "Sekci se nepodařilo načíst. Podrobnosti jsou v kodi.log."
+
+msgctxt "#30314"
+msgid "The plugin will not start without confirming the information notice."
+msgstr "Bez potvrzení informativního upozornění se plugin nespustí."
+
+msgctxt "#30315"
+msgid "Update check has started."
+msgstr "Kontrola aktualizací byla spuštěna."
+
+msgctxt "#30400"
+msgid "News"
+msgstr "Novinky"
+
+msgctxt "#30401"
+msgid "Popular"
+msgstr "Populární"
+
+msgctxt "#30402"
+msgid "Top rated"
+msgstr "Nejlépe hodnocené"
+
+msgctxt "#30403"
+msgid "By genre"
+msgstr "Podle žánru"
+
+msgctxt "#30404"
+msgid "By year"
+msgstr "Podle roku"
+
+msgctxt "#30405"
+msgid "By origin country"
+msgstr "Podle země původu"
+
+msgctxt "#30406"
+msgid "By original language"
+msgstr "Podle původního jazyka"
+
+msgctxt "#30407"
+msgid "Watched movies"
+msgstr "Filmy - zhlédnuté"
+
+msgctxt "#30408"
+msgid "In-progress movies"
+msgstr "Filmy - rozkoukané"
+
+msgctxt "#30409"
+msgid "On TV today"
+msgstr "Dnes v TV"
+
+msgctxt "#30410"
+msgid "Watched series"
+msgstr "Seriály - zhlédnuté"
+
+msgctxt "#30411"
+msgid "In-progress series"
+msgstr "Seriály - rozkoukané"
+
+msgctxt "#30412"
+msgid "Movies today"
+msgstr "Filmy / Dnes"
+
+msgctxt "#30413"
+msgid "Movies this week"
+msgstr "Filmy / Tento týden"
+
+msgctxt "#30414"
+msgid "Series today"
+msgstr "Seriály / Dnes"
+
+msgctxt "#30415"
+msgid "Series this week"
+msgstr "Seriály / Tento týden"
+
+msgctxt "#30416"
+msgid "People today"
+msgstr "Osoby / Dnes"
+
+msgctxt "#30417"
+msgid "People this week"
+msgstr "Osoby / Tento týden"
+
+msgctxt "#30418"
+msgid "New search"
+msgstr "Nové hledání"
+
+msgctxt "#30419"
+msgid "Search history"
+msgstr "Historie hledání"
+
+msgctxt "#30420"
+msgid "Clear history"
+msgstr "[Vymazat historii]"
+
+msgctxt "#30421"
+msgid "Search history is empty"
+msgstr "Historie hledání je prázdná"
+
+msgctxt "#30422"
+msgid "Search history was cleared"
+msgstr "Historie hledání byla vymazána."
+
+msgctxt "#30423"
+msgid "Home"
+msgstr "Domů"
+
+msgctxt "#30424"
+msgid "Home: Movie"
+msgstr "Domů: Film"
+
+msgctxt "#30425"
+msgid "Home: Series"
+msgstr "Domů: Seriály"
+
+msgctxt "#30426"
+msgid "No saved items in this section"
+msgstr "V sekci nejsou prozatím uloženy žádné položky"
+
+msgctxt "#30427"
+msgid "Add to favorites"
+msgstr "Přidat do oblíbených"
+
+msgctxt "#30428"
+msgid "Add to Trakt list"
+msgstr "Vložit do Trakt seznamu"
+
+msgctxt "#30429"
+msgid "Trakt.TV lists"
+msgstr "Trakt.TV seznamy"
+
+msgctxt "#30430"
+msgid "Public lists"
+msgstr "Veřejné seznamy"
+
+msgctxt "#30431"
+msgid "Favorite public lists"
+msgstr "Oblíbené veřejné seznamy"
+
+msgctxt "#30500"
+msgid "Settings"
+msgstr "Nastavení"
+
+msgctxt "#30501"
+msgid "[B][COLOR skyblue]Source providers[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]Výběr služeb pro vyhledávání[/COLOR][/B]"
+
+msgctxt "#30502"
+msgid "Prehraj.to"
+msgstr "Přehraj.to"
+
+msgctxt "#30503"
+msgid "Hellspy"
+msgstr "Hellspy"
+
+msgctxt "#30504"
+msgid "SkTonLine"
+msgstr "SkTonLine"
+
+msgctxt "#30505"
+msgid "WebShare"
+msgstr "WebShare"
+
+msgctxt "#30506"
+msgid "[B][COLOR skyblue]Prehraj.to account[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]Přehraj.to účet[/COLOR][/B]"
+
+msgctxt "#30507"
+msgid "Prehraj.to e-mail"
+msgstr "Přehraj.to e-mail"
+
+msgctxt "#30508"
+msgid "Prehraj.to password"
+msgstr "Přehraj.to heslo"
+
+msgctxt "#30509"
+msgid "[B][COLOR skyblue]WebShare account settings[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]Nastavení účtu WebShare[/COLOR][/B]"
+
+msgctxt "#30510"
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+msgctxt "#30511"
+msgid "Password"
+msgstr "Heslo"
+
+msgctxt "#30512"
+msgid "API Token"
+msgstr "API Token"
+
+msgctxt "#30513"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "#30514"
+msgid "[B][COLOR skyblue]                                                Refresh token[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]                                                Obnovit token[/COLOR][/B]"
+
+msgctxt "#30515"
+msgid "[B][COLOR skyblue]Search[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]Vyhledávání[/COLOR][/B]"
+
+msgctxt "#30516"
+msgid "Category"
+msgstr "Kategorie"
+
+msgctxt "#30517"
+msgid "Sort"
+msgstr "Třídění"
+
+msgctxt "#30518"
+msgid "Results per page"
+msgstr "Výsledků na stránku"
+
+msgctxt "#30519"
+msgid "All"
+msgstr "Vše"
+
+msgctxt "#30520"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#30521"
+msgid "Images"
+msgstr "Obrázky"
+
+msgctxt "#30522"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "#30523"
+msgid "Archives"
+msgstr "Archivy"
+
+msgctxt "#30524"
+msgid "Docs"
+msgstr "Dokumenty"
+
+msgctxt "#30525"
+msgid "Adult"
+msgstr "Adult"
+
+msgctxt "#30526"
+msgid "Relevance"
+msgstr "Relevance"
+
+msgctxt "#30527"
+msgid "Newest"
+msgstr "Nejnovější"
+
+msgctxt "#30528"
+msgid "Largest"
+msgstr "Největší"
+
+msgctxt "#30529"
+msgid "Smallest"
+msgstr "Nejmenší"
+
+msgctxt "#30530"
+msgid "Trakt.TV"
+msgstr "Trakt.TV"
+
+msgctxt "#30531"
+msgid "Connection status"
+msgstr "Stav připojení"
+
+msgctxt "#30532"
+msgid "Trakt account"
+msgstr "Trakt účet"
+
+msgctxt "#30533"
+msgid "[B][COLOR skyblue]                                                Activate Trakt.TV[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]                                                Aktivovat Trakt.TV[/COLOR][/B]"
+
+msgctxt "#30534"
+msgid "Activation page"
+msgstr "Aktivační stránka"
+
+msgctxt "#30535"
+msgid "Token validity"
+msgstr "Platnost tokenu"
+
+msgctxt "#30536"
+msgid "Created"
+msgstr "Vytvořeno"
+
+msgctxt "#30537"
+msgid "Series"
+msgstr "Seriály"
+
+msgctxt "#30538"
+msgid "[B][COLOR skyblue]TMDB - next episode[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]TMDB - následující epizoda[/COLOR][/B]"
+
+msgctxt "#30539"
+msgid "Enable continuing to next episode"
+msgstr "Povolit navázání na další epizodu"
+
+msgctxt "#30540"
+msgid "Continue with next episode"
+msgstr "Pokračovat další epizodou"
+
+msgctxt "#30541"
+msgid "Continue automatically"
+msgstr "Pokračovat automaticky"
+
+msgctxt "#30542"
+msgid "Show selection dialog"
+msgstr "Zobrazit výběrový dialog"
+
+msgctxt "#30543"
+msgid "Prefer same source as current episode"
+msgstr "Preferovat stejný zdroj jako aktuální díl"
+
+msgctxt "#30544"
+msgid "Automatically play only CZ/SK dubbed source"
+msgstr "Automaticky přehrát jen zdroj s CZ/SK dabingem"
+
+msgctxt "#30545"
+msgid "Downloads"
+msgstr "Stahování"
+
+msgctxt "#30546"
+msgid "Enable source downloads"
+msgstr "Povolit stahování zdrojů"
+
+msgctxt "#30547"
+msgid "Download target folder"
+msgstr "Cílová složka pro stahování"
+
+msgctxt "#30548"
+msgid "Overwrite existing file"
+msgstr "Přepsat existující soubor"
+
+msgctxt "#30549"
+msgid "Offer filename edit before downloading"
+msgstr "Před stažením nabídnout úpravu názvu souboru"
+
+msgctxt "#30550"
+msgid "Other settings"
+msgstr "Ostatní nastavení"
+
+msgctxt "#30551"
+msgid "[B][COLOR skyblue]Other settings and Ikarus plugin info[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]Ostatní nastavení a info o pluginu Ikarus[/COLOR][/B]"
+
+msgctxt "#30552"
+msgid "Primary audio track (language)"
+msgstr "Primární audio stopa (jazyk)"
+
+msgctxt "#30553"
+msgid "Secondary audio track (language)"
+msgstr "Sekundární audio stopa (jazyk)"
+
+msgctxt "#30554"
+msgid "Enable subtitles for source"
+msgstr "Zapnout titulky ke zdroji"
+
+msgctxt "#30555"
+msgid "[B][COLOR skyblue]Information notice[/COLOR][/B]"
+msgstr "[B][COLOR skyblue]Informativní upozornění[/COLOR][/B]"
+
+msgctxt "#30556"
+msgid "Do not show information notice on startup anymore"
+msgstr "Už nezobrazovat informativní text při startu"
+
+msgctxt "#30557"
+msgid "[B][COLOR white]                                Show information notice[/COLOR][/B]"
+msgstr "[B][COLOR white]                                Zobrazit informativní text[/COLOR][/B]"
+
+msgctxt "#30558"
+msgid "Accepted notice version"
+msgstr "Verze potvrzeného upozornění"
+
+msgctxt "#30559"
+msgid "[B][COLOR white]                                                Version info[/COLOR][/B]"
+msgstr "[B][COLOR white]                                                Info o verzi[/COLOR][/B]"
+
+msgctxt "#30560"
+msgid "[B][COLOR white]                                                Run diagnostics[/COLOR][/B]"
+msgstr "[B][COLOR white]                                                Spustit diagnostiku[/COLOR][/B]"
+
+msgctxt "#30561"
+msgid "[B][COLOR white]                                Check for updates[/COLOR][/B]"
+msgstr "[B][COLOR white]                                Zkontrolovat aktualizace[/COLOR][/B]"
+
+msgctxt "#30562"
+msgid "Client ID"
+msgstr "Client ID"
+
+msgctxt "#30563"
+msgid "Client Secret"
+msgstr "Client Secret"
+
+msgctxt "#30564"
+msgid "Access token"
+msgstr "Access token"
+
+msgctxt "#30565"
+msgid "Refresh token"
+msgstr "Refresh token"
+
+msgctxt "#30566"
+msgid "Token type"
+msgstr "Token type"
+
+msgctxt "#30567"
+msgid "Show next episode diagnostics"
+msgstr "Zobrazovat diagnostiku následující epizody"
+
+msgctxt "#30600"
+msgid "[New search]"
+msgstr "[Nové hledání]"
+
+msgctxt "#30601"
+msgid "[Refresh from web]"
+msgstr "[Aktualizovat z webu]"
+
+msgctxt "#30602"
+msgid "Prehraj.to - enter search query"
+msgstr "Přehraj.to - zadej hledaný výraz"
+
+msgctxt "#30603"
+msgid "Hellspy - enter search query"
+msgstr "Hellspy - zadej hledaný výraz"
+
+msgctxt "#30604"
+msgid "SkTonLine - enter search query"
+msgstr "SkTonLine - zadej hledaný výraz"
+
+msgctxt "#30605"
+msgid "More Prehraj.to pages require web login."
+msgstr "Další stránky Přehraj.to vyžadují přihlášení na webu."
+
+msgctxt "#30606"
+msgid "Nothing found."
+msgstr "Nic nenalezeno."
+
+msgctxt "#30607"
+msgid "<< Previous page"
+msgstr "<< Předchozí stránka"
+
+msgctxt "#30608"
+msgid "Next page >>"
+msgstr "Další stránka >>"
+
+msgctxt "#30609"
+msgid "Loaded from web: {pages} pages"
+msgstr "Načteno z webu: {pages} str."
+
+msgctxt "#30610"
+msgid "More results >>"
+msgstr "Další výsledky >>"
+
+msgctxt "#30612"
+msgid "Size"
+msgstr "Velikost"
+
+msgctxt "#30613"
+msgid "Length"
+msgstr "Délka"
+
+msgctxt "#30700"
+msgid "Downloads"
+msgstr "Stahování"
+
+msgctxt "#30701"
+msgid "Downloads are disabled in settings."
+msgstr "Stahování je v nastavení vypnuté."
+
+msgctxt "#30702"
+msgid "Download target folder is not set."
+msgstr "Není nastavena cílová složka pro stahování."
+
+msgctxt "#30703"
+msgid "Could not create / open target folder:\n{path}"
+msgstr "Nepodařilo se vytvořit / otevřít cílovou složku:\n{path}"
+
+msgctxt "#30704"
+msgid "Missing WebShare file identifier."
+msgstr "Chybí WebShare identifikátor souboru."
+
+msgctxt "#30705"
+msgid "Could not get a direct download link.\n\nProvider: {provider}\nID: {id}\nURL: {url}"
+msgstr "Nepodařilo se získat přímý odkaz pro stažení.\n\nProvider: {provider}\nID: {id}\nURL: {url}"
+
+msgctxt "#30706"
+msgid "File name"
+msgstr "Název souboru"
+
+msgctxt "#30707"
+msgid "File already exists:\n{file}\n\nOverwrite it?"
+msgstr "Soubor už existuje:\n{file}\n\nPřepsat jej?"
+
+msgctxt "#30708"
+msgid "Added to queue: {file}"
+msgstr "Přidáno do fronty: {file}"
+
+msgctxt "#30709"
+msgid "Removed finished items: {count}"
+msgstr "Smazáno hotových položek: {count}"
+
+msgctxt "#30710"
+msgid "Queue was cleared: {count} items."
+msgstr "Fronta byla smazána: {count} položek."
+
+msgctxt "#30711"
+msgid "Running download was stopped."
+msgstr "Probíhající stahování bylo ukončeno."
+
+msgctxt "#30712"
+msgid "Downloads / Queue"
+msgstr "Stahování / Fronta"
+
+msgctxt "#30713"
+msgid "Clear finished"
+msgstr "Smazat stažené"
+
+msgctxt "#30714"
+msgid "Clear all"
+msgstr "Smazat vše"
+
+msgctxt "#30715"
+msgid "[B]Currently downloading:[/B] {title}  [{progress}%]"
+msgstr "[B]Právě se stahuje:[/B] {title}  [{progress}%]"
+
+msgctxt "#30716"
+msgid "[B]Currently downloading:[/B] nothing"
+msgstr "[B]Právě se stahuje:[/B] nic"
+
+msgctxt "#30717"
+msgid "Queued: {queued} | Downloading: {downloading} | Done: {done} | Error: {error}"
+msgstr "Ve frontě: {queued} | Stahuje se: {downloading} | Hotovo: {done} | Chyba: {error}"
+
+msgctxt "#30718"
+msgid "Queue is empty."
+msgstr "Fronta je prázdná."
+
+msgctxt "#30719"
+msgid "[DOWNLOADING] {title} [{progress}%]"
+msgstr "[STAHUJE SE] {title} [{progress}%]"
+
+msgctxt "#30720"
+msgid "[QUEUED] {title}"
+msgstr "[VE FRONTĚ] {title}"
+
+msgctxt "#30721"
+msgid "[DONE] {title}"
+msgstr "[HOTOVO] {title}"
+
+msgctxt "#30722"
+msgid "[ERROR] {title}"
+msgstr "[CHYBA] {title}"
+
+msgctxt "#30723"
+msgid "TMDB / Image"
+msgstr "TMDB / Obrázek"
+
+msgctxt "#30724"
+msgid "Missing image URL."
+msgstr "Chybí adresa obrázku."
+
+msgctxt "#30725"
+msgid "Saved: {file}"
+msgstr "Uloženo: {file}"
+
+msgctxt "#30726"
+msgid "Image could not be downloaded:\n{error}"
+msgstr "Obrázek se nepodařilo stáhnout:\n{error}"
+
+msgctxt "#30727"
+msgid "Select quality"
+msgstr "Vyber kvalitu"
+
+msgctxt "#30728"
+msgid "Source"
+msgstr "Zdroj"
+
+msgctxt "#30729"
+msgid "{provider} sources"
+msgstr "{provider} zdroje"
+
+msgctxt "#30730"
+msgid "Source group is no longer available. Try refreshing sources."
+msgstr "Skupina zdrojů už není dostupná. Zkuste obnovit zdroje."
+
+msgctxt "#30731"
+msgid "Sources"
+msgstr "Zdroje"
+
+msgctxt "#30732"
+msgid "Missing provider."
+msgstr "Chybí provider."
+
+msgctxt "#30733"
+msgid "Missing file identifier."
+msgstr "Chybí identifikátor souboru."
+
+msgctxt "#30734"
+msgid "Unknown provider: {provider}"
+msgstr "Neznámý provider: {provider}"
+
+msgctxt "#30735"
+msgid "(unknown action: {action})"
+msgstr "(neznámá akce: {action})"
+
+msgctxt "#30736"
+msgid "(missing required parameter: {name})"
+msgstr "(chybí povinný parametr: {name})"
+
+msgctxt "#30737"
+msgid "Download source"
+msgstr "Stáhnout zdroj"
+
+msgctxt "#30738"
+msgid "Sources / Results / {title}"
+msgstr "Zdroje / Výsledky / {title}"
+
+msgctxt "#30739"
+msgid "All"
+msgstr "Vše"
+
+msgctxt "#30740"
+msgid "Search all enabled providers in sequence\nQuery: {query}"
+msgstr "Hledat postupně ve všech povolených providerech\nDotaz: {query}"
+
+msgctxt "#30741"
+msgid "Search on {provider}\nQuery: {query}"
+msgstr "Hledat na {provider}\nDotaz: {query}"
+
+msgctxt "#30742"
+msgid "No provider is enabled"
+msgstr "Není povolen žádný provider"
+
+msgctxt "#30743"
+msgid "Enable at least one provider in add-on settings."
+msgstr "Zapni aspoň jeden provider v nastavení doplňku."
+
+msgctxt "#30744"
+msgid "Search error"
+msgstr "Chyba hledání"
+
+msgctxt "#30745"
+msgid "Refresh sources"
+msgstr "Obnovit zdroje"
+
+msgctxt "#30746"
+msgid "Force a new search and overwrite cached results."
+msgstr "Vynutí nové hledání a přepíše cache výsledků."
+
+msgctxt "#30747"
+msgid "Nothing found"
+msgstr "Nic nenalezeno"
+
+msgctxt "#30748"
+msgid "Untitled"
+msgstr "Bez názvu"
+
+msgctxt "#30749"
+msgid "source"
+msgstr "zdroj"
+
+msgctxt "#30750"
+msgid "sources"
+msgstr "zdroje"
+
+msgctxt "#30751"
+msgid "sources"
+msgstr "zdrojů"
+
+msgctxt "#30752"
+msgid "■ {provider} - found {count} {count_word}"
+msgstr "■ {provider} - nalezeno {count} {count_word}"
+
+msgctxt "#30753"
+msgid "Provider: {provider}\nFound: {count}"
+msgstr "Provider: {provider}\nNalezeno: {count}"
+
+msgctxt "#30754"
+msgid "Provider: {provider}\nQuery: {query}\nError: {error}"
+msgstr "Provider: {provider}\nDotaz: {query}\nChyba: {error}"
+
+msgctxt "#30755"
+msgid "Provider: {provider}\nQuery: {query}\n{message}"
+msgstr "Provider: {provider}\nDotaz: {query}\n{message}"
+
+msgctxt "#30756"
+msgid "Provider: {provider}\nQuery: {query}\nTitle: {title}\nOriginal title: {original_title}\nYear: {year}\nMode: {mode}\nSeason: {season}\nEpisode: {episode}\nEpisode title: {episode_title}\n\nDebug dump: {debug_dump}\nDebug info: {debug_info}"
+msgstr "Provider: {provider}\nDotaz: {query}\nNázev: {title}\nOriginální název: {original_title}\nRok: {year}\nRežim: {mode}\nSérie: {season}\nEpizoda: {episode}\nNázev epizody: {episode_title}\n\nDebug dump: {debug_dump}\nDebug info: {debug_info}"
+
+msgctxt "#30757"
+msgid "Possible matches only by episode title [{count} {count_word}]"
+msgstr "Možné shody jen podle názvu epizody [{count} {count_word}]"
+
+msgctxt "#30758"
+msgid "Sources contain the episode title, or possibly the correct numbering, but not a strong series title match. They are not deleted, only hidden below."
+msgstr "Zdroje obsahují název epizody, případně i správné číslování, ale ne silnou shodu názvu seriálu. Nejsou smazané, jen schované dole."
+
+msgctxt "#30759"
+msgid "Source did not return a video file, but '{content_type}'"
+msgstr "Zdroj nevrátil video soubor, ale '{content_type}'"
+
+msgctxt "#30760"
+msgid "Downloaded file is suspiciously small ({downloaded} B)"
+msgstr "Stažený soubor je podezřele malý ({downloaded} B)"
+
+msgctxt "#30761"
+msgid "Download is incomplete: {downloaded} B of expected {total} B"
+msgstr "Stažení je neúplné: {downloaded} B z očekávaných {total} B"
+
+msgctxt "#30762"
+msgid "Invalid job"
+msgstr "Neplatný job"
+
+msgctxt "#30763"
+msgid "WebShare job is missing source_id"
+msgstr "U WebShare jobu chybí source_id"
+
+msgctxt "#30764"
+msgid "Failed to get a fresh WebShare download link"
+msgstr "Nepodařilo se získat čerstvý WebShare download link"
+
+msgctxt "#30765"
+msgid "Missing resolved_url"
+msgstr "Chybí resolved_url"
+
+msgctxt "#30766"
+msgid "Restored after interrupted download"
+msgstr "Obnoveno po přerušeném stahování"
+
+msgctxt "#30767"
+msgid "The download queue could not be saved."
+msgstr "Frontu stahování se nepodařilo uložit."
+
+msgctxt "#30800"
+msgid "Ikarus - WebShare"
+msgstr "Ikarus - WebShare"
+
+msgctxt "#30801"
+msgid "Fill in username and password in settings."
+msgstr "Vyplň uživatelské jméno a heslo v nastavení."
+
+msgctxt "#30802"
+msgid "Token was refreshed successfully."
+msgstr "Token byl úspěšně obnoven."
+
+msgctxt "#30803"
+msgid "Login failed (bad credentials or outage)."
+msgstr "Přihlášení selhalo (špatné údaje nebo výpadek)."
+
+msgctxt "#30804"
+msgid "Unexpected error while refreshing token."
+msgstr "Neočekávaná chyba při obnově tokenu."
+
+msgctxt "#30810"
+msgid "Ikarus - Trakt.TV"
+msgstr "Ikarus - Trakt.TV"
+
+msgctxt "#30811"
+msgid "Connected as {username}"
+msgstr "Připojeno jako {username}"
+
+msgctxt "#30812"
+msgid "Connected."
+msgstr "Připojeno."
+
+msgctxt "#30813"
+msgid "Connection check failed."
+msgstr "Kontrola připojení selhala."
+
+msgctxt "#30814"
+msgid "Trakt.TV username alone is not enough.\n\nThe activation code can only be generated by a registered Trakt application. Once Ikarus application credentials are filled in, clicking the button will show the code for https://trakt.tv/activate."
+msgstr "Samotné uživatelské jméno na Trakt.TV nestačí.\n\nAktivační kód může vygenerovat jen registrovaná Trakt aplikace. Jakmile doplníme údaje aplikace Ikarus, po kliknutí se rovnou ukáže kód pro https://trakt.tv/activate."
+
+msgctxt "#30815"
+msgid "Could not get login code."
+msgstr "Nepodařilo se získat přihlašovací kód."
+
+msgctxt "#30816"
+msgid "Trakt did not return a login code."
+msgstr "Trakt nevrátil přihlašovací kód."
+
+msgctxt "#30817"
+msgid "Ikarus - Trakt.TV / Device activation"
+msgstr "Ikarus - Trakt.TV / Aktivace zařízení"
+
+msgctxt "#30818"
+msgid "Open {url}\nEnter code: {code}\nWaiting for browser confirmation..."
+msgstr "Otevři {url}\nZadej kód: {code}\nČekám na potvrzení v prohlížeči..."
+
+msgctxt "#30819"
+msgid "Open {url}\nEnter code: {code}\nThe window will close after activation."
+msgstr "Otevři {url}\nZadej kód: {code}\nPo aktivaci se okno samo zavře."
+
+msgctxt "#30820"
+msgid "Login code expired."
+msgstr "Přihlašovací kód vypršel."
+
+msgctxt "#30821"
+msgid "Trakt did not return a valid token."
+msgstr "Trakt nevrátil platný token."
+
+msgctxt "#30822"
+msgid "Device connected as {username}"
+msgstr "Zařízení připojeno jako {username}"
+
+msgctxt "#30823"
+msgid "Device was connected."
+msgstr "Zařízení bylo připojeno."
+
+msgctxt "#30824"
+msgid "Trakt account was disconnected."
+msgstr "Trakt účet byl odpojen."
+
+msgctxt "#30900"
+msgid "Ikarus"
+msgstr "Ikarus"
+
+msgctxt "#30901"
+msgid "Source cache is empty."
+msgstr "Cache zdrojů je prázdná."
+
+msgctxt "#30902"
+msgid "Delete temporary source cache?\n\nFiles: {count}"
+msgstr "Smazat dočasnou cache zdrojů?\n\nSouborů: {count}"
+
+msgctxt "#30903"
+msgid "Source cache: deleted {deleted}, failed {failed}"
+msgstr "Cache zdrojů: smazáno {deleted}, chyba {failed}"
+
+msgctxt "#30904"
+msgid "Ikarus diagnostics"
+msgstr "Ikarus diagnostika"
+
+msgctxt "#30905"
+msgid "Ikarus - information notice"
+msgstr "Ikarus - informativní upozornění"
+
+msgctxt "#30906"
+msgid "To start the plugin, you must confirm the information notice.\n\nDo you agree with this information?"
+msgstr "Pro spuštění pluginu je potřeba potvrdit souhlas s informativním upozorněním.\n\nSouhlasíte s uvedenými informacemi?"
+
+msgctxt "#30907"
+msgid "I do not agree"
+msgstr "Nesouhlasím"
+
+msgctxt "#30908"
+msgid "I agree"
+msgstr "Souhlasím"
+
+msgctxt "#30909"
+msgid ""
+"[B]Welcome to Ikarus.[/B]\n"
+"\n"
+"The Ikarus plugin is only a search and information tool connecting publicly available internet sources and third-party services.\n"
+"It does not contain any multimedia content of its own, media database, or stored data protected by copyright.\n"
+"All information and links are obtained from publicly available internet sources.\n"
+"\n"
+"The plugin was developed primarily for private, educational, and testing purposes.\n"
+"Installation and use of the plugin is completely voluntary and every user uses it solely at their own responsibility.\n"
+"\n"
+"The plugin may communicate with external internet services to obtain publicly available data, links, and metadata.\n"
+"Availability of individual functions depends on external services and may change at any time without influence from the plugin author.\n"
+"\n"
+"The plugin author does not operate any of the external services and is not associated with third-party content providers.\n"
+"The author is not responsible for external website content, service availability, API changes, broken sources, or how the user handles found data, links, or information.\n"
+"\n"
+"Search results are not manually checked, filtered, or approved by the plugin author.\n"
+"The user is obliged to comply with the laws of their country and respect licenses and third-party copyrights.\n"
+"\n"
+"Some service names, logos, and trademarks used in the plugin are property of their respective owners.\n"
+"The Ikarus plugin is not officially connected with them or supported by their operators.\n"
+"\n"
+"The plugin author provides no warranty of functionality and is not responsible for possible damages, data loss, device restrictions, service restrictions, account blocking, or any other consequences arising from use of the Ikarus plugin.\n"
+"Plugin support may be changed, limited, or terminated at any time.\n"
+"\n"
+"By using the plugin, the user confirms that they agree with this information."
+msgstr ""
+"[B]Vítejte v Ikarusu.[/B]\n"
+"\n"
+"Plugin Ikarus slouží pouze jako vyhledávací a informační nástroj propojující veřejně dostupné internetové zdroje a služby třetích stran.\n"
+"Neobsahuje žádný vlastní multimediální obsah, databázi médií ani žádná uložená data chráněná autorským právem.\n"
+"Veškeré informace a odkazy jsou získávány z veřejně dostupných zdrojů na internetu.\n"
+"\n"
+"Plugin byl vyvíjen primárně pro soukromé, vzdělávací a testovací účely.\n"
+"Instalace a používání pluginu je zcela dobrovolné a každý uživatel používá plugin výhradně na vlastní odpovědnost.\n"
+"\n"
+"Plugin může komunikovat s externími internetovými službami za účelem získávání veřejně dostupných dat, odkazů a metadat.\n"
+"Dostupnost jednotlivých funkcí závisí na externích službách a může se kdykoliv změnit bez možnosti ovlivnění ze strany autora pluginu.\n"
+"\n"
+"Autor pluginu není provozovatelem žádné z externích služeb a není nijak spojen s poskytovateli obsahu třetích stran.\n"
+"Autor nenese odpovědnost za obsah externích webů, dostupnost služeb, změny API, nefunkčnost zdrojů ani za způsob, jakým uživatel s nalezenými daty, odkazy nebo informacemi naloží.\n"
+"\n"
+"Výsledky vyhledávání nejsou autorem pluginu ručně kontrolovány, filtrovány ani schvalovány.\n"
+"Uživatel je povinen dodržovat platné zákony své země a respektovat licenční a autorská práva třetích stran.\n"
+"\n"
+"Některé názvy služeb, loga a ochranné známky použité v pluginu jsou majetkem jejich příslušných vlastníků.\n"
+"Plugin Ikarus s nimi není oficiálně propojen ani podporován jejich provozovateli.\n"
+"\n"
+"Autor pluginu neposkytuje žádnou záruku funkčnosti a nenese odpovědnost za případné škody, ztrátu dat, omezení zařízení, omezení služeb, zablokování účtů ani jiné následky vzniklé používáním pluginu Ikarus.\n"
+"Podpora pluginu může být kdykoliv změněna, omezena nebo ukončena.\n"
+"\n"
+"Používáním pluginu uživatel potvrzuje, že s těmito informacemi souhlasí."
+
+msgctxt "#30912"
+msgid "GitHub Gist"
+msgstr "GitHub Gist"
+
+msgctxt "#30910"
+msgid "{progress}% - {title}"
+msgstr "{progress}% - {title}"
+
+msgctxt "#30911"
+msgid "Downloaded: {title}"
+msgstr "Staženo: {title}"
+
+msgctxt "#31000"
+msgid "New search"
+msgstr "Nové hledání"
+
+msgctxt "#31001"
+msgid "Search history"
+msgstr "Historie hledání"
+
+msgctxt "#31002"
+msgid "Newest on WebShare"
+msgstr "Nejnovější na WebShare"
+
+msgctxt "#31003"
+msgid "Largest on WebShare"
+msgstr "Největší na WebShare"
+
+msgctxt "#31004"
+msgid "Enter search query"
+msgstr "Zadej hledaný výraz"
+
+msgctxt "#31005"
+msgid "[Clear history]"
+msgstr "[Vymazat historii]"
+
+msgctxt "#31006"
+msgid "History is empty."
+msgstr "Historie je prázdná."
+
+msgctxt "#31007"
+msgid "History cleared."
+msgstr "Historie vymazána."
+
+msgctxt "#31008"
+msgid "Back: Search movie"
+msgstr "Zpět: Hledej film"
+
+msgctxt "#31009"
+msgid "[Refresh from web]  [COLOR gray](page {page})[/COLOR]"
+msgstr "[Aktualizovat z webu]  [COLOR gray](strana {page})[/COLOR]"
+
+msgctxt "#31010"
+msgid "<< Previous page"
+msgstr "<< Předchozí stránka"
+
+msgctxt "#31011"
+msgid "Show detail"
+msgstr "Zobrazit detail"
+
+msgctxt "#31012"
+msgid "Next page >>"
+msgstr "Další stránka >>"
+
+msgctxt "#31013"
+msgid "API /search error: {error}"
+msgstr "Chyba API /search: {error}"
+
+msgctxt "#31014"
+msgid "API /file_info error: {error}"
+msgstr "Chyba API /file_info: {error}"
+
+msgctxt "#31015"
+msgid "Name:\n  {name}\n\nSize:\n  {size}\n\nMIME:\n  {mime}\n\nLink:\n  {link}\n"
+msgstr "Název:\n  {name}\n\nVelikost:\n  {size}\n\nMIME:\n  {mime}\n\nOdkaz:\n  {link}\n"
+
+msgctxt "#31016"
+msgid "File detail"
+msgstr "Detail souboru"
+
+msgctxt "#31017"
+msgid "Could not load detail: {error}"
+msgstr "Nepodařilo se načíst detail: {error}"
+
+msgctxt "#31018"
+msgid "Missing file identifier."
+msgstr "Chybí identifikátor souboru."
+
+msgctxt "#31019"
+msgid "Source is unavailable, try another one."
+msgstr "Zdroj je nedostupný, zkuste jiný."
+
+msgctxt "#31100"
+msgid "TMDB / Movies"
+msgstr "TMDB / Film"
+
+msgctxt "#31101"
+msgid "TMDB / Movies / News"
+msgstr "TMDB / Film / Novinky"
+
+msgctxt "#31102"
+msgid "Now playing"
+msgstr "V kinech"
+
+msgctxt "#31103"
+msgid "Upcoming"
+msgstr "Připravované"
+
+msgctxt "#31104"
+msgid "TMDB / Series"
+msgstr "TMDB / Seriál"
+
+msgctxt "#31105"
+msgid "TMDB / People"
+msgstr "TMDB / Osoby"
+
+msgctxt "#31106"
+msgid "TMDB / Trending"
+msgstr "TMDB / Trendující"
+
+msgctxt "#31107"
+msgid "TMDB / Search"
+msgstr "TMDB / Vyhledat"
+
+msgctxt "#31108"
+msgid "Movie"
+msgstr "Film"
+
+msgctxt "#31109"
+msgid "Series"
+msgstr "Seriál"
+
+msgctxt "#31110"
+msgid "People"
+msgstr "Osoby"
+
+msgctxt "#31111"
+msgid "All"
+msgstr "Vše"
+
+msgctxt "#31112"
+msgid "TMDB / Movies / Search"
+msgstr "TMDB / Film / Vyhledat"
+
+msgctxt "#31113"
+msgid "TMDB / Series / Search"
+msgstr "TMDB / Seriál / Vyhledat"
+
+msgctxt "#31114"
+msgid "TMDB / People / Search"
+msgstr "TMDB / Osoby / Vyhledat"
+
+msgctxt "#31115"
+msgid "TMDB / Search / All"
+msgstr "TMDB / Vyhledat / Vše"
+
+msgctxt "#31116"
+msgid "(no search query entered)"
+msgstr "(nebyl zadán hledaný výraz)"
+
+msgctxt "#31117"
+msgid "(missing search query)"
+msgstr "(chybí hledaný výraz)"
+
+msgctxt "#31118"
+msgid "TMDB / Movies / Search history"
+msgstr "TMDB / Film / Historie hledání"
+
+msgctxt "#31119"
+msgid "TMDB / Series / Search history"
+msgstr "TMDB / Seriál / Historie hledání"
+
+msgctxt "#31120"
+msgid "TMDB / People / Search history"
+msgstr "TMDB / Osoby / Historie hledání"
+
+msgctxt "#31121"
+msgid "TMDB / Search / All / Search history"
+msgstr "TMDB / Vyhledat / Vše / Historie hledání"
+
+msgctxt "#31122"
+msgid "TMDB / Movies / Search / {query}"
+msgstr "TMDB / Film / Vyhledat / {query}"
+
+msgctxt "#31123"
+msgid "TMDB / Series / Search / {query}"
+msgstr "TMDB / Seriál / Vyhledat / {query}"
+
+msgctxt "#31124"
+msgid "TMDB / People / Search / {query}"
+msgstr "TMDB / Osoby / Vyhledat / {query}"
+
+msgctxt "#31125"
+msgid "TMDB / Search / All / {query}"
+msgstr "TMDB / Vyhledat / Vše / {query}"
+
+msgctxt "#31126"
+msgid "TMDB / Movies / News / Now playing"
+msgstr "TMDB / Film / Novinky / V kinech"
+
+msgctxt "#31127"
+msgid "TMDB / Movies / News / Upcoming"
+msgstr "TMDB / Film / Novinky / Připravované"
+
+msgctxt "#31128"
+msgid "TMDB / Movies / Popular / All"
+msgstr "TMDB / Film / Populární / Vše"
+
+msgctxt "#31129"
+msgid "TMDB / Movies / Top rated"
+msgstr "TMDB / Film / Nejlépe hodnocené"
+
+msgctxt "#31130"
+msgid "TMDB / Movies / News / Trending today"
+msgstr "TMDB / Film / Novinky / Trendující dnes"
+
+msgctxt "#31131"
+msgid "TMDB / Movies / News / Trending this week"
+msgstr "TMDB / Film / Novinky / Trendující tento týden"
+
+msgctxt "#31132"
+msgid "TMDB / Movies / By genre"
+msgstr "TMDB / Film / Podle žánru"
+
+msgctxt "#31133"
+msgid "TMDB / Movies / By genre / {genre}"
+msgstr "TMDB / Film / Podle žánru / {genre}"
+
+msgctxt "#31134"
+msgid "TMDB / Movies / By year"
+msgstr "TMDB / Film / Podle roku"
+
+msgctxt "#31135"
+msgid "TMDB / Movies / By year / {year}"
+msgstr "TMDB / Film / Podle roku / {year}"
+
+msgctxt "#31136"
+msgid "TMDB / Movies / By original language"
+msgstr "TMDB / Film / Podle původního jazyka"
+
+msgctxt "#31137"
+msgid "TMDB / Movies / By original language / {country}"
+msgstr "TMDB / Film / Podle původního jazyka / {country}"
+
+msgctxt "#31138"
+msgid "TMDB / Movies / By country of origin"
+msgstr "TMDB / Film / Podle země původu"
+
+msgctxt "#31139"
+msgid "TMDB / Movies / By country of origin / {country}"
+msgstr "TMDB / Film / Podle země původu / {country}"
+
+msgctxt "#31140"
+msgid "TMDB / Movies / Watched"
+msgstr "TMDB / Film / Zhlédnuté"
+
+msgctxt "#31141"
+msgid "TMDB / Movies / In progress"
+msgstr "TMDB / Film / Rozkoukané"
+
+msgctxt "#31142"
+msgid "TMDB / Series / Watched"
+msgstr "TMDB / Seriál / Zhlédnuté"
+
+msgctxt "#31143"
+msgid "TMDB / Series / In progress"
+msgstr "TMDB / Seriál / Rozkoukané"
+
+msgctxt "#31144"
+msgid "TMDB / Series / Top rated"
+msgstr "TMDB / Seriál / Nejlépe hodnocené"
+
+msgctxt "#31145"
+msgid "TMDB / Series / Airing today"
+msgstr "TMDB / Seriál / Dnes v TV"
+
+msgctxt "#31146"
+msgid "TMDB / Trending / Series / Today"
+msgstr "TMDB / Trendující / Seriály / Dnes"
+
+msgctxt "#31147"
+msgid "TMDB / Trending / Series / This week"
+msgstr "TMDB / Trendující / Seriály / Tento týden"
+
+msgctxt "#31148"
+msgid "TMDB / Series / By genre"
+msgstr "TMDB / Seriál / Podle žánru"
+
+msgctxt "#31149"
+msgid "TMDB / Series / By genre / {genre}"
+msgstr "TMDB / Seriál / Podle žánru / {genre}"
+
+msgctxt "#31150"
+msgid "TMDB / Series / By year"
+msgstr "TMDB / Seriál / Podle roku"
+
+msgctxt "#31151"
+msgid "TMDB / Series / By year / {year}"
+msgstr "TMDB / Seriál / Podle roku / {year}"
+
+msgctxt "#31152"
+msgid "TMDB / Series / By original language"
+msgstr "TMDB / Seriál / Podle původního jazyka"
+
+msgctxt "#31153"
+msgid "TMDB / Series / By original language / {country}"
+msgstr "TMDB / Seriál / Podle původního jazyka / {country}"
+
+msgctxt "#31154"
+msgid "TMDB / Series / By country of origin"
+msgstr "TMDB / Seriál / Podle země původu"
+
+msgctxt "#31155"
+msgid "TMDB / Series / By country of origin / {country}"
+msgstr "TMDB / Seriál / Podle země původu / {country}"
+
+msgctxt "#31156"
+msgid "TMDB / People / Popular"
+msgstr "TMDB / Osoby / Populární"
+
+msgctxt "#31157"
+msgid "TMDB / Trending / People / Today"
+msgstr "TMDB / Trendující / Osoby / Dnes"
+
+msgctxt "#31158"
+msgid "TMDB / Trending / People / This week"
+msgstr "TMDB / Trendující / Osoby / Tento týden"
+
+msgctxt "#31159"
+msgid "(no TMDB data)"
+msgstr "(žádná data z TMDB)"
+
+msgctxt "#31160"
+msgid "(no genre data from TMDB)"
+msgstr "(žádná data žánrů z TMDB)"
+
+msgctxt "#31161"
+msgid "(no year data)"
+msgstr "(žádná data roků)"
+
+msgctxt "#31162"
+msgid "(no language data)"
+msgstr "(žádná data jazyků)"
+
+msgctxt "#31163"
+msgid "(no country data)"
+msgstr "(žádná data zemí)"
+
+msgctxt "#31164"
+msgid "(missing genre_id)"
+msgstr "(chybí genre_id)"
+
+msgctxt "#31165"
+msgid "(missing year)"
+msgstr "(chybí rok)"
+
+msgctxt "#31166"
+msgid "(missing country_code)"
+msgstr "(chybí country_code)"
+
+msgctxt "#31200"
+msgid "Action"
+msgstr "Akční"
+
+msgctxt "#31201"
+msgid "Adventure"
+msgstr "Dobrodružný"
+
+msgctxt "#31202"
+msgid "Animation"
+msgstr "Animovaný"
+
+msgctxt "#31203"
+msgid "Comedy"
+msgstr "Komedie"
+
+msgctxt "#31204"
+msgid "Crime"
+msgstr "Krimi"
+
+msgctxt "#31205"
+msgid "Documentary"
+msgstr "Dokumentární"
+
+msgctxt "#31206"
+msgid "Drama"
+msgstr "Drama"
+
+msgctxt "#31207"
+msgid "Family"
+msgstr "Rodinný"
+
+msgctxt "#31208"
+msgid "Fantasy"
+msgstr "Fantasy"
+
+msgctxt "#31209"
+msgid "History"
+msgstr "Historický"
+
+msgctxt "#31210"
+msgid "Horror"
+msgstr "Horor"
+
+msgctxt "#31211"
+msgid "Music"
+msgstr "Hudební"
+
+msgctxt "#31212"
+msgid "Mystery"
+msgstr "Mysteriózní"
+
+msgctxt "#31213"
+msgid "Romance"
+msgstr "Romantický"
+
+msgctxt "#31214"
+msgid "Science Fiction"
+msgstr "Sci-Fi"
+
+msgctxt "#31215"
+msgid "TV Movie"
+msgstr "TV film"
+
+msgctxt "#31216"
+msgid "Thriller"
+msgstr "Thriller"
+
+msgctxt "#31217"
+msgid "War"
+msgstr "Válečný"
+
+msgctxt "#31218"
+msgid "Western"
+msgstr "Western"
+
+msgctxt "#31219"
+msgid "Action & Adventure"
+msgstr "Akční a dobrodružný"
+
+msgctxt "#31220"
+msgid "Kids"
+msgstr "Dětský"
+
+msgctxt "#31221"
+msgid "News"
+msgstr "Zpravodajství"
+
+msgctxt "#31222"
+msgid "Reality"
+msgstr "Reality show"
+
+msgctxt "#31223"
+msgid "Sci-Fi & Fantasy"
+msgstr "Sci-Fi a fantasy"
+
+msgctxt "#31224"
+msgid "Soap"
+msgstr "Telenovela"
+
+msgctxt "#31225"
+msgid "Talk"
+msgstr "Talk show"
+
+msgctxt "#31226"
+msgid "War & Politics"
+msgstr "Válka a politika"
+
+msgctxt "#31300"
+msgid "TMDB / Trailer"
+msgstr "TMDB / Trailer"
+
+msgctxt "#31301"
+msgid "Missing video key."
+msgstr "Chybí video key."
+
+msgctxt "#31302"
+msgid "Unsupported video source: {source}"
+msgstr "Nepodporovaný zdroj videa: {source}"
+
+msgctxt "#31303"
+msgid "unknown"
+msgstr "neznámý"
+
+msgctxt "#31304"
+msgid "TMDB / Series / Seasons"
+msgstr "TMDB / Seriál / Série"
+
+msgctxt "#31305"
+msgid "(missing TMDB id)"
+msgstr "(chybí TMDB id)"
+
+msgctxt "#31306"
+msgid "({title}) - detail could not be loaded"
+msgstr "({title}) - detail se nepodařilo načíst"
+
+msgctxt "#31307"
+msgid "TMDB / Series / {title} / Seasons"
+msgstr "TMDB / Seriál / {title} / Série"
+
+msgctxt "#31308"
+msgid "Season {number}"
+msgstr "Série {number}"
+
+msgctxt "#31309"
+msgid "{count} ep."
+msgstr "{count} ep."
+
+msgctxt "#31310"
+msgid "(no seasons)"
+msgstr "(žádné série)"
+
+msgctxt "#31311"
+msgid "TMDB / Series / Episodes"
+msgstr "TMDB / Seriál / Epizody"
+
+msgctxt "#31312"
+msgid "(missing TMDB id or season_number)"
+msgstr "(chybí TMDB id nebo season_number)"
+
+msgctxt "#31313"
+msgid "({title} / {season}) - data could not be loaded"
+msgstr "({title} / {season}) - data se nepodařilo načíst"
+
+msgctxt "#31314"
+msgid "TMDB / Series / {title} / {season}"
+msgstr "TMDB / Seriál / {title} / {season}"
+
+msgctxt "#31315"
+msgid "(no episodes)"
+msgstr "(žádné epizody)"
+
+msgctxt "#31316"
+msgid "TMDB / Movies / Popular"
+msgstr "TMDB / Film / Populární"
+
+msgctxt "#31317"
+msgid "(missing provider_id)"
+msgstr "(chybí provider_id)"
+
+msgctxt "#31318"
+msgid "TMDB / Movies / Popular / {provider}"
+msgstr "TMDB / Film / Populární / {provider}"
+
+msgctxt "#31319"
+msgid "Service"
+msgstr "Služba"
+
+msgctxt "#31320"
+msgid "TMDB / Series / Popular"
+msgstr "TMDB / Seriál / Populární"
+
+msgctxt "#31321"
+msgid "TMDB / Series / Popular / All"
+msgstr "TMDB / Seriál / Populární / Vše"
+
+msgctxt "#31322"
+msgid "TMDB / Series / Popular / {provider}"
+msgstr "TMDB / Seriál / Populární / {provider}"
+
+msgctxt "#31323"
+msgid "The series has no available episodes"
+msgstr "Série nemá dostupné epizody"
+
+msgctxt "#31400"
+msgid "TMDB / Movie / Detail"
+msgstr "TMDB / Film / Detail"
+
+msgctxt "#31401"
+msgid "TMDB / Movie / {title}"
+msgstr "TMDB / Film / {title}"
+
+msgctxt "#31402"
+msgid "Basic information"
+msgstr "Základní informace"
+
+msgctxt "#31403"
+msgid "Cast"
+msgstr "Herci"
+
+msgctxt "#31404"
+msgid "Cast ({count})"
+msgstr "Herci ({count})"
+
+msgctxt "#31405"
+msgid "Similar movies"
+msgstr "Podobné filmy"
+
+msgctxt "#31406"
+msgid "Media"
+msgstr "Média"
+
+msgctxt "#31407"
+msgid "TMDB / Movie / {title} / Basic information"
+msgstr "TMDB / Film / {title} / Základní informace"
+
+msgctxt "#31408"
+msgid "(no detailed metadata)"
+msgstr "(žádná detailní metadata)"
+
+msgctxt "#31409"
+msgid "TMDB / Movie / Cast"
+msgstr "TMDB / Film / Herci"
+
+msgctxt "#31410"
+msgid "TMDB / Movie / {title} / Cast"
+msgstr "TMDB / Film / {title} / Herci"
+
+msgctxt "#31411"
+msgid "(no cast)"
+msgstr "(žádní herci)"
+
+msgctxt "#31412"
+msgid "TMDB / Movie / Crew"
+msgstr "TMDB / Film / Štáb"
+
+msgctxt "#31413"
+msgid "TMDB / Movie / {title} / {department}"
+msgstr "TMDB / Film / {title} / {department}"
+
+msgctxt "#31414"
+msgid "(missing department)"
+msgstr "(chybí department)"
+
+msgctxt "#31415"
+msgid "(no data)"
+msgstr "(žádná data)"
+
+msgctxt "#31416"
+msgid "TMDB / Movie / Similar movies"
+msgstr "TMDB / Film / Podobné filmy"
+
+msgctxt "#31417"
+msgid "TMDB / Movie / {title} / Similar movies"
+msgstr "TMDB / Film / {title} / Podobné filmy"
+
+msgctxt "#31418"
+msgid "TMDB / Series / Detail"
+msgstr "TMDB / Seriál / Detail"
+
+msgctxt "#31419"
+msgid "TMDB / Series / {title}"
+msgstr "TMDB / Seriál / {title}"
+
+msgctxt "#31420"
+msgid "Similar series"
+msgstr "Podobné seriály"
+
+msgctxt "#31421"
+msgid "TMDB / Series / {title} / Basic information"
+msgstr "TMDB / Seriál / {title} / Základní informace"
+
+msgctxt "#31422"
+msgid "TMDB / Series / Cast"
+msgstr "TMDB / Seriál / Herci"
+
+msgctxt "#31423"
+msgid "TMDB / Series / {title} / Cast"
+msgstr "TMDB / Seriál / {title} / Herci"
+
+msgctxt "#31424"
+msgid "TMDB / Series / Crew"
+msgstr "TMDB / Seriál / Štáb"
+
+msgctxt "#31425"
+msgid "TMDB / Series / {title} / {department}"
+msgstr "TMDB / Seriál / {title} / {department}"
+
+msgctxt "#31426"
+msgid "TMDB / Series / Similar series"
+msgstr "TMDB / Seriál / Podobné seriály"
+
+msgctxt "#31427"
+msgid "TMDB / Series / {title} / Similar series"
+msgstr "TMDB / Seriál / {title} / Podobné seriály"
+
+msgctxt "#31430"
+msgid "Title"
+msgstr "Název"
+
+msgctxt "#31431"
+msgid "Original title"
+msgstr "Originální název"
+
+msgctxt "#31432"
+msgid "Tagline"
+msgstr "Tagline"
+
+msgctxt "#31433"
+msgid "Status"
+msgstr "Stav"
+
+msgctxt "#31434"
+msgid "Genres"
+msgstr "Žánry"
+
+msgctxt "#31435"
+msgid "Country"
+msgstr "Země"
+
+msgctxt "#31436"
+msgid "Production"
+msgstr "Produkce"
+
+msgctxt "#31437"
+msgid "Runtime"
+msgstr "Délka"
+
+msgctxt "#31438"
+msgid "Budget"
+msgstr "Rozpočet"
+
+msgctxt "#31439"
+msgid "Revenue"
+msgstr "Tržby"
+
+msgctxt "#31440"
+msgid "First air date"
+msgstr "První vysílání"
+
+msgctxt "#31441"
+msgid "Last air date"
+msgstr "Poslední vysílání"
+
+msgctxt "#31442"
+msgid "Number of seasons"
+msgstr "Počet sérií"
+
+msgctxt "#31443"
+msgid "Number of episodes"
+msgstr "Počet epizod"
+
+msgctxt "#31444"
+msgid "Networks"
+msgstr "Stanice"
+
+msgctxt "#31445"
+msgid "TMDB / Movie / Basic information"
+msgstr "TMDB / Film / Základní informace"
+
+msgctxt "#31446"
+msgid "TMDB / Series / Basic information"
+msgstr "TMDB / Seriál / Základní informace"
+
+msgctxt "#31500"
+msgid "Person"
+msgstr "Osoba"
+
+msgctxt "#31501"
+msgid "TMDB / People / Detail"
+msgstr "TMDB / Osoby / Detail"
+
+msgctxt "#31502"
+msgid "TMDB / People / {name}"
+msgstr "TMDB / Osoby / {name}"
+
+msgctxt "#31503"
+msgid "Profession: {value}"
+msgstr "Profese: {value}"
+
+msgctxt "#31504"
+msgid "Born: {value}"
+msgstr "Narození: {value}"
+
+msgctxt "#31505"
+msgid "Died: {value}"
+msgstr "Úmrtí: {value}"
+
+msgctxt "#31506"
+msgid "Place of birth: {value}"
+msgstr "Místo narození: {value}"
+
+msgctxt "#31507"
+msgid "Known for: {value}"
+msgstr "Známý/á pro: {value}"
+
+msgctxt "#31508"
+msgid "Filmography"
+msgstr "Filmografie"
+
+msgctxt "#31509"
+msgid "(no filmography)"
+msgstr "(žádná filmografie)"
+
+msgctxt "#31510"
+msgid "TMDB / People / Filmography"
+msgstr "TMDB / Osoby / Filmografie"
+
+msgctxt "#31511"
+msgid "TMDB / People / {name} / Filmography"
+msgstr "TMDB / Osoby / {name} / Filmografie"
+
+msgctxt "#31512"
+msgid "TMDB / People / {name} / {department}"
+msgstr "TMDB / Osoby / {name} / {department}"
+
+msgctxt "#31513"
+msgid "(no supported items)"
+msgstr "(žádné podporované položky)"
+
+msgctxt "#31514"
+msgid "TMDB / People / Filmography / Movies"
+msgstr "TMDB / Osoby / Filmografie / Filmy"
+
+msgctxt "#31515"
+msgid "TMDB / People / {name} / Filmography / Movies"
+msgstr "TMDB / Osoby / {name} / Filmografie / Filmy"
+
+msgctxt "#31516"
+msgid "(no movie roles)"
+msgstr "(žádné filmové role)"
+
+msgctxt "#31517"
+msgid "TMDB / People / Filmography / Series"
+msgstr "TMDB / Osoby / Filmografie / Seriály"
+
+msgctxt "#31518"
+msgid "TMDB / People / {name} / Filmography / Series"
+msgstr "TMDB / Osoby / {name} / Filmografie / Seriály"
+
+msgctxt "#31519"
+msgid "(no series roles)"
+msgstr "(žádné seriálové role)"
+
+msgctxt "#31600"
+msgid "(no supported results)"
+msgstr "(žádné podporované výsledky)"
+
+msgctxt "#31601"
+msgid "{title} / Page {page}"
+msgstr "{title} / Strana {page}"
+
+msgctxt "#31602"
+msgid "No item found."
+msgstr "Nebyla nalezena žádná položka."
+
+msgctxt "#31603"
+msgid "Image"
+msgstr "Obrázek"
+
+msgctxt "#31604"
+msgid "TMDB / {media} / Media"
+msgstr "TMDB / {media} / Média"
+
+msgctxt "#31605"
+msgid "TMDB / {media} / {title} / Media"
+msgstr "TMDB / {media} / {title} / Média"
+
+msgctxt "#31606"
+msgid "Most popular"
+msgstr "Nejoblíbenější"
+
+msgctxt "#31607"
+msgid "Videos"
+msgstr "Videa"
+
+msgctxt "#31608"
+msgid "Backdrops"
+msgstr "Pozadí"
+
+msgctxt "#31609"
+msgid "Posters"
+msgstr "Plakáty"
+
+msgctxt "#31610"
+msgid "Poster"
+msgstr "Plakát"
+
+msgctxt "#31611"
+msgid "TMDB / {media} / Media / {section}"
+msgstr "TMDB / {media} / Média / {section}"
+
+msgctxt "#31612"
+msgid "TMDB / {media} / {title} / Media / {section}"
+msgstr "TMDB / {media} / {title} / Média / {section}"
+
+msgctxt "#31613"
+msgid "Media / Videos"
+msgstr "Média / Videa"
+
+msgctxt "#31614"
+msgid "Trailers / videos"
+msgstr "Trailery / videa"
+
+msgctxt "#31615"
+msgid "TMDB / Movie / {section}"
+msgstr "TMDB / Film / {section}"
+
+msgctxt "#31616"
+msgid "TMDB / Movie / {title} / {section}"
+msgstr "TMDB / Film / {title} / {section}"
+
+msgctxt "#31617"
+msgid "TMDB / Series / {section}"
+msgstr "TMDB / Seriál / {section}"
+
+msgctxt "#31618"
+msgid "TMDB / Series / {title} / {section}"
+msgstr "TMDB / Seriál / {title} / {section}"
+
+msgctxt "#31619"
+msgid "(page limit: {limit})"
+msgstr "(limit na stránku: {limit})"
+
+msgctxt "#31700"
+msgid "TMDB / My lists"
+msgstr "TMDB / Moje seznamy"
+
+msgctxt "#31701"
+msgid "TMDB / Trakt.TV"
+msgstr "TMDB / Trakt.TV"
+
+msgctxt "#31702"
+msgid "TMDB / Custom lists"
+msgstr "TMDB / Vlastní seznamy"
+
+msgctxt "#31703"
+msgid "TMDB / Trakt.TV lists"
+msgstr "TMDB / Trakt.TV seznamy"
+
+msgctxt "#31704"
+msgid "TMDB / My lists / Smart lists"
+msgstr "TMDB / Moje seznamy / Chytré seznamy"
+
+msgctxt "#31705"
+msgid "TMDB / Trakt.TV / My lists"
+msgstr "TMDB / Trakt.TV / Moje seznamy"
+
+msgctxt "#31706"
+msgid "TMDB / Trakt.TV / Public lists"
+msgstr "TMDB / Trakt.TV / Veřejné seznamy"
+
+msgctxt "#31707"
+msgid "TMDB / Trakt.TV / Favorite public lists"
+msgstr "TMDB / Trakt.TV / Oblíbené veřejné seznamy"
+
+msgctxt "#31708"
+msgid "TMDB / Watched and in progress"
+msgstr "TMDB / Zhlédnuté a rozkoukané"
+
+msgctxt "#31709"
+msgid "TMDB / Trakt.TV / Watched"
+msgstr "TMDB / Trakt.TV / Zhlédnuté"
+
+msgctxt "#31710"
+msgid "TMDB / Trakt.TV / In progress"
+msgstr "TMDB / Trakt.TV / Rozkoukané"
+
+msgctxt "#31711"
+msgid "TMDB / Trakt.TV / New list"
+msgstr "TMDB / Trakt.TV / Nový seznam"
+
+msgctxt "#31712"
+msgid "TMDB / Trakt.TV / Edit title"
+msgstr "TMDB / Trakt.TV / Upravit název"
+
+msgctxt "#31713"
+msgid "TMDB / Trakt.TV / Search list"
+msgstr "TMDB / Trakt.TV / Hledat seznam"
+
+msgctxt "#31714"
+msgid "TMDB / Trakt.TV / User lists"
+msgstr "TMDB / Trakt.TV / Seznamy uživatele"
+
+msgctxt "#31715"
+msgid "TMDB / Trakt.TV / Search user"
+msgstr "TMDB / Trakt.TV / Hledat uživatele"
+
+msgctxt "#31716"
+msgid "TMDB / My lists / New list"
+msgstr "TMDB / Moje seznamy / Nový seznam"
+
+msgctxt "#31717"
+msgid "TMDB / My lists / Edit list"
+msgstr "TMDB / Moje seznamy / Upravit seznam"
+
+msgctxt "#31718"
+msgid "TMDB / Watched"
+msgstr "TMDB / Zhlédnuté"
+
+msgctxt "#31719"
+msgid "TMDB / In progress"
+msgstr "TMDB / Rozkoukané"
+
+msgctxt "#31720"
+msgid "You are not signed in to Trakt.TV."
+msgstr "Nejste přihlášeni k Trakt.TV."
+
+msgctxt "#31721"
+msgid "The list is empty, you are not signed in."
+msgstr "Seznam je prázdný, nejste přihlášeni."
+
+msgctxt "#31722"
+msgid "The list is empty."
+msgstr "Seznam je prázdný."
+
+msgctxt "#31723"
+msgid "List"
+msgstr "Seznam"
+
+msgctxt "#31724"
+msgid "Trakt.TV list"
+msgstr "Trakt.TV seznam"
+
+msgctxt "#31725"
+msgid "The list could not be created."
+msgstr "Seznam se nepodařilo vytvořit."
+
+msgctxt "#31726"
+msgid "The list was created."
+msgstr "Seznam byl vytvořen."
+
+msgctxt "#31727"
+msgid "Trakt did not create the list."
+msgstr "Trakt seznam nevytvořil."
+
+msgctxt "#31728"
+msgid "The list could not be edited."
+msgstr "Seznam se nepodařilo upravit."
+
+msgctxt "#31729"
+msgid "Editing the list failed."
+msgstr "Úprava seznamu selhala."
+
+msgctxt "#31730"
+msgid "The list was edited."
+msgstr "Seznam byl upraven."
+
+msgctxt "#31731"
+msgid "Trakt did not edit the list."
+msgstr "Trakt seznam neupravil."
+
+msgctxt "#31732"
+msgid "The list could not be deleted."
+msgstr "Seznam se nepodařilo smazat."
+
+msgctxt "#31733"
+msgid "Deleting the list failed."
+msgstr "Smazání seznamu selhalo."
+
+msgctxt "#31734"
+msgid "The list was deleted."
+msgstr "Seznam byl smazán."
+
+msgctxt "#31735"
+msgid "Trakt did not delete the list."
+msgstr "Trakt seznam nesmazal."
+
+msgctxt "#31736"
+msgid "Public list was saved."
+msgstr "Veřejný seznam byl uložen."
+
+msgctxt "#31737"
+msgid "The list could not be saved."
+msgstr "Seznam se nepodařilo uložit."
+
+msgctxt "#31738"
+msgid "Public list was removed."
+msgstr "Veřejný seznam byl odebrán."
+
+msgctxt "#31739"
+msgid "The list was not in favorites."
+msgstr "Seznam nebyl v oblíbených."
+
+msgctxt "#31740"
+msgid "No favorite public lists are saved yet."
+msgstr "Zatím nejsou uložené žádné oblíbené veřejné seznamy."
+
+msgctxt "#31741"
+msgid "Popular"
+msgstr "Populární"
+
+msgctxt "#31742"
+msgid "Trending"
+msgstr "Trendující"
+
+msgctxt "#31743"
+msgid "Search list"
+msgstr "Hledat seznam"
+
+msgctxt "#31744"
+msgid "Search user"
+msgstr "Hledat uživatele"
+
+msgctxt "#31745"
+msgid "User lists"
+msgstr "Seznamy uživatele"
+
+msgctxt "#31746"
+msgid "Search / {query}"
+msgstr "Hledat / {query}"
+
+msgctxt "#31747"
+msgid "User / {query}"
+msgstr "Uživatel / {query}"
+
+msgctxt "#31748"
+msgid "Search user / {query}"
+msgstr "Hledat uživatele / {query}"
+
+msgctxt "#31749"
+msgid "Public Trakt.TV lists could not be loaded."
+msgstr "Veřejné seznamy Trakt.TV se nepodařilo načíst."
+
+msgctxt "#31750"
+msgid "Missing search text."
+msgstr "Chybí hledaný text."
+
+msgctxt "#31751"
+msgid "No users found."
+msgstr "Nebyli nalezeni žádní uživatelé."
+
+msgctxt "#31752"
+msgid "TMDB / Smart lists"
+msgstr "TMDB / Chytré seznamy"
+
+msgctxt "#31753"
+msgid "TMDB / Smart lists / New list"
+msgstr "TMDB / Chytré seznamy / Nový seznam"
+
+msgctxt "#31754"
+msgid "Filter parameters after ? or the full builder URL from Trakt.TV"
+msgstr "Parametry filtru za ? nebo celá builder URL z Trakt.TV"
+
+msgctxt "#31755"
+msgid "URL from the Create smart list window on Trakt.TV"
+msgstr "URL z okna Vytvořit chytrý seznam na Trakt.TV"
+
+msgctxt "#31756"
+msgid "Use the URL from the Create smart list window on Trakt.TV."
+msgstr "Použijte URL z okna Vytvořit chytrý seznam na Trakt.TV."
+
+msgctxt "#31757"
+msgid "The smart list could not be created."
+msgstr "Chytrý seznam se nepodařilo vytvořit."
+
+msgctxt "#31758"
+msgid "The smart list was created."
+msgstr "Chytrý seznam byl vytvořen."
+
+msgctxt "#31759"
+msgid "Trakt skipped the smart list. Check the filter URL."
+msgstr "Trakt chytrý seznam přeskočil. Zkontrolujte URL filtru."
+
+msgctxt "#31760"
+msgid "Trakt did not create the smart list."
+msgstr "Trakt chytrý seznam nevytvořil."
+
+msgctxt "#31761"
+msgid "List description (optional)"
+msgstr "Popis seznamu (volitelné)"
+
+msgctxt "#31762"
+msgid "Edit description"
+msgstr "Upravit popis"
+
+msgctxt "#31763"
+msgid "The item could not be loaded."
+msgstr "Položku se nepodařilo načíst."
+
+msgctxt "#31764"
+msgid "Save failed."
+msgstr "Uložení se nepodařilo."
+
+msgctxt "#31765"
+msgid "Lists could not be loaded."
+msgstr "Seznamy se nepodařilo načíst."
+
+msgctxt "#31766"
+msgid "You do not have any Trakt lists."
+msgstr "Nemáte žádné Trakt seznamy."
+
+msgctxt "#31767"
+msgid "Adding to Trakt list failed."
+msgstr "Vložení do Trakt seznamu selhalo."
+
+msgctxt "#31768"
+msgid "The item was added to the list."
+msgstr "Položka byla vložena do seznamu."
+
+msgctxt "#31769"
+msgid "The item is already in the list."
+msgstr "Položka už v seznamu je."
+
+msgctxt "#31770"
+msgid "Trakt did not add the item."
+msgstr "Trakt položku nepřidal."
+
+msgctxt "#31771"
+msgid "The item could not be removed."
+msgstr "Položku se nepodařilo odebrat."
+
+msgctxt "#31772"
+msgid "Removing from Trakt list failed."
+msgstr "Odebrání z Trakt seznamu selhalo."
+
+msgctxt "#31773"
+msgid "The item was removed from the list."
+msgstr "Položka byla odebrána ze seznamu."
+
+msgctxt "#31774"
+msgid "The item was not found in the list."
+msgstr "Položka v seznamu nebyla nalezena."
+
+msgctxt "#31775"
+msgid "Trakt did not remove the item."
+msgstr "Trakt položku neodebral."
+
+msgctxt "#31776"
+msgid "A list with this name already exists."
+msgstr "Seznam s tímto názvem už existuje."
+
+msgctxt "#31777"
+msgid "Renaming failed."
+msgstr "Přejmenování se nepodařilo."
+
+msgctxt "#31778"
+msgid "(list was not found)"
+msgstr "(seznam nebyl nalezen)"
+
+msgctxt "#31779"
+msgid "New list"
+msgstr "Nový seznam"
+
+msgctxt "#31780"
+msgid "Upload locally saved watched/in-progress items to Trakt.TV and sync Trakt state back to Ikarus?"
+msgstr "Nahrát lokálně uložené zhlédnuté/rozkoukané položky na Trakt.TV a doplnit stav z Traktu zpět do Ikarusu?"
+
+msgctxt "#31781"
+msgid "Some items could not be sent. We will try again next time."
+msgstr "Část položek se nepodařilo odeslat. Zkusíme to příště."
+
+msgctxt "#31782"
+msgid "Only the device that added this item to the list can remove it."
+msgstr "Tuto položku může odebrat jen zařízení, které ji do seznamu přidalo."
+
+msgctxt "#31783"
+msgid "Only this device can remove the item: {owner}."
+msgstr "Tuto položku může odebrat jen zařízení: {owner}."
+
+msgctxt "#31784"
+msgid "item"
+msgstr "položku"
+
+msgctxt "#31785"
+msgid "Sync completed."
+msgstr "Synchronizace dokončena."
+
+msgctxt "#31786"
+msgid "Sync is already running."
+msgstr "Synchronizace už právě běží."
+
+msgctxt "#31787"
+msgid "Sync failed."
+msgstr "Synchronizace se nepodařila."
+
+msgctxt "#31788"
+msgid "Syncing with Trakt.TV..."
+msgstr "Synchronizuji s Trakt.TV..."
+
+msgctxt "#31789"
+msgid "Done. Linked: {linked}, created on Trakt.TV: {created}."
+msgstr "Hotovo. Propojeno: {linked}, vytvořeno na Trakt.TV: {created}."
+
+msgctxt "#31790"
+msgid "Trakt.TV sync failed."
+msgstr "Synchronizace s Trakt.TV selhala."
+
+msgctxt "#31791"
+msgid "Remove item {title} from the list?"
+msgstr "Odebrat položku {title} ze seznamu?"
+
+msgctxt "#31792"
+msgid "Movie marked as watched"
+msgstr "Film označen jako zhlédnutý"
+
+msgctxt "#31793"
+msgid "Movie marked locally, Trakt will sync later"
+msgstr "Film označen lokálně, Trakt se doplní později"
+
+msgctxt "#31794"
+msgid "Marking failed: {error}"
+msgstr "Označení se nepodařilo: {error}"
+
+msgctxt "#31795"
+msgid "Movie mark was cleared"
+msgstr "Označení filmu bylo zrušeno"
+
+msgctxt "#31796"
+msgid "Movie removed locally, Trakt will sync later"
+msgstr "Film smazán lokálně, Trakt se upraví později"
+
+msgctxt "#31797"
+msgid "Clearing failed: {error}"
+msgstr "Zrušení se nepodařilo: {error}"
+
+msgctxt "#31798"
+msgid "Episode marked as watched"
+msgstr "Epizoda označena jako zhlédnutá"
+
+msgctxt "#31799"
+msgid "Episode marked locally, Trakt will sync later"
+msgstr "Epizoda označena lokálně, Trakt se doplní později"
+
+msgctxt "#31800"
+msgid "Episode marking failed: {error}"
+msgstr "Označení epizody se nepodařilo: {error}"
+
+msgctxt "#31801"
+msgid "Episode mark was cleared"
+msgstr "Označení epizody bylo zrušeno"
+
+msgctxt "#31802"
+msgid "Episode removed locally, Trakt will sync later"
+msgstr "Epizoda smazána lokálně, Trakt se upraví později"
+
+msgctxt "#31803"
+msgid "Episode clearing failed: {error}"
+msgstr "Zrušení epizody se nepodařilo: {error}"
+
+msgctxt "#31804"
+msgid "Season marked as watched"
+msgstr "Série označena jako zhlédnutá"
+
+msgctxt "#31805"
+msgid "Season marked locally, Trakt will sync later"
+msgstr "Série označena lokálně, Trakt se doplní později"
+
+msgctxt "#31806"
+msgid "Season marking failed: {error}"
+msgstr "Označení série se nepodařilo: {error}"
+
+msgctxt "#31807"
+msgid "Season mark was cleared"
+msgstr "Označení série bylo zrušeno"
+
+msgctxt "#31808"
+msgid "Season removed locally, Trakt will sync later"
+msgstr "Série smazána lokálně, Trakt se upraví později"
+
+msgctxt "#31809"
+msgid "Season clearing failed: {error}"
+msgstr "Zrušení série se nepodařilo: {error}"
+
+msgctxt "#31810"
+msgid "Series marked as watched ({count} ep.)"
+msgstr "Seriál označen jako zhlédnutý ({count} ep.)"
+
+msgctxt "#31811"
+msgid "Series marked locally ({count} ep.), Trakt will sync later"
+msgstr "Seriál označen lokálně ({count} ep.), Trakt se doplní později"
+
+msgctxt "#31812"
+msgid "Series marking failed: {error}"
+msgstr "Označení seriálu se nepodařilo: {error}"
+
+msgctxt "#31813"
+msgid "Series mark was cleared"
+msgstr "Označení seriálu bylo zrušeno"
+
+msgctxt "#31814"
+msgid "Series removed locally, Trakt will sync later"
+msgstr "Seriál smazán lokálně, Trakt se upraví později"
+
+msgctxt "#31815"
+msgid "Series clearing failed: {error}"
+msgstr "Zrušení seriálu se nepodařilo: {error}"
+
+msgctxt "#31816"
+msgid "(unknown action: {action})"
+msgstr "(neznámá akce: {action})"
+
+msgctxt "#31817"
+msgid "(missing required parameter: {name})"
+msgstr "(chybí povinný parametr: {name})"
+
+msgctxt "#31818"
+msgid "{title} / Page {page}/{total_pages}"
+msgstr "{title} / Strana {page}/{total_pages}"
+
+msgctxt "#31819"
+msgid "Sync failed: {error}"
+msgstr "Synchronizace selhala: {error}"
+
+msgctxt "#31820"
+msgid "Sync completed. Sent: {pushed}, existing: {skipped}"
+msgstr "Synchronizace dokončena. Odesláno: {pushed}, existující: {skipped}"
+
+msgctxt "#31821"
+msgid "Trakt.TV error: {error}"
+msgstr "Chyba Trakt.TV: {error}"
+
+msgctxt "#31822"
+msgid "Really delete list {name}?\n\nThis action deletes the whole list on Trakt.TV."
+msgstr "Opravdu smazat seznam {name}?\n\nTato akce smaže celý seznam na Trakt.TV."
+
+msgctxt "#31823"
+msgid "The list can only be deleted on the device where it was created: {owner}."
+msgstr "Seznam lze smazat jen na zařízení: {owner}."
+
+msgctxt "#31824"
+msgid "Delete list {name}?"
+msgstr "Smazat seznam {name}?"
+
+msgctxt "#31825"
+msgid "Add item to list {name}?"
+msgstr "Vložit položku do seznamu {name}?"
+
+msgctxt "#31826"
+msgid "Remove {title} from list {list_name}?"
+msgstr "Odebrat {title} ze seznamu {list_name}?"
+
+msgctxt "#31827"
+msgid "TMDB / My lists / {name}"
+msgstr "TMDB / Moje seznamy / {name}"
+
+msgctxt "#31828"
+msgid "TMDB / My lists / Smart lists / {name}"
+msgstr "TMDB / Moje seznamy / Chytré seznamy / {name}"
+
+msgctxt "#31829"
+msgid "Remove from list"
+msgstr "Odebrat ze seznamu"
+
+msgctxt "#31830"
+msgid "Next page ({page}/{total_pages}) >>"
+msgstr "Další stránka ({page}/{total_pages}) >>"
+
+msgctxt "#31831"
+msgid "<< First page"
+msgstr "<< První stránka"
+
+msgctxt "#31832"
+msgid "<< Previous page ({page}/{total_pages})"
+msgstr "<< Předchozí stránka ({page}/{total_pages})"
+
+msgctxt "#31833"
+msgid "Creating a new smart list is currently only available on the Trakt.TV website"
+msgstr "Vytvoření nového chytrého seznamu zatím pouze na webu Trakt.TV"
+
+msgctxt "#31834"
+msgid "Next episode"
+msgstr "Další epizoda"
+
+msgctxt "#31835"
+msgid "Add to custom list"
+msgstr "Vložit do vlastního seznamu"
+
+msgctxt "#31836"
+msgid "Mark as watched"
+msgstr "Označit jako zhlédnuté"
+
+msgctxt "#31837"
+msgid "Unmark movie"
+msgstr "Zrušit označení filmu"
+
+msgctxt "#31838"
+msgid "Information"
+msgstr "Informace"
+
+msgctxt "#31839"
+msgid "Mark series as watched"
+msgstr "Označit seriál jako zhlédnutý"
+
+msgctxt "#31840"
+msgid "Unmark series"
+msgstr "Zrušit označení seriálu"
+
+msgctxt "#31841"
+msgid "Mark season as watched"
+msgstr "Označit sérii jako zhlédnutou"
+
+msgctxt "#31842"
+msgid "Unmark season"
+msgstr "Zrušit označení série"
+
+msgctxt "#31843"
+msgid "Mark episode as watched"
+msgstr "Označit epizodu jako zhlédnutou"
+
+msgctxt "#31844"
+msgid "Unmark episode"
+msgstr "Zrušit označení epizody"
+
+msgctxt "#31845"
+msgid "Unknown name"
+msgstr "Bez jména"
+
+msgctxt "#31846"
+msgid "Search on YouTube"
+msgstr "Hledat na YouTube"
+
+msgctxt "#31847"
+msgid "Download image"
+msgstr "Stáhnout obrázek"
+
+msgctxt "#31848"
+msgid "Back"
+msgstr "Zpět"
+
+msgctxt "#31849"
+msgid "Delete"
+msgstr "Smazat"
+
+msgctxt "#31850"
+msgid "Save"
+msgstr "Uložit"
+
+msgctxt "#31851"
+msgid "Remove"
+msgstr "Odebrat"
+
+msgctxt "#31852"
+msgid "Done."
+msgstr "Hotovo."
+
+msgctxt "#31853"
+msgid "Rename list"
+msgstr "Přejmenovat seznam"
+
+msgctxt "#31854"
+msgid "Delete list"
+msgstr "Smazat seznam"
+
+msgctxt "#31855"
+msgid "Private"
+msgstr "Soukromý"
+
+msgctxt "#31856"
+msgid "Public"
+msgstr "Veřejný"
+
+msgctxt "#31857"
+msgid "Friends"
+msgstr "Pro přátele"
+
+msgctxt "#31858"
+msgid "Synchronize"
+msgstr "Synchronizovat"
+
+msgctxt "#31859"
+msgid "Edit Trakt list"
+msgstr "Upravit Trakt seznam"
+
+msgctxt "#31860"
+msgid "Delete Trakt list"
+msgstr "Smazat Trakt seznam"
+
+msgctxt "#31861"
+msgid "Remove from favorite public lists"
+msgstr "Odebrat z oblíbených veřejných seznamů"
+
+msgctxt "#31862"
+msgid "Save to favorite public lists"
+msgstr "Uložit do oblíbených veřejných seznamů"
+
+msgctxt "#31863"
+msgid "Remove from Trakt list"
+msgstr "Odebrat z Trakt seznamu"
+
+msgctxt "#31864"
+msgid "Original title"
+msgstr "Originální název"
+
+msgctxt "#31865"
+msgid "Genre"
+msgstr "Žánr"
+
+msgctxt "#31866"
+msgid "Country"
+msgstr "Země"
+
+msgctxt "#31867"
+msgid "Runtime"
+msgstr "Délka"
+
+msgctxt "#31868"
+msgid "Premiere"
+msgstr "Premiéra"
+
+msgctxt "#31869"
+msgid "TMDB rating"
+msgstr "Hodnocení TMDB"
+
+msgctxt "#31870"
+msgid "Cast"
+msgstr "Hrají"
+
+msgctxt "#31871"
+msgid "First air date"
+msgstr "První vysílání"
+
+msgctxt "#31872"
+msgid "Last air date"
+msgstr "Poslední vysílání"
+
+msgctxt "#31873"
+msgid "Status"
+msgstr "Stav"
+
+msgctxt "#31874"
+msgid "Number of seasons"
+msgstr "Počet sérií"
+
+msgctxt "#31875"
+msgid "Number of episodes"
+msgstr "Počet epizod"
+
+msgctxt "#31876"
+msgid "{label}: {value}"
+msgstr "{label}: {value}"
+
+msgctxt "#31877"
+msgid "{label}: {rating} ({count} votes)"
+msgstr "{label}: {rating} ({count} hlasů)"
+
+msgctxt "#31878"
+msgid "Continue from {time}"
+msgstr "Pokračovat od {time}"
+
+msgctxt "#31879"
+msgid "Play from beginning"
+msgstr "Přehrát od začátku"
+
+msgctxt "#31880"
+msgid "No custom lists have been created yet"
+msgstr "Zatím nejsou vytvořeny žádné moje seznamy"
+
+msgctxt "#31881"
+msgid "Preparing local state..."
+msgstr "Připravuji lokální stav..."
+
+msgctxt "#31882"
+msgid "No smart lists are defined on Trakt.TV."
+msgstr "Na Trakt.TV nejsou nadefinované žádné chytré seznamy."
+
+msgctxt "#31883"
+msgid "Smart list"
+msgstr "Chytrý seznam"
+
+msgctxt "#31884"
+msgid "Smart lists do not have a valid address."
+msgstr "Chytré seznamy nemají platnou adresu."
+
+msgctxt "#31885"
+msgid "Smart list does not have a valid address."
+msgstr "Chytrý seznam nemá platnou adresu."
+
+msgctxt "#31886"
+msgid "Smart list items could not be loaded."
+msgstr "Položky chytrého seznamu se nepodařilo načíst."
+
+msgctxt "#31887"
+msgid "List was created locally and on Trakt.TV."
+msgstr "Seznam byl vytvořen interně i na Trakt.TV."
+
+msgctxt "#31888"
+msgid "List was created."
+msgstr "Seznam byl vytvořen."
+
+msgctxt "#31889"
+msgid "List was created locally. Trakt.TV will be synchronized later."
+msgstr "Seznam byl vytvořen interně. Trakt.TV se dosynchronizuje později."
+
+msgctxt "#31890"
+msgid "The list can only be deleted on the device where it was created."
+msgstr "Seznam lze smazat jen na zařízení, kde byl vytvořen."
+
+msgctxt "#31891"
+msgid "The list can only be deleted on device: {owner}."
+msgstr "Seznam lze smazat jen na zařízení: {owner}."
+
+msgctxt "#31892"
+msgid "List was deleted locally and on Trakt.TV."
+msgstr "Seznam byl smazán interně i na Trakt.TV."
+
+msgctxt "#31893"
+msgid "List was deleted."
+msgstr "Seznam byl smazán."
+
+msgctxt "#31894"
+msgid "List was deleted locally. Trakt.TV will be synchronized later."
+msgstr "Seznam byl smazán interně. Trakt.TV se dosynchronizuje později."
+
+msgctxt "#31895"
+msgid "The list can only be renamed on the device where it was created."
+msgstr "Seznam lze přejmenovat jen na zařízení, kde byl vytvořen."
+
+msgctxt "#31896"
+msgid "The list can only be renamed on device: {owner}."
+msgstr "Seznam lze přejmenovat jen na zařízení: {owner}."
+
+msgctxt "#31897"
+msgid "List was updated locally and on Trakt.TV."
+msgstr "Seznam byl upraven interně i na Trakt.TV."
+
+msgctxt "#31898"
+msgid "List was updated."
+msgstr "Seznam byl upraven."
+
+msgctxt "#31899"
+msgid "List was updated locally. Trakt.TV will be synchronized later."
+msgstr "Seznam byl upraven interně. Trakt.TV se dosynchronizuje později."
+
+msgctxt "#31900"
+msgid "The list contains no supported movies or series."
+msgstr "V seznamu nejsou podporované filmy ani seriály."
+
+msgctxt "#31901"
+msgid "List items could not be loaded."
+msgstr "Položky seznamu se nepodařilo načíst."
+
+msgctxt "#31902"
+msgid "{count} items"
+msgstr "{count} pol."
+
+msgctxt "#31903"
+msgid "{count} lists"
+msgstr "{count} seznamů"
+
+msgctxt "#31904"
+msgid "{count} matches"
+msgstr "{count} shod"
+
+msgctxt "#31905"
+msgid "unknown"
+msgstr "nezjištěno"
+
+msgctxt "#31906"
+msgid "User: {username}\nPublic lists: {count}"
+msgstr "Uživatel: {username}\nVeřejné seznamy: {count}"
+
+msgctxt "#31907"
+msgid "Items: {count}"
+msgstr "Položek: {count}"
+
+msgctxt "#31908"
+msgid "Likes: {count}"
+msgstr "Lajku: {count}"
+
+msgctxt "#31909"
+msgid "Comments: {count}"
+msgstr "Komentaru: {count}"
+
+msgctxt "#31910"
+msgid "Trakt.TV list does not have a valid address."
+msgstr "Seznam Trakt.TV nemá platnou adresu."
+
+msgctxt "#31911"
+msgid "TMDB / Trakt.TV / {name} / Page {page}"
+msgstr "TMDB / Trakt.TV / {name} / Strana {page}"
+
+msgctxt "#31912"
+msgid "This section is under construction."
+msgstr "Na této sekci se pracuje."
+
+msgctxt "#31913"
+msgid "Series"
+msgstr "Seriál"
+
+msgctxt "#31914"
+msgid "Season {season}"
+msgstr "Série {season}"
+
+msgctxt "#31915"
+msgid "Next page ({page}/{total_pages})"
+msgstr "Další stránka ({page}/{total_pages})"
+
+msgctxt "#31916"
+msgid "Next page ({page})"
+msgstr "Další stránka ({page})"
+
+msgctxt "#31917"
+msgid "Known for"
+msgstr "Známý/á pro"
+
+msgctxt "#31918"
+msgid "{count} votes"
+msgstr "{count} hlasů"
+
+msgctxt "#31919"
+msgid "Searching for the next episode source..."
+msgstr "Hledám zdroj pro další díl..."
+
+msgctxt "#31920"
+msgid "Next episode source is ready: S{season:02d}E{episode:02d}"
+msgstr "Připraven další díl S{season:02d}E{episode:02d}"
+
+msgctxt "#31921"
+msgid "Next episode source is ready"
+msgstr "Připraven další díl"
+
+msgctxt "#31922"
+msgid "Next episode or source was not found"
+msgstr "Další díl nebo zdroj nenalezen"
+
+msgctxt "#31923"
+msgid "Searching for the next episode failed"
+msgstr "Hledání dalšího dílu selhalo"
+
+msgctxt "#31924"
+msgid "Next episode"
+msgstr "Další epizoda"
+
+msgctxt "#31925"
+msgid "Time until episode ends - {time}"
+msgstr "Čas do konce epizody - {time}"
+
+msgctxt "#31926"
+msgid "Showing prompt: {label}"
+msgstr "Zobrazuji výzvu: {label}"
+
+msgctxt "#31927"
+msgid "Do you want to continue with the next episode?"
+msgstr "Chcete pokračovat dalším dílem?"
+
+msgctxt "#31928"
+msgid "Next episode was not started, playback ended before the end"
+msgstr "Další epizoda nespuštěna, přehrávání bylo ukončeno před koncem"
+
+msgctxt "#31929"
+msgid "Next episode was not started, source was not ready"
+msgstr "Další epizoda nespuštěna, zdroj nebyl připraven"
+
+msgctxt "#31930"
+msgid "Next episode was not prepared"
+msgstr "Další epizoda nebyla připravena"
+
+msgctxt "#31931"
+msgid "The stream URL could not be obtained."
+msgstr "Nepodařilo se získat stream URL."
+
+msgctxt "#31932"
+msgid "Page:\n{url}"
+msgstr "Stránka:\n{url}"
+
+msgctxt "#31933"
+msgid "The direct link could not be obtained from the page (free path).\nThe page did not contain 'var sources' with a 'file/src' item.\n\nURL:\n{url}"
+msgstr "Nepodařilo se získat přímý odkaz ze stránky (FREE cesta).\nNa stránce se nepodařilo najít 'var sources' s položkou 'file/src'.\n\nURL:\n{url}"
+
+msgctxt "#31934"
+msgid "Direct sources could not be obtained from detail/embed.\nNo <video>/<source>, direct links in <script>, or working download redirect were found.\n\nURL:\n{url}"
+msgstr "Nepodařilo se získat přímé zdroje z detailu / embedu.\nNenašel jsem <video>/<source>, přímé odkazy ve <script>, ani funkční download redirect.\n\nURL:\n{url}"
+
+msgctxt "#31935"
+msgid "Playback is not possible because the stream URL could not be obtained.\n\nPage:\n{url}"
+msgstr "Přehrávání není možné, protože se nepodařilo získat stream URL.\n\nStránka:\n{url}"
+
+msgctxt "#31936"
+msgid "The WebShare source could not be started through film.py.\n\nID:\n{video_id}\n\nError:\n{error}"
+msgstr "Nepodařilo se spustit WebShare zdroj přes film.py.\n\nID:\n{video_id}\n\nChyba:\n{error}"
+
+msgctxt "#31937"
+msgid "Hellspy stream is not responding right now. Try another source."
+msgstr "Stream z Hellspy momentálně neodpovídá. Zkuste jiný zdroj."
+
+msgctxt "#31938"
+msgid "PERSON"
+msgstr "OSOBA"
+
+msgctxt "#31939"
+msgid "FILM"
+msgstr "FILM"
+
+msgctxt "#31940"
+msgid "SERIES"
+msgstr "SERIÁL"
+
+msgctxt "#31941"
+msgid "Genre"
+msgstr "Žánr"
+
+msgctxt "#31942"
+msgid "Country"
+msgstr "Země"
+
+msgctxt "#31943"
+msgid "Acting"
+msgstr "Herectví"
+
+msgctxt "#31944"
+msgid "Directing"
+msgstr "Režie"
+
+msgctxt "#31945"
+msgid "Writing"
+msgstr "Scénář"
+
+msgctxt "#31946"
+msgid "Production"
+msgstr "Produkce"
+
+msgctxt "#31947"
+msgid "Camera"
+msgstr "Kamera"
+
+msgctxt "#31948"
+msgid "Music / sound"
+msgstr "Hudba / zvuk"
+
+msgctxt "#31949"
+msgid "Editing"
+msgstr "Střih"
+
+msgctxt "#31950"
+msgid "Art"
+msgstr "Výtvarno"
+
+msgctxt "#31951"
+msgid "Costume & Make-Up"
+msgstr "Masky a kostýmy"
+
+msgctxt "#31952"
+msgid "Visual Effects"
+msgstr "Vizuální efekty"
+
+msgctxt "#31953"
+msgid "Lighting"
+msgstr "Světla"
+
+msgctxt "#31954"
+msgid "Creator"
+msgstr "Tvůrce"
+
+msgctxt "#31955"
+msgid "Other professions"
+msgstr "Další profese"
+
+msgctxt "#31956"
+msgid "Possible match only by episode title without a strong series title match."
+msgstr "Možná shoda jen podle názvu epizody bez silné shody názvu seriálu."
+
+msgctxt "#31957"
+msgid "The file name is kept in its original form."
+msgstr "Název souboru je ponechaný v původním tvaru."
+
+msgctxt "#31958"
+msgid "Kodi device"
+msgstr "Kodi zařízení"
+
+msgctxt "#31959"
+msgid "Provider"
+msgstr "Provider"
+
+msgctxt "#31960"
+msgid "Type"
+msgstr "Typ"
+
+msgctxt "#31961"
+msgid "Quality"
+msgstr "Kvalita"
+
+msgctxt "#31962"
+msgid "Codec"
+msgstr "Kodek"
+
+msgctxt "#31963"
+msgid "Resolution"
+msgstr "Rozlišení"
+
+msgctxt "#31964"
+msgid "Uploaded"
+msgstr "Nahráno"
+
+msgctxt "#31965"
+msgid "Subtitles"
+msgstr "Titulky"
+
+msgctxt "#31966"
+msgid "Available"
+msgstr "Dostupné"
+
+msgctxt "#31967"
+msgid "Password"
+msgstr "Heslo"
+
+msgctxt "#31968"
+msgid "Removed"
+msgstr "Odstraněno"
+
+msgctxt "#31969"
+msgid "Removal reason"
+msgstr "Důvod odstranění"
+
+msgctxt "#31970"
+msgid "Match"
+msgstr "Shoda"
+
+msgctxt "#31971"
+msgid "Query"
+msgstr "Dotaz"
+
+msgctxt "#31972"
+msgid "Matching reasons"
+msgstr "Důvody shody"
+
+msgctxt "#31973"
+msgid "Yes"
+msgstr "Ano"
+
+msgctxt "#31974"
+msgid "No"
+msgstr "Ne"
+
+msgctxt "#31975"
+msgid "{provider} group: {count} identical sources"
+msgstr "{provider} skupina: {count} totožné zdroje"
+
+msgctxt "#31976"
+msgid "WebShare group: {count} identical sources"
+msgstr "WebShare skupina: {count} totožné zdroje"
+
+msgctxt "#31977"
+msgid "Open to show individual sources."
+msgstr "Po rozkliknutí se zobrazí jednotlivé zdroje."
+
+msgctxt "#31978"
+msgid "Open to show individual files."
+msgstr "Po rozkliknutí se zobrazí jednotlivé soubory."
+
+msgctxt "#31979"
+msgid "My Trakt.TV lists could not be loaded."
+msgstr "Moje seznamy Trakt.TV se nepodařilo načíst."
+
+msgctxt "#31980"
+msgid "Anticipated"
+msgstr "Očekávané"
+
+msgctxt "#31981"
+msgid "The item was saved locally and on Trakt.TV."
+msgstr "Položka byla uložena lokálně i na Trakt.TV."
+
+msgctxt "#31982"
+msgid "The item was updated."
+msgstr "Položka byla aktualizována."
+
+msgctxt "#31983"
+msgid "The item was saved."
+msgstr "Položka byla uložena."
+
+msgctxt "#31984"
+msgid "The item was saved locally. Trakt.TV will be synchronized later."
+msgstr "Položka byla uložena lokálně. Trakt.TV se dosynchronizuje později."
+
+msgctxt "#31985"
+msgid "The item was removed locally and from Trakt.TV."
+msgstr "Položka byla odebrána lokálně i z Trakt.TV."
+
+msgctxt "#31986"
+msgid "The item was removed."
+msgstr "Položka byla odebrána."
+
+msgctxt "#31987"
+msgid "The item was removed locally. Trakt.TV will be synchronized later."
+msgstr "Položka byla odebrána lokálně. Trakt.TV se dosynchronizuje později."
+
+msgctxt "#31988"
+msgid "Copyright"
+msgstr "Copyright"
+
+msgctxt "#31989"
+msgid "FPS"
+msgstr "FPS"
+
+msgctxt "#31990"
+msgid "Bitrate"
+msgstr "Bitrate"
+
+msgctxt "#31991"
+msgid "Video stream"
+msgstr "Video stream"
+
+msgctxt "#31992"
+msgid "Audio stream"
+msgstr "Audio stream"
+
+msgctxt "#31993"
+msgid "Language"
+msgstr "Jazyk"
+
+msgctxt "#31994"
+msgid "Continue"
+msgstr "Pokračovat"
+
+msgctxt "#31995"
+msgid "Stop"
+msgstr "Ukončit"
